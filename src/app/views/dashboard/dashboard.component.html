@@ -1,0 +1,103 @@
+<!-- Page -->
+
+<div class="page">
+  <div class="page-header">
+    <h1 class="page-title">{{title}}</h1>
+  </div>
+  <div class="page-content container-fluid">
+
+    <div class="row" data-plugin="matchHeight" data-by-row="true">
+      <div class="col-12">
+        <div class="panel panel-bordered">
+          <div class="panel-heading">
+            <div class="row">
+              <div class="col-2">
+                <div class="dropdown pull-right mt-10 ml-10">
+                  <button type="button" class="btn btn-primary dropdown-toggle" id="exampleColorDropdown1"
+                          data-toggle="dropdown" aria-expanded="false">
+                    Scegli periodo
+                  </button>
+                  <div class="dropdown-menu" aria-labelledby="exampleColorDropdown1" role="menu"
+                       x-placement="bottom-start"
+                       style="position: absolute; transform: translate3d(0px, 36px, 0px); top: 0px; left: 0px; will-change: transform;">
+                    <a *ngFor="let item of pippo; let i = index" class="dropdown-item" (click)="setPeriodo(i)"
+                       role="menuitem">
+                      {{item}}</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-10">
+                <h1 class="panel-title">{{subtitle}}</h1>
+              </div>
+            </div>
+          </div>
+          <div class="panel-body">
+            <div *ngFor="let item of tbdata; let i = index">
+              <h4>{{substitle[i]}}</h4>
+              <div class="row h-250 mb-20">
+                <div class="col-8">
+                  <ngx-datatable
+                    #tb1
+                    class="dsmaterial12"
+                    [columnMode]="'flex'"
+                    [headerHeight]="50"
+                    [footerHeight]="0"
+                    [rowHeight]="'auto'"
+                    [limit]="10"
+                    [rows]="item">
+                    <ngx-datatable-column prop="Header" name="" [flexGrow]="3">
+                      <ng-template let-value="value" ngx-datatable-cell-template>
+                        <strong>{{value}}</strong>
+                      </ng-template>
+                    </ngx-datatable-column>
+                    <ngx-datatable-column prop="Farmacia" name="Farmacia" [flexGrow]="2"
+                                          cellClass="bg-primary-200"
+                                          headerClass="bg-primary-200">
+                      <ng-template let-value="value" ngx-datatable-cell-template>
+                        {{value | number}}
+                      </ng-template>
+                    </ngx-datatable-column>
+                    <ngx-datatable-column prop="Mercato" name="Mercato" [flexGrow]="2"
+                                          cellClass="bg-apogreen-200"
+                                          headerClass="bg-apogreen-200">
+                      <ng-template let-value="value" ngx-datatable-cell-template>
+                        {{value | number}}
+                      </ng-template>
+                    </ngx-datatable-column>
+                    <ngx-datatable-column prop="Cluster" name="Cluster" [flexGrow]="2"
+                                          cellClass="bg-light-apogreen-200"
+                                          headerClass="bg-light-apogreen-200">
+                      <ng-template let-value="value" ngx-datatable-cell-template>
+                        {{value | number}}
+                      </ng-template>
+                    </ngx-datatable-column>
+                  </ngx-datatable>
+                </div>
+                <div class="col-4">
+                  <ngx-charts-bar-vertical
+                    [scheme]="colorFMC"
+                    [results]="isto[i]"
+                    [animations]="true"
+                    [gradient]="false"
+                    [yScaleMax]="0"
+                    [yScaleMin]="0"
+                    [xAxis]="true"
+                    [yAxis]="true"
+                    [legend]="false"
+                    [tooltipDisabled]="false"
+                    [showGridLines]="true"
+                    [barPadding]="10">
+                  </ngx-charts-bar-vertical>
+                </div>
+              </div>
+              <hr>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Page Content -->
+</div>

@@ -1,0 +1,252 @@
+<!-- Page -->
+<div class="page">
+  <div class="page-header">
+    <button type="button" class="btn btn-icon btn-dark btn-round float-right" (click)="back()"><i
+      class="icon fa-arrow-left" aria-hidden="true"></i></button>
+    <h1 class="page-title">{{title}}</h1>
+
+  </div>
+  <div class="page-content container-fluid">
+
+    <div class="row" data-plugin="matchHeight" data-by-row="true">
+      <!--<div class="{{checkmenu()?'col-10':'col-12'}}">-->
+      <div class="col-12">
+    <!--Pannello grafici -->
+    <div class="panel panel-bordered">
+      <div class="panel-body">
+        <div class="row pb-50">
+          <div class="col-6 h-300">
+            <h4>Fatturato comulato Farmacia</h4>
+            <ngx-charts-bar-vertical-2d
+              *ngIf="loaded"
+              [scheme]="istocolor"
+              [results]="isto1"
+              [xAxis]="true"
+              [yAxis]="true"
+              [roundEdges]="true"
+              [showGridLines]="true">
+            </ngx-charts-bar-vertical-2d>
+          </div>
+          <div class="col-6 h-300">
+            <h4>Andamendo temporale Fatturato Farmacia</h4>
+            <ngx-charts-area-chart
+              *ngIf="loaded"
+              [scheme]="istocolor"
+              [results]="isto2"
+              [legendTitle]="'Legenda'"
+              [xAxis]="true"
+              [yAxis]="true"
+              [legend]="true"
+              [curve]="curve"
+            >
+            </ngx-charts-area-chart>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <!--Pannello dati -->
+    <div class="panel panel-bordered">
+      <div class="panel-heading">
+        <div class="row">
+          <div class="col-12">
+            <ul class="nav nav-tabs" *ngIf="loaded">
+              <li class="nav-item"><a class="nav-link {{classeperiodo === 0?'active':''}}" data-toggle="tab"
+                                      (click)="setPeriodo(0)">Report
+                annuale</a></li>
+              <li class="nav-item"><a class="nav-link {{classeperiodo === 1?'active':''}}" data-toggle="tab"
+                                      (click)="setPeriodo(1)">Report
+                bimestrale</a></li>
+              <li class="nav-item"><a class="nav-link {{classeperiodo === 2?'active':''}}" data-toggle="tab"
+                                      (click)="setPeriodo(2)">Report
+                progressivo</a></li>
+              <li class="nav-item"><a class="nav-link {{classeperiodo === 3?'active':''}}" data-toggle="tab"
+                                      (click)="setPeriodo(3)">Report
+                ultimo mese</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <div class="row pb-40">
+          <div class="col-12">
+            <h3 *ngIf="loaded">{{titoloperiodo}}</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 ">
+            <div class="row  justify-content-center h-250">
+              <div class="col-8">
+                <ngx-charts-advanced-pie-chart
+                  *ngIf="loaded"
+                  [scheme]="colorScheme2"
+                  [results]="tortaf"
+                  [label]="'Fatturato Farmacia'"
+                  [gradient]="true">
+                </ngx-charts-advanced-pie-chart>
+              </div>
+            </div>
+            <div class="row pb-40 h-250">
+              <div class="col-6">
+                <ngx-charts-advanced-pie-chart
+                  *ngIf="loaded"
+                  [label]="'Fatturato Mercato'"
+                  [scheme]="colorScheme2"
+                  [results]="tortam"
+                  [gradient]="true">
+                </ngx-charts-advanced-pie-chart>
+              </div>
+              <div class="col-6">
+                <ngx-charts-advanced-pie-chart
+                  *ngIf="loaded"
+                  [label]="'Fatturato Cluster'"
+                  [scheme]="colorScheme2"
+                  [results]="tortac"
+                  [gradient]="true">
+                </ngx-charts-advanced-pie-chart>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12 text-right">
+                <button (click)="cambiamercato(true)" class="btn btn-lg bg-apogreen-200 white ml-10">Mercato</button>
+                <button (click)="cambiamercato(false)" class="btn btn-lg bg-light-apogreen-200 white ml-10">Cluster
+                </button>
+              </div>
+            </div>
+
+
+            <div class="row pb-30" *ngIf="mercato">
+              <div class="col-12">
+                <h4>Farmacia / Mercato</h4>
+                <ngx-datatable
+                  #table1
+                  class="dsmaterial fullscreen"
+                  [rows]="tbdata"
+                  [loadingIndicator]="!loaded"
+                  [columns]="tbc1"
+                  [columnMode]="'flex'"
+                  [headerHeight]="40"
+                  [limit]="10"
+                  [footerHeight]="40"
+                  [rowHeight]="'auto'"
+                  [reorderable]="true">
+                </ngx-datatable>
+              </div>
+            </div>
+            <div class="row pb-30" *ngIf="!mercato">
+              <div class="col-12">
+                <h4>Farmacia / Cluster</h4>
+                <ngx-datatable
+                  #table2
+                  class="dsmaterial fullscreen"
+                  [rows]="tbdata"
+                  [loadingIndicator]="!loaded"
+                  [columns]="tbc2"
+                  [columnMode]="'flex'"
+                  [headerHeight]="40"
+                  [limit]="10"
+                  [footerHeight]="40"
+                  [rowHeight]="'auto'"
+                  [reorderable]="true">
+                </ngx-datatable>
+
+              </div>
+            </div>
+
+            <hr class="border-dark">
+            <div class="row pb-30">
+              <div class="col-12">
+                <h4>Referenze e ditte</h4>
+                <ngx-datatable
+                  #table3
+                  class="dsmaterial fullscreen"
+                  [rows]="tbdata"
+                  [loadingIndicator]="!loaded"
+                  [columns]="tbc3"
+                  [columnMode]="'flex'"
+                  [headerHeight]="40"
+                  [limit]="10"
+                  [footerHeight]="40"
+                  [rowHeight]="'auto'"
+                  [reorderable]="true">
+                </ngx-datatable>
+
+              </div>
+            </div>
+          <!--  <div class="row">
+              <div class="col-6 text-right"><span class="mr-5 ">Dettagli: </span></div>
+              <div class="col-6">
+                <button
+                  class="btn btn-primary btn-xs mr-5"
+                  [routerLink]="['/referenze', id, 'PARAFARMACO']">Parafarmaco
+                </button>
+                <button
+                  class="btn btn-primary btn-xs  mr-5"
+                  [routerLink]="['/referenze', id, 'OTCSOP']">Otcsop
+                </button>
+                <button
+                  class="btn btn-primary btn-xs mr-5"
+                  [routerLink]="['/referenze', id, 'COMMERCIALE']">Commerciale
+                </button>
+                <button
+                  class="btn btn-primary btn-xs  mr-5"
+                  [routerLink]="['/referenze', id, 'ETICO']">Etico
+                </button>
+                <button class="btn btn-primary btn-xs mr-5"
+                        [routerLink]="['/referenze', id, 'TOTALE' | uppercase]">Totale
+                </button>
+              </div>
+
+            </div>-->
+          </div>
+        </div>
+      </div>
+    </div>
+
+      </div>
+      <!-- <div class="col-2" *ngIf="checkmenu()">
+         <div class="nav-tabs-vertical">
+           <ul class="nav nav-tabs nav-tabs-line">
+             <li class="nav-item" *ngFor="let item of menuino[0].subs">
+               <a class="nav-link" routerLink="/merceologica/{{item.codice}}/{{item.nome}}">
+                 {{item.nome | titlecase}}</a>
+             </li>
+           </ul>
+         </div>
+       </di      <!--<pre>{{isto1 | json}}</pre>
+         <div class="card card-shadow card-responsive" id="widgetLineareaColor">
+           <div class="card-block p-0">
+             <div class="pt-30 p-30" style="height:calc(100% - 50px);">
+
+               &lt;!&ndash;  <pre>{{dati | json}}</pre>
+               <pre>{{datiDM |  json}}</pre>
+                <pre>{{datiDM  |  json}}</pre>
+                <pre>{{datiPC[0]  |  json}}</pre>
+                <pre>{{datiPM  |  json}}</pre>&ndash;&gt;
+             </div>
+           </div>
+         </div>
+      -->
+
+    </div>
+  </div>
+</div>
+<!-- End Page Content -->
+<!-- End Page Content -->
+
+<ng-template #prova let-row="row" let-value="value">
+  <i class="{{value}}"></i>
+</ng-template>
+<ng-template #prova2 let-row="row" let-value="value">
+  {{value | number:'.1-2' }}
+</ng-template>
+<ng-template #prova3 let-row="row" let-value="value">
+  <button class="btn btn-xs btn-primary"
+          [routerLink]="['/merceologicaref', id, value | uppercase]">
+    <i class="icon fa-list"></i>
+  </button>
+</ng-template>
+<ng-template #prova4 let-row="row" let-value="value">
+  <span class="{{checkName(value)?'pl-10':''}}">{{value}}</span>
+</ng-template>
+

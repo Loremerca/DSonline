@@ -1,0 +1,360 @@
+{
+  "Esigenze": [
+    {
+      "nome": "AGING CARE DONNA",
+      "codice": 3720
+    },
+    {
+      "nome": "AGING CARE UOMO",
+      "codice": 3680
+    },
+    {
+      "nome": "ANTIACIDI",
+      "codice": 3090
+    },
+    {
+      "nome": "ANTICELLULITE",
+      "codice": 3210
+    },
+    {
+      "nome": "ANTIDIARROICI",
+      "codice": 3600
+    },
+    {
+      "nome": "ANTIEMORROIDALI",
+      "codice": 3250
+    },
+    {
+      "nome": "ANTIFLATULENZA",
+      "codice": 2970
+    },
+    {
+      "nome": "ANTINFIAMMATORI, ANTIREUMATICI E ANTITRAUMATICI",
+      "codice": 3410
+    },
+    {
+      "nome": "ANTIPERTENSIVI",
+      "codice": 3330
+    },
+    {
+      "nome": "ANTIPIRETICI, ANALGESICI E ANTINFLUENZALI",
+      "codice": 3370
+    },
+    {
+      "nome": "ANTISTAMINICI",
+      "codice": 3640
+    },
+    {
+      "nome": "ANTIVARICOSI",
+      "codice": 2770
+    },
+    {
+      "nome": "BENESSERE CARDIOVASCOLARE (OMEGA 3)",
+      "codice": 3760
+    },
+    {
+      "nome": "BRONCOPOLMONARI",
+      "codice": 2850
+    },
+    {
+      "nome": "COLLIRI",
+      "codice": 3130
+    },
+    {
+      "nome": "DECONGESTIONANTI NASALI",
+      "codice": 3050
+    },
+    {
+      "nome": "DIGESTIVI",
+      "codice": 3170
+    },
+    {
+      "nome": "DIMAGRANTI",
+      "codice": 2930
+    },
+    {
+      "nome": "FERMENTI E FLORA INTESTINALE",
+      "codice": 3450
+    },
+    {
+      "nome": "IMMUNOSTIMOLANTI",
+      "codice": 3490
+    },
+    {
+      "nome": "IPOCOLESTEROMIZZANTI",
+      "codice": 3290
+    },
+    {
+      "nome": "LASSATIVI",
+      "codice": 2730
+    },
+    {
+      "nome": "MAL DI GOLA",
+      "codice": 3010
+    },
+    {
+      "nome": "SALUTE DELLA BOCCA",
+      "codice": 3530
+    },
+    {
+      "nome": "SEDATIVI",
+      "codice": 2810
+    },
+    {
+      "nome": "TONIFICANTI",
+      "codice": 2890
+    },
+    {
+      "nome": "VIE URINARIE",
+      "codice": 3570
+    }
+  ],
+  "Merceologica": [
+    {
+      "nome": "GLOBALE",
+      "codice": 10
+    },
+    {
+      "nome": "ETICO",
+      "codice": 20,
+      "subs": [
+        {
+          "nome": "FASCIA A",
+          "codice": 30,
+          "subs": [
+            {
+              "nome": "MARCA (A)",
+              "codice": 31
+            },
+            {
+              "nome": "EQUIVALENTE (A)",
+              "codice": 32
+            }
+          ]
+        },
+        {
+          "nome": "FASCIA C",
+          "codice": 40,
+          "subs": [
+            {
+              "nome": "MARCA",
+              "codice": 41
+            },
+            {
+              "nome": "EQUIVALENTE",
+              "codice": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "COMMERCIALE",
+      "codice": 60,
+      "subs": [
+        {
+          "nome": "AUTOMEDICAZIONE",
+          "codice": 100,
+          "subs": [
+            {
+              "nome": "GRUPPO ABOCA",
+              "codice": 520
+            },
+            {
+              "nome": "FARMACO",
+              "codice": 65,
+              "subs": [
+                {
+                  "nome": "SOP",
+                  "codice": 70
+                },
+                {
+                  "nome": "OTC",
+                  "codice": 80
+                }
+              ]
+            },
+            {
+              "nome": "FITOTERAPICI",
+              "codice": 110
+            },
+            {
+              "nome": "INTEGRATORI",
+              "codice": 140,
+              "subs": [
+                {
+                  "nome": "MULTIVITAMINICI E SALI MINERALI",
+                  "codice": 150
+                },
+                {
+                  "nome": "ALTRI INTEGRATORI",
+                  "codice": 160
+                }
+              ]
+            },
+            {
+              "nome": "OMEOPATIA",
+              "codice": 220
+            },
+            {
+              "nome": "AUTOMED ALTRO",
+              "codice": 215
+            }
+          ]
+        },
+        {
+          "nome": "ALIMENTI",
+          "codice": 170,
+          "subs": [
+            {
+              "nome": "ALIMENTI INFANZIA",
+              "codice": 200
+            },
+            {
+              "nome": "LINEA E SPORT",
+              "codice": 190
+            },
+            {
+              "nome": "SPECIALI",
+              "codice": 180
+            },
+            {
+              "nome": "ALIMENTI ALTRO",
+              "codice": 210
+            }
+          ]
+        },
+        {
+          "nome": "DERMOCOSMESI",
+          "codice": 231,
+          "subs": [
+            {
+              "nome": "LABBRA",
+              "codice": 300
+            },
+            {
+              "nome": "MANI E PIEDI",
+              "codice": 310
+            },
+            {
+              "nome": "PULIZIA VISO",
+              "codice": 250
+            },
+            {
+              "nome": "SOLARI",
+              "codice": 280
+            },
+            {
+              "nome": "TRATTAMENTI CORPO",
+              "codice": 260
+            },
+            {
+              "nome": "TRATTAMENTI VISO",
+              "codice": 240
+            },
+            {
+              "nome": "TRUCCO",
+              "codice": 270
+            },
+            {
+              "nome": "UOMO",
+              "codice": 290
+            },
+            {
+              "nome": "DERMO ALTRO",
+              "codice": 305
+            }
+          ]
+        },
+        {
+          "nome": "IGIENE",
+          "codice": 232,
+          "subs": [
+            {
+              "nome": "IGIENE CAPELLI",
+              "codice": 320
+            },
+            {
+              "nome": "IGIENE CORPO",
+              "codice": 350
+            },
+            {
+              "nome": "IGIENE INFANZIA",
+              "codice": 360
+            },
+            {
+              "nome": "IGIENE INTIMA",
+              "codice": 340
+            },
+            {
+              "nome": "IGIENE ORALE",
+              "codice": 330
+            },
+            {
+              "nome": "IGIENE ALTRO",
+              "codice": 370
+            }
+          ]
+        },
+        {
+          "nome": "SANITARI",
+          "codice": 380,
+          "subs": [
+            {
+              "nome": "APPARECCHI MEDICALI",
+              "codice": 400
+            },
+            {
+              "nome": "CALZATURE",
+              "codice": 470
+            },
+            {
+              "nome": "CALZE",
+              "codice": 460
+            },
+            {
+              "nome": "CONTRACCEZIONE",
+              "codice": 440
+            },
+            {
+              "nome": "DIAGNOSTICI",
+              "codice": 430
+            },
+            {
+              "nome": "MEDICAZIONE",
+              "codice": 390
+            },
+            {
+              "nome": "ORTOPEDIA",
+              "codice": 410
+            },
+            {
+              "nome": "OTTICA",
+              "codice": 450
+            },
+            {
+              "nome": "PUERICULTURA",
+              "codice": 420
+            },
+            {
+              "nome": "SANITARI ALTRO",
+              "codice": 480
+            }
+          ]
+        },
+        {
+          "nome": "VETERINARIA",
+          "codice": 500
+        },
+        {
+          "nome": "ALTRO",
+          "codice": 510
+        }
+      ]
+    },
+    {
+      "nome": "PRESIDI MUTUA",
+      "codice": 490
+    }
+  ]
+}

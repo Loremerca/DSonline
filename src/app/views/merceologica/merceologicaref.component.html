@@ -1,0 +1,332 @@
+<!-- Page -->
+<div class="page">
+  <div class="page-header">
+    <button type="button" class="btn btn-icon btn-dark btn-round float-right" (click)="back()"><i
+      class="icon fa-arrow-left" aria-hidden="true"></i></button>
+    <h1 class="page-title">{{title | titlecase}}</h1>
+  </div>
+  <div class="page-content container-fluid">
+    <div class="row" data-plugin="matchHeight" data-by-row="true">
+      <div class="col-12">
+        <div class="panel panel-bordered">
+          <!--MENU PERIODO-->
+          <div class="panel-heading">
+            <div class="row">
+              <div class="col-12">
+                <ul class="nav nav-tabs" *ngIf="loaded">
+                  <li class="nav-item"><a class="nav-link {{tempo === 'MAT'?'active':''}}" data-toggle="tab"
+                                          (click)="setPeriodo('MAT')">Report
+                    annuale</a></li>
+                  <li class="nav-item"><a class="nav-link {{tempo === 'BIM'?'active':''}}" data-toggle="tab"
+                                          (click)="setPeriodo('BIM')">Report
+                    bimestrale</a></li>
+                  <li class="nav-item"><a class="nav-link {{tempo === 'PROG'?'active':''}}" data-toggle="tab"
+                                          (click)="setPeriodo('PROG')">Report
+                    progressivo</a></li>
+                  <li class="nav-item"><a class="nav-link {{tempo === 'UM'?'active':''}}" data-toggle="tab"
+                                          (click)="setPeriodo('UM')">Report
+                    ultimo mese</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel-body">
+            <div class="row">
+              <div class="col-12" *ngIf="loaded">
+                <h3>{{titolotempo}}</h3>
+              </div>
+            </div>
+            <!--TABELLA RIASSUNTIVA-->
+            <div class="row">
+              <div class="col-12 pb-30">
+                <ngx-datatable
+                  #tb1
+                  class="dsmaterial"
+                  [columnMode]="'flex'"
+                  [headerHeight]="50"
+                  [footerHeight]="50"
+                  [rowHeight]="'auto'"
+                  [limit]="10"
+                  [rows]="dati">
+                  <ngx-datatable-column prop="Header" name="" [flexGrow]="3">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      <strong>{{value}}</strong>
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="F" name="Farmacia" [flexGrow]="2" cellClass="bg-primary-200"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="M" name="Mercato" [flexGrow]="2" cellClass="bg-apogreen-200"
+                                        headerClass="bg-apogreen-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="C" name="Cluster" [flexGrow]="2" cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                </ngx-datatable>
+              </div>
+            </div>
+
+            <!--TABELLA DETTAGLIO-->
+            <div class="row">
+              <div class="col-12">
+                <h3>Dettaglio:</h3>
+              </div>
+            </div>
+            <div class="row mb-20">
+              <div class="col-lg-3">
+                <input
+                  type='text' #searchInput1 class="form-control"
+                  placeholder="Filtra per prodotto..."
+                  (keyup)='profil1($event)' [value]="pippo"
+                  disabled="{{referenze?'':'disabled'}}"
+                />
+              </div>
+              <div class="col-lg-3">
+                <input
+                  type='text' #searchInput2 class="form-control"
+                  placeholder='Filtra per ditta...'
+                  (keyup)='profil12($event)' [value]="paperino"
+                />
+              </div>
+              <div class="col-lg-3">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-primary dropdown-toggle" id="dd01"
+                          data-toggle="dropdown" aria-expanded="false">Tipologia
+                  </button>
+                  <div class="dropdown-menu" aria-labelledby="dd01" role="menu">
+                    <a class="dropdown-item" (click)="setDettaglio(1)" href="javascript:void(0)" role="menuitem">
+                      Referenze / Mercato</a>
+                    <a class="dropdown-item" (click)="setDettaglio(2)" href="javascript:void(0)" role="menuitem">
+                      Referenze / Cluster</a>
+                    <a class="dropdown-item" (click)="setDettaglio(3)" href="javascript:void(0)" role="menuitem">
+                      Ditte / Mercato</a>
+                    <a class="dropdown-item" (click)="setDettaglio(4)" href="javascript:void(0)" role="menuitem">
+                      Ditte / Cluster</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-3">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-warning dropdown-toggle" id="dd03"
+                          data-toggle="dropdown" aria-expanded="false">
+                    N° Risultati
+                  </button>
+                  <div class="dropdown-menu" aria-labelledby="dd03" role="menu">
+                    <a class="dropdown-item" (click)="setPages(10)" href="javascript:void(0)" role="menuitem">
+                      10</a>
+                    <a class="dropdown-item" (click)="setPages(20)" href="javascript:void(0)" role="menuitem">
+                      20</a>
+                    <a class="dropdown-item" (click)="setPages(50)" href="javascript:void(0)" role="menuitem">
+                      50</a>
+                    <a class="dropdown-item" (click)="setPages(100)" href="javascript:void(0)" role="menuitem">
+                      100</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row mb-30">
+              <div class="col-12" >
+                <ngx-datatable
+                  #tb1
+                  class="dsmaterial"
+                  [columnMode]="'flex'"
+                  [headerHeight]="50"
+                  [footerHeight]="50"
+                  [rowHeight]="'auto'"
+                  [limit]="rispag"
+                  [rows]="bo">
+                  <ngx-datatable-column prop="DscProd" name="Ref" [flexGrow]="6" cellClass="font-size-10" *ngIf="referenze">
+                    <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+                      <strong>{{row.DscProd}}</strong> <br> {{row.DscDitta}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="DscProd" name="Ref" [flexGrow]="6" cellClass="font-size-10"
+                                        *ngIf="!referenze">
+                    <ng-template let-row="row" let-value="value" ngx-datatable-cell-template>
+                      <strong>{{row.DscDitta}}</strong>
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FFt" name="Pos" [flexGrow]="2"
+                                        cellClass="bg-primary-200 font-size-10"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FFatt" name="Fatt" [flexGrow]="4"
+                                        cellClass="bg-primary-200 font-size-10"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FFatt_D" name="Diff" [flexGrow]="4"
+                                        cellClass="bg-primary-200 font-size-10"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FQuota" name="Quota" [flexGrow]="3"
+                                        cellClass="bg-primary-200 font-size-10"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FPz" name="Pos Pezzi" [flexGrow]="2" cellClass="bg-primary-200"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FPezzi" name="Pezzi" [flexGrow]="4" cellClass="bg-primary-200"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FPezzi_D" name="Diff" [flexGrow]="4" cellClass="bg-primary-200"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="FPrezzo" name="Prezzo" [flexGrow]="3" cellClass="bg-primary-200"
+                                        headerClass="bg-primary-200">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <!-- MERCATO -->
+                  <ngx-datatable-column prop="MFt" name="Pos" [flexGrow]="2"
+                                        cellClass="bg-apogreen-200 font-size-10"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="MFatt" name="Fatt" [flexGrow]="4"
+                                        cellClass="bg-apogreen-200 font-size-10"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="MFatt_D" name="Diff" [flexGrow]="4"
+                                        cellClass="bg-apogreen-200 font-size-10"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="MQuota" name="Quota" [flexGrow]="3"
+                                        cellClass="bg-apogreen-200 font-size-10"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="MPz" name="Pos Pezzi" [flexGrow]="2" cellClass="bg-apogreen-200"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+
+                  <ngx-datatable-column prop="MPezzi" name="Pezzi" [flexGrow]="4" cellClass="bg-apogreen-200"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="MPezzi_D" name="Diff" [flexGrow]="4" cellClass="bg-apogreen-200"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="MPrezzo" name="Prezzo" [flexGrow]="3"
+                                        cellClass="bg-apogreen-200"
+                                        headerClass="bg-apogreen-200" *ngIf="mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                <!-- CLUSTER -->
+                  <ngx-datatable-column prop="CFt" name="Pos Fatt" [flexGrow]="2"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="CFatt" name="Fatturato" [flexGrow]="4"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="CFatt_D" name="Diff" [flexGrow]="4"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="CQuota" name="Quota" [flexGrow]="3"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="CPz" name="Pos Pezzi" [flexGrow]="2"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="CPezzi" name="Pezzi" [flexGrow]="4"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="CPezzi_D" name="Diff" [flexGrow]="4"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                  <ngx-datatable-column prop="CPrezzo" name="Prezzo" [flexGrow]="3"
+                                        cellClass="bg-light-apogreen-200"
+                                        headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                    <ng-template let-value="value" ngx-datatable-cell-template>
+                      {{value | number}}
+                    </ng-template>
+                  </ngx-datatable-column>
+                </ngx-datatable>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Page Content -->
+

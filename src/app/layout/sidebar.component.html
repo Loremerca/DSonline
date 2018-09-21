@@ -1,0 +1,90 @@
+<div class="site-menubar">
+  <div class="site-menubar-body">
+    <div>
+      <div>
+        <ul class="site-menu" data-plugin="menu">
+          <li class="site-menu-category">QUADRO GENERALE</li>
+          <li class="site-menu-item">
+            <a class="" routerLink="/dashboard">
+              <i class="site-menu-icon io-dashboard" aria-hidden="true"></i>
+              <span class="site-menu-title">Dashboard</span>
+            </a>
+          </li>
+          <li class="site-menu-item">
+            <a class="animsition-link" routerLink="/analisi_scontrini">
+              <i class="site-menu-icon md-receipt" aria-hidden="true"></i>
+              <span class="site-menu-title">Analisi transazioni scontrini</span>
+            </a>
+          </li>
+          <li class="site-menu-item">
+            <a class="animsition-link" routerLink="/analisi_ingressi">
+              <i class="site-menu-icon md-time-countdown" aria-hidden="true"></i>
+              <span class="site-menu-title">Analisi ingressi per fascia oraria</span>
+            </a>
+          </li>
+          <li class="site-menu-category">CLASSIFICAZIONE MERCEOLOGICA</li>
+          <li class="site-menu-item {{mc.subs?'has-sub':''}}" *ngFor="let mc of merceologica">
+            <a routerLink="/merceologica/{{mc.codice}}/{{mc.nome}}">
+              <i class="site-menu-icon fa-leaf" aria-hidden="true"></i>
+              <span class="site-menu-title">{{mc.nome | titlecase}}</span>
+              <span class="{{mc.subs?'site-menu-arrow':''}}"></span>
+            </a>
+            <ul class="site-menu-sub" *ngIf="mc.subs">
+
+              <li class="site-menu-item has-sub" *ngFor="let subs of mc.subs">
+                <a class="animsition-link" routerLink="/merceologica/{{subs.codice}}/{{subs.nome}}"
+                >
+
+                  <i class="site-menu-icon md-money-box" aria-hidden="true"></i>
+                  <span class="site-menu-title">{{subs.nome | titlecase}}</span>
+                  <span class="{{subs.subs?'site-menu-arrow':''}}"></span>
+                </a>
+                <ul class="site-menu-sub" *ngFor="let subbes of subs.subs">
+                  <li class="site-menu-item">
+                    <a class="animsition-link"
+                       routerLink="/merceologica/{{subbes.codice}}/{{subbes.nome}}"
+                    >
+                      <i class="site-menu-icon fa-user-md" aria-hidden="true"></i>
+                      <span class="site-menu-title">{{subbes.nome | titlecase}}</span>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+
+            </ul>
+          </li>
+          <li class="site-menu-category">CLASSIFICAZIONE ESIGENZE</li>
+          <li class="site-menu-item has-sub">
+            <a href="javascript:void(0)">
+              <i class="site-menu-icon fa-list-ul" aria-hidden="true"></i>
+              <span class="site-menu-title">Tutte le esigenze</span>
+              <span class="site-menu-arrow"></span>
+            </a>
+            <ul class="site-menu-sub" *ngIf="loaded">
+              <li class="site-menu-item" *ngFor="let es of esigenze | orderBy: 'nome' :ascending">
+                <a class="animsition-link" routerLink="/esigenza/{{es.codice}}">
+                  <i class="site-menu-icon fa-plus-square" aria-hidden="true"></i>
+                  <span class="site-menu-title">{{es.nome | titlecase}}</span>
+                </a>
+              </li>
+            </ul>
+
+          </li>
+          <li class="site-menu-category">APOTECA NATURA</li>
+          <li class="site-menu-item">
+            <a class="animsition-link" routerLink="/target_consolidato">
+              <i class="site-menu-icon io-target" aria-hidden="true"></i>
+              <span class="site-menu-title">Target (consolidato e scontrini)</span>
+            </a>
+          </li>
+          <li class="site-menu-item">
+            <a class="animsition-link" routerLink="/complementarieta">
+              <i class="site-menu-icon md-repeat" aria-hidden="true"></i>
+              <span class="site-menu-title">Complementarietà</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

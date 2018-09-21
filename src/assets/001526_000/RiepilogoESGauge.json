@@ -1,0 +1,63 @@
+{ "Titolo":"Quota Gruppo Aboca su commerciale della singola esigenza"
+
+                ,"dati":[
+  {
+   "IdPeriodo":"MAT"
+  ,"Periodo":"Dic 2017-Nov 2018"
+   ,"Referenze":[ {"Header": "Aging Care Donna" ,"Farmacia":2.43 ,"Mercato" :10.18 ,"Top" :31 ,"Min":0 ,"Max": 0 ,"Gauge":[{"name": "Aging Care Donna" ,"Farmacia":2.43,"Mercato":10.18,"Top":31}]},
+{"Header": "Aging Care Uomo" ,"Farmacia":4.76 ,"Mercato" :7.53 ,"Top" :10.7 ,"Min":0 ,"Max": 5 ,"Gauge":[{"name": "Aging Care Uomo" ,"Farmacia":4.76,"Mercato":7.53,"Top":10.7}]},
+{"Header": "Antiacidi" ,"Farmacia":12.56 ,"Mercato" :22.42 ,"Top" :43.4 ,"Min":0 ,"Max": 10 ,"Gauge":[{"name": "Antiacidi" ,"Farmacia":12.56,"Mercato":22.42,"Top":43.4}]},
+{"Header": "Anticellulite" ,"Farmacia":0.87 ,"Mercato" :1.77 ,"Top" :24.7 ,"Min":0 ,"Max": 15 ,"Gauge":[{"name": "Anticellulite" ,"Farmacia":0.87,"Mercato":1.77,"Top":24.7}]},
+{"Header": "Antidiarroici" ,"Farmacia":8.44 ,"Mercato" :14.05 ,"Top" :16.83 ,"Min":0 ,"Max": 20 ,"Gauge":[{"name": "Antidiarroici" ,"Farmacia":8.44,"Mercato":14.05,"Top":16.83}]},
+{"Header": "Antiemorroidali" ,"Farmacia":13.66 ,"Mercato" :26.19 ,"Top" :50.2 ,"Min":0 ,"Max": 25 ,"Gauge":[{"name": "Antiemorroidali" ,"Farmacia":13.66,"Mercato":26.19,"Top":50.2}]},
+{"Header": "Antiflatulenza" ,"Farmacia":17.87 ,"Mercato" :32.13 ,"Top" :59.2 ,"Min":0 ,"Max": 30 ,"Gauge":[{"name": "Antiflatulenza" ,"Farmacia":17.87,"Mercato":32.13,"Top":59.2}]},
+{"Header": "Antinfiammatori antireumatici e antitraumatici" ,"Farmacia":1.38 ,"Mercato" :2.98 ,"Top" :9.5 ,"Min":0 ,"Max": 35 ,"Gauge":[{"name": "Antinfiammatori antireumatici e antitraumatici" ,"Farmacia":1.38,"Mercato":2.98,"Top":9.5}]},
+{"Header": "Antipertensivi" ,"Farmacia":7.61 ,"Mercato" :53.18 ,"Top" :96.3 ,"Min":0 ,"Max": 40 ,"Gauge":[{"name": "Antipertensivi" ,"Farmacia":7.61,"Mercato":53.18,"Top":96.3}]},
+{"Header": "Antipiretici analgesici e antinfluenzali" ,"Farmacia":0.24 ,"Mercato" :0.79 ,"Top" :4.5 ,"Min":0 ,"Max": 45 ,"Gauge":[{"name": "Antipiretici analgesici e antinfluenzali" ,"Farmacia":0.24,"Mercato":0.79,"Top":4.5}]},
+{"Header": "Antistaminici" ,"Farmacia":0 ,"Mercato" :0 ,"Top" :0 ,"Min":0 ,"Max": 50 ,"Gauge":[{"name": "Antistaminici" ,"Farmacia":0,"Mercato":0,"Top":0}]},
+{"Header": "Antivaricosi" ,"Farmacia":5.22 ,"Mercato" :10.17 ,"Top" :23.2 ,"Min":0 ,"Max": 55 ,"Gauge":[{"name": "Antivaricosi" ,"Farmacia":5.22,"Mercato":10.17,"Top":23.2}]},
+{"Header": "Benessere Cardiovascolare (Omega 3)" ,"Farmacia":4.01 ,"Mercato" :13.53 ,"Top" :33.2 ,"Min":0 ,"Max": 60 ,"Gauge":[{"name": "Benessere Cardiovascolare (Omega 3)" ,"Farmacia":4.01,"Mercato":13.53,"Top":33.2}]},
+{"Header": "Broncopolmonari" ,"Farmacia":17.29 ,"Mercato" :27.97 ,"Top" :46 ,"Min":0 ,"Max": 65 ,"Gauge":[{"name": "Broncopolmonari" ,"Farmacia":17.29,"Mercato":27.97,"Top":46}]},
+{"Header": "Colliri" ,"Farmacia":1.98 ,"Mercato" :10.83 ,"Top" :25.7 ,"Min":0 ,"Max": 70 ,"Gauge":[{"name": "Colliri" ,"Farmacia":1.98,"Mercato":10.83,"Top":25.7}]},
+{"Header": "Decongestionanti nasali" ,"Farmacia":3.12 ,"Mercato" :14.45 ,"Top" :36.7 ,"Min":0 ,"Max": 75 ,"Gauge":[{"name": "Decongestionanti nasali" ,"Farmacia":3.12,"Mercato":14.45,"Top":36.7}]},
+{"Header": "Digestivi" ,"Farmacia":24.23 ,"Mercato" :25.59 ,"Top" :73.9 ,"Min":0 ,"Max": 80 ,"Gauge":[{"name": "Digestivi" ,"Farmacia":24.23,"Mercato":25.59,"Top":73.9}]},
+{"Header": "Dimagranti" ,"Farmacia":30.9 ,"Mercato" :52.6 ,"Top" :87 ,"Min":0 ,"Max": 85 ,"Gauge":[{"name": "Dimagranti" ,"Farmacia":30.9,"Mercato":52.6,"Top":87}]},
+{"Header": "Fermenti e flora intestinale" ,"Farmacia":0.27 ,"Mercato" :9.97 ,"Top" :36 ,"Min":0 ,"Max": 90 ,"Gauge":[{"name": "Fermenti e flora intestinale" ,"Farmacia":0.27,"Mercato":9.97,"Top":36}]},
+{"Header": "Immunostimolanti" ,"Farmacia":5.63 ,"Mercato" :17.87 ,"Top" :41.6 ,"Min":0 ,"Max": 95 ,"Gauge":[{"name": "Immunostimolanti" ,"Farmacia":5.63,"Mercato":17.87,"Top":41.6}]},
+{"Header": "Ipocolesteromizzanti" ,"Farmacia":0.27 ,"Mercato" :5.77 ,"Top" :31 ,"Min":0 ,"Max": 100 ,"Gauge":[{"name": "Ipocolesteromizzanti" ,"Farmacia":0.27,"Mercato":5.77,"Top":31}]},
+{"Header": "Lassativi" ,"Farmacia":5.58 ,"Mercato" :16.12 ,"Top" :30.7 ,"Min":0 ,"Max": 0 ,"Gauge":[{"name": "Lassativi" ,"Farmacia":5.58,"Mercato":16.12,"Top":30.7}]},
+{"Header": "Mal di gola" ,"Farmacia":13.64 ,"Mercato" :25.31 ,"Top" :47.5 ,"Min":0 ,"Max": 5 ,"Gauge":[{"name": "Mal di gola" ,"Farmacia":13.64,"Mercato":25.31,"Top":47.5}]},
+{"Header": "Salute della bocca" ,"Farmacia":0.22 ,"Mercato" :6.79 ,"Top" :19.3 ,"Min":0 ,"Max": 10 ,"Gauge":[{"name": "Salute della bocca" ,"Farmacia":0.22,"Mercato":6.79,"Top":19.3}]},
+{"Header": "Sedativi" ,"Farmacia":15.25 ,"Mercato" :26.47 ,"Top" :51.7 ,"Min":0 ,"Max": 15 ,"Gauge":[{"name": "Sedativi" ,"Farmacia":15.25,"Mercato":26.47,"Top":51.7}]},
+{"Header": "Tonificanti" ,"Farmacia":5.14 ,"Mercato" :21.71 ,"Top" :56.7 ,"Min":0 ,"Max": 20 ,"Gauge":[{"name": "Tonificanti" ,"Farmacia":5.14,"Mercato":21.71,"Top":56.7}]},
+{"Header": "Vie urinarie" ,"Farmacia":0.27 ,"Mercato" :15.13 ,"Top" :53.2 ,"Min":0 ,"Max": 25 ,"Gauge":[{"name": "Vie urinarie" ,"Farmacia":0.27,"Mercato":15.13,"Top":53.2}]}]    }   
+,{
+   "IdPeriodo":"PROG"
+  ,"Periodo":"Gen - Nov 2018"
+   ,"Referenze":[ {"Header": "Aging Care Donna" ,"Farmacia":2.16 ,"Mercato" :10.3 ,"Top" :31 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Aging Care Donna" ,"Farmacia":2.16,"Mercato":10.3,"Top":31}]},
+{"Header": "Aging Care Uomo" ,"Farmacia":4.68 ,"Mercato" :7.53 ,"Top" :10.7 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Aging Care Uomo" ,"Farmacia":4.68,"Mercato":7.53,"Top":10.7}]},
+{"Header": "Antiacidi" ,"Farmacia":12.7 ,"Mercato" :22.41 ,"Top" :43.4 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antiacidi" ,"Farmacia":12.7,"Mercato":22.41,"Top":43.4}]},
+{"Header": "Anticellulite" ,"Farmacia":0.82 ,"Mercato" :1.77 ,"Top" :24.7 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Anticellulite" ,"Farmacia":0.82,"Mercato":1.77,"Top":24.7}]},
+{"Header": "Antidiarroici" ,"Farmacia":9.01 ,"Mercato" :14.07 ,"Top" :16.83 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antidiarroici" ,"Farmacia":9.01,"Mercato":14.07,"Top":16.83}]},
+{"Header": "Antiemorroidali" ,"Farmacia":13.74 ,"Mercato" :26.26 ,"Top" :50.2 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antiemorroidali" ,"Farmacia":13.74,"Mercato":26.26,"Top":50.2}]},
+{"Header": "Antiflatulenza" ,"Farmacia":18.38 ,"Mercato" :32.14 ,"Top" :59.2 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antiflatulenza" ,"Farmacia":18.38,"Mercato":32.14,"Top":59.2}]},
+{"Header": "Antinfiammatori antireumatici e antitraumatici" ,"Farmacia":1.3 ,"Mercato" :2.98 ,"Top" :9.5 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antinfiammatori antireumatici e antitraumatici" ,"Farmacia":1.3,"Mercato":2.98,"Top":9.5}]},
+{"Header": "Antipertensivi" ,"Farmacia":7.42 ,"Mercato" :52.98 ,"Top" :96.3 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antipertensivi" ,"Farmacia":7.42,"Mercato":52.98,"Top":96.3}]},
+{"Header": "Antipiretici analgesici e antinfluenzali" ,"Farmacia":0.28 ,"Mercato" :0.81 ,"Top" :4.5 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antipiretici analgesici e antinfluenzali" ,"Farmacia":0.28,"Mercato":0.81,"Top":4.5}]},
+{"Header": "Antistaminici" ,"Farmacia":0 ,"Mercato" :0 ,"Top" :0 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antistaminici" ,"Farmacia":0,"Mercato":0,"Top":0}]},
+{"Header": "Antivaricosi" ,"Farmacia":5.38 ,"Mercato" :10.38 ,"Top" :23.2 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Antivaricosi" ,"Farmacia":5.38,"Mercato":10.38,"Top":23.2}]},
+{"Header": "Benessere Cardiovascolare (Omega 3)" ,"Farmacia":4.28 ,"Mercato" :13.9 ,"Top" :33.2 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Benessere Cardiovascolare (Omega 3)" ,"Farmacia":4.28,"Mercato":13.9,"Top":33.2}]},
+{"Header": "Broncopolmonari" ,"Farmacia":17.79 ,"Mercato" :27.81 ,"Top" :46 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Broncopolmonari" ,"Farmacia":17.79,"Mercato":27.81,"Top":46}]},
+{"Header": "Colliri" ,"Farmacia":2.06 ,"Mercato" :10.89 ,"Top" :25.7 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Colliri" ,"Farmacia":2.06,"Mercato":10.89,"Top":25.7}]},
+{"Header": "Decongestionanti nasali" ,"Farmacia":3.16 ,"Mercato" :14.34 ,"Top" :36.7 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Decongestionanti nasali" ,"Farmacia":3.16,"Mercato":14.34,"Top":36.7}]},
+{"Header": "Digestivi" ,"Farmacia":24.25 ,"Mercato" :25.87 ,"Top" :73.9 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Digestivi" ,"Farmacia":24.25,"Mercato":25.87,"Top":73.9}]},
+{"Header": "Dimagranti" ,"Farmacia":30.81 ,"Mercato" :52.83 ,"Top" :87 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Dimagranti" ,"Farmacia":30.81,"Mercato":52.83,"Top":87}]},
+{"Header": "Fermenti e flora intestinale" ,"Farmacia":0.24 ,"Mercato" :9.97 ,"Top" :36 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Fermenti e flora intestinale" ,"Farmacia":0.24,"Mercato":9.97,"Top":36}]},
+{"Header": "Immunostimolanti" ,"Farmacia":5.42 ,"Mercato" :17.81 ,"Top" :41.6 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Immunostimolanti" ,"Farmacia":5.42,"Mercato":17.81,"Top":41.6}]},
+{"Header": "Ipocolesteromizzanti" ,"Farmacia":0.26 ,"Mercato" :5.69 ,"Top" :31 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Ipocolesteromizzanti" ,"Farmacia":0.26,"Mercato":5.69,"Top":31}]},
+{"Header": "Lassativi" ,"Farmacia":5.63 ,"Mercato" :16.17 ,"Top" :30.7 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Lassativi" ,"Farmacia":5.63,"Mercato":16.17,"Top":30.7}]},
+{"Header": "Mal di gola" ,"Farmacia":13.73 ,"Mercato" :25.27 ,"Top" :47.5 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Mal di gola" ,"Farmacia":13.73,"Mercato":25.27,"Top":47.5}]},
+{"Header": "Salute della bocca" ,"Farmacia":0.23 ,"Mercato" :6.75 ,"Top" :19.3 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Salute della bocca" ,"Farmacia":0.23,"Mercato":6.75,"Top":19.3}]},
+{"Header": "Sedativi" ,"Farmacia":15.27 ,"Mercato" :26.36 ,"Top" :51.7 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Sedativi" ,"Farmacia":15.27,"Mercato":26.36,"Top":51.7}]},
+{"Header": "Tonificanti" ,"Farmacia":5.2 ,"Mercato" :21.68 ,"Top" :56.7 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Tonificanti" ,"Farmacia":5.2,"Mercato":21.68,"Top":56.7}]},
+{"Header": "Vie urinarie" ,"Farmacia":0.29 ,"Mercato" :15.09 ,"Top" :53.2 ,"Min":0 ,"Max":50  ,"Gauge":[{"name": "Vie urinarie" ,"Farmacia":0.29,"Mercato":15.09,"Top":53.2}]}]    }]}   

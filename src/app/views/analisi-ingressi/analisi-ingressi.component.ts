@@ -11,7 +11,17 @@ export class AnalisiIngressiComponent implements OnInit {
   dati: any;
   titolo = '';
   sottotitolo = '';
+  tab1data;
+  aperture;
   dtOp: DataTables.Settings = {};
+  loaded = false;
+  view;
+  graf1;
+  perc = 22;
+
+  cyano = {
+    domain: ['#006064', '#00838F', '#0097A7', "#00ACC1", "#00BCD4", "#26C6DA", "#4DD0E1"]
+  };
   constructor(protected dataservice: DataloadService) { }
 
   ngOnInit() {
@@ -25,6 +35,11 @@ export class AnalisiIngressiComponent implements OnInit {
       this.dati = res;
       this.titolo = this.dati.Titolo;
       this.sottotitolo = this.dati.Sottotitolo;
+      this.tab1data = this.dati.dati;
+      this.aperture = this.dati.NAperture;
+      this.graf1 = this.dati.Bar08;
+        this.view = [200, 100];
+      this.loaded = true;
     });
   }
 

@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Tonificanti"
+ ,"Tempo":"Ott 2018-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 801
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 163.09
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 416.04
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 638
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 130.03
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 336.21
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 12634.3,"M": 2833.84,"C": 7447.05},
+{"Header": "Fatturato diff","F": 29.19,"M": 25.23,"C": 29.29},
+{"Header": "Pezzi","F": 801,"M": 163.09,"C": 416.04},
+{"Header": "Pezzi diff","F": 25.55,"M": 25.43,"C": 23.74} 
+]
+}

@@ -1,0 +1,8 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "BAYER SpA","FFt": 1,"FPz": 1,"FFatt": 1041.05,"FFatt_D": 9.27,"FPezzi": 116,"FPezzi_D": 9.43,"FQuota": 64.44,"FPrezzo": 8.97,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 2342.83,"CFatt_D": 28.81,"CPezzi": 208,"CPezzi_D": 21.57,"CQuota": 73.88,"CPrezzo": 11.24,"CRef": 1},
+{"DscDitta": "ITALCHIMICI SpA","FFt": 2,"FPz": 2,"FFatt": 868.4,"FFatt_D": 5.5,"FPezzi": 62,"FPezzi_D": 3.33,"FQuota": 34.44,"FPrezzo": 14.01,"FRef": 1,"CFt": 2,"CPz": 2,"CFatt": 805.79,"CFatt_D": 11.32,"CPezzi": 53,"CPezzi_D": 9.94,"CQuota": 18.77,"CPrezzo": 15.22,"CRef": 1},
+{"DscDitta": "GIULIANI SpA","FFt": 3,"FPz": 3,"FFatt": 13.4,"FFatt_D": -60,"FPezzi": 2,"FPezzi_D": -60,"FQuota": 1.11,"FPrezzo": 6.7,"FRef": 1,"CFt": 3,"CPz": 3,"CFatt": 151.85,"CFatt_D": 9,"CPezzi": 21,"CPezzi_D": 10.77,"CQuota": 7.33,"CPrezzo": 7.35,"CRef": 1},
+{"DscDitta": "2 ditte coinvolte","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 4,"CPz": 4,"CFatt": 0.27,"CFatt_D": -83.67,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0.01,"CPrezzo": 3.2,"CRef": 0} 
+]}

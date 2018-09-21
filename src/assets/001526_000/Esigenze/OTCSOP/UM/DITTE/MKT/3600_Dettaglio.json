@@ -1,0 +1,10 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 295.5,"FFatt_D": 24.41,"FPezzi": 48,"FPezzi_D": 6.67,"FQuota": 87.27,"FPrezzo": 6.16,"FRef": 2,"MFt": 1,"MPz": 1,"MFatt": 168.64,"MFatt_D": 16.96,"MPezzi": 18,"MPezzi_D": 3.11,"MQuota": 68.54,"MPrezzo": 9.24,"MRef": 3},
+{"DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 2,"FPz": 2,"FFatt": 35.05,"FFatt_D": 46.04,"FPezzi": 5,"FPezzi_D": 25,"FQuota": 9.09,"FPrezzo": 7.01,"FRef": 2,"MFt": 2,"MPz": 2,"MFatt": 42.99,"MFatt_D": 9.51,"MPezzi": 5,"MPezzi_D": -1.98,"MQuota": 20.22,"MPrezzo": 7.99,"MRef": 2},
+{"DscDitta": "DISPHAR INTERNATIONAL B.V.","FFt": 3,"FPz": 3,"FFatt": 12,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 3.64,"FPrezzo": 6,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 3.26,"MFatt_D": -12.38,"MPezzi": 0.324,"MPezzi_D": -15.1,"MQuota": 1.22,"MPrezzo": 10.05,"MRef": 1},
+{"DscDitta": "GMM FARMA Srl","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 5,"MPz": 5,"MFatt": 1.8,"MFatt_D": 41.23,"MPezzi": 0.234,"MPezzi_D": 19.75,"MQuota": 0.88,"MPrezzo": 7.67,"MRef": 1},
+{"DscDitta": "SANOFI SpA","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 1,"MFt": 3,"MPz": 3,"MFatt": 5.41,"MFatt_D": -14.09,"MPezzi": 0.678,"MPezzi_D": -15.97,"MQuota": 2.55,"MPrezzo": 7.97,"MRef": 1},
+{"DscDitta": "12 ditte coinvolte","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 4,"MPz": 4,"MFatt": 12.34,"MFatt_D": 50.5,"MPezzi": 2,"MPezzi_D": 63.84,"MQuota": 6.76,"MPrezzo": 5.67,"MRef": 0} 
+]}

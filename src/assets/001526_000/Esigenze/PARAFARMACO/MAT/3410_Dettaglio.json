@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antinfiammatori antireumatici e antitraumatici"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 4018
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 623.99
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1603.75
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 3759
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 562.32
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1434.45
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 63052.97,"M": 8907.67,"C": 23103.67},
+{"Header": "Fatturato diff","F": 13.58,"M": 14.89,"C": 14.16},
+{"Header": "Pezzi","F": 4018,"M": 623.99,"C": 1603.75},
+{"Header": "Pezzi diff","F": 6.89,"M": 10.97,"C": 11.8} 
+]
+}

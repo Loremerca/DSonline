@@ -1,0 +1,14 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 548.8,"FFatt_D": 37.92,"FPezzi": 97,"FPezzi_D": 27.63,"FQuota": 65.54,"FPrezzo": 5.66,"FRef": 2,"MFt": 1,"MPz": 1,"MFatt": 342.24,"MFatt_D": 16.29,"MPezzi": 37,"MPezzi_D": 3.99,"MQuota": 53.82,"MPrezzo": 9.22,"MRef": 3},
+{"DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 2,"FPz": 2,"FFatt": 242.15,"FFatt_D": 971.46,"FPezzi": 21,"FPezzi_D": 950,"FQuota": 14.19,"FPrezzo": 11.53,"FRef": 2,"MFt": 2,"MPz": 2,"MFatt": 141.68,"MFatt_D": 28.42,"MPezzi": 11,"MPezzi_D": 28.77,"MQuota": 15.85,"MPrezzo": 12.96,"MRef": 2},
+{"DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 3,"FPz": 3,"FFatt": 111,"FFatt_D": 164.29,"FPezzi": 16,"FPezzi_D": 128.57,"FQuota": 10.81,"FPrezzo": 6.94,"FRef": 2,"MFt": 3,"MPz": 3,"MFatt": 87.25,"MFatt_D": 13.06,"MPezzi": 11,"MPezzi_D": 9.85,"MQuota": 15.85,"MPrezzo": 7.98,"MRef": 2},
+{"DscDitta": "ANGELINI SpA","FFt": 4,"FPz": 5,"FFatt": 48.77,"FFatt_D": 108.15,"FPezzi": 5,"FPezzi_D": 150,"FQuota": 3.38,"FPrezzo": 9.75,"FRef": 3,"MFt": 4,"MPz": 4,"MFatt": 42.79,"MFatt_D": -9.13,"MPezzi": 3,"MPezzi_D": -17.51,"MQuota": 4.75,"MPrezzo": 13.07,"MRef": 3},
+{"DscDitta": "DISPHAR INTERNATIONAL B.V.","FFt": 5,"FPz": 4,"FFatt": 48,"FFatt_D": null,"FPezzi": 8,"FPezzi_D": null,"FQuota": 5.41,"FPrezzo": 6,"FRef": 1,"MFt": 10,"MPz": 10,"MFatt": 6.67,"MFatt_D": -2.64,"MPezzi": 0.664,"MPezzi_D": -5.92,"MQuota": 0.96,"MPrezzo": 10.04,"MRef": 1},
+{"DscDitta": "SANOFI SpA","FFt": 6,"FPz": 6,"FFatt": 4.9,"FFatt_D": -80,"FPezzi": 1,"FPezzi_D": -80,"FQuota": 0.68,"FPrezzo": 4.9,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 10.64,"MFatt_D": -14.68,"MPezzi": 1,"MPezzi_D": -38.12,"MQuota": 2.01,"MPrezzo": 7.67,"MRef": 1},
+{"DscDitta": "GENERAL PHARMA SOLUTIONS SpA","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 7,"MPz": 7,"MFatt": 8.34,"MFatt_D": 72.31,"MPezzi": 1,"MPezzi_D": 52.63,"MQuota": 1.59,"MPrezzo": 7.62,"MRef": 1},
+{"DscDitta": "GMM FARMA Srl","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 5,"MPz": 5,"MFatt": 3.62,"MFatt_D": 62.16,"MPezzi": 0.475,"MPezzi_D": 39.61,"MQuota": 0.69,"MPrezzo": 7.61,"MRef": 1},
+{"DscDitta": "MEDIFARM Srl","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 9,"MPz": 9,"MFatt": 3.87,"MFatt_D": 7.08,"MPezzi": 0.563,"MPezzi_D": 7.89,"MQuota": 0.82,"MPrezzo": 6.88,"MRef": 1},
+{"DscDitta": "20 ditte coinvolte","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 8,"MPz": 8,"MFatt": 19.9,"MFatt_D": 96.33,"MPezzi": 3,"MPezzi_D": 108.13,"MQuota": 3.72,"MPrezzo": 7.13,"MRef": 0} 
+]}

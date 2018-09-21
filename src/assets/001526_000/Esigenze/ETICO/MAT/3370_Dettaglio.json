@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antipiretici analgesici e antinfluenzali"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 6883
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 2197.54
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 4391.47
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 6196
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 2065.66
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 3920.32
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 50440.51,"M": 15978.98,"C": 31982.81},
+{"Header": "Fatturato diff","F": 10.54,"M": 6.81,"C": 12.52},
+{"Header": "Pezzi","F": 6883,"M": 2197.54,"C": 4391.47},
+{"Header": "Pezzi diff","F": 11.09,"M": 6.38,"C": 12.02} 
+]
+}

@@ -1,0 +1,8 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "LOPEMID30CPS RIGIDE 2MG","DscDitta": "VISUFARMA SpA","FFt": 1,"FPz": 1,"FFatt": 720,"FFatt_D": -23.81,"FPezzi": 80,"FPezzi_D": -23.81,"FQuota": 51.95,"FPrezzo": 9,"MFt": 1,"MPz": 3,"MFatt": 75.59,"MFatt_D": -13.13,"MPezzi": 8,"MPezzi_D": -17.73,"MQuota": 24.64,"MPrezzo": 8.99},
+{"DscProd": "LOPERAMIDE ANG30CPS 2MG","DscDitta": "ANGENERICO SpA","FFt": 2,"FPz": 2,"FFatt": 347.8,"FFatt_D": 15.62,"FPezzi": 74,"FPezzi_D": 15.62,"FQuota": 48.05,"FPrezzo": 4.7,"MFt": 3,"MPz": 1,"MFatt": 25.24,"MFatt_D": 3.71,"MPezzi": 5,"MPezzi_D": -4.15,"MQuota": 15.75,"MPrezzo": 4.7},
+{"DscProd": "LOPERAMIDE HEX30CPS 2MG","DscDitta": "SANDOZ SpA","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"MFt": 2,"MPz": 2,"MFatt": 72.81,"MFatt_D": 6.62,"MPezzi": 16,"MPezzi_D": 9.24,"MQuota": 45.43,"MPrezzo": 4.69},
+{"DscProd": "LOPERAMIDE DOC30CPR 2MG","DscDitta": "DOC GENERICI Srl","FFt": 4,"FPz": 4,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"MFt": 4,"MPz": 4,"MFatt": 25.04,"MFatt_D": -5.24,"MPezzi": 5,"MPezzi_D": -1.59,"MQuota": 14.18,"MPrezzo": 5.18} 
+]}

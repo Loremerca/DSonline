@@ -1,0 +1,9 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "MYLICONGAS50CPR MAST 40MG","DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 257.75,"FFatt_D": 74.63,"FPezzi": 23,"FPezzi_D": 27.78,"FQuota": 53.49,"FPrezzo": 11.21,"MFt": 1,"MPz": 1,"MFatt": 64.62,"MFatt_D": 46.94,"MPezzi": 4,"MPezzi_D": 3.39,"MQuota": 48.42,"MPrezzo": 14.39},
+{"DscProd": "MYLICONBB OS GTT 30ML","DscDitta": "JOHNSON & JOHNSON SpA","FFt": 2,"FPz": 2,"FFatt": 146.65,"FFatt_D": 66.65,"FPezzi": 15,"FPezzi_D": 36.36,"FQuota": 34.88,"FPrezzo": 9.78,"MFt": 2,"MPz": 2,"MFatt": 38.46,"MFatt_D": 39.75,"MPezzi": 3,"MPezzi_D": 23.35,"MQuota": 28.82,"MPrezzo": 14.38},
+{"DscProd": "METEOSIM50CPR MAST 40MG","DscDitta": "I.B.I.GIOVANNI LORENZINI SpA","FFt": 3,"FPz": 3,"FFatt": 21.6,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 6.98,"FPrezzo": 7.2,"MFt": 4,"MPz": 4,"MFatt": 0.33,"MFatt_D": -19.77,"MPezzi": 0.043,"MPezzi_D": -22.06,"MQuota": 0.46,"MPrezzo": 7.87},
+{"DscProd": "SIMECRIN24CPR MAST 120MG","DscDitta": "CRINOS SpA","FFt": 4,"FPz": 4,"FFatt": 21.6,"FFatt_D": -33.33,"FPezzi": 2,"FPezzi_D": -33.33,"FQuota": 4.65,"FPrezzo": 10.8,"MFt": 5,"MPz": 5,"MFatt": 13.85,"MFatt_D": 4.09,"MPezzi": 1,"MPezzi_D": -10.86,"MQuota": 12.56,"MPrezzo": 11.89},
+{"DscProd": "Altre 9 referenze","DscDitta": "8 ditte coinvolte","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"MFt": 3,"MPz": 3,"MFatt": 8.04,"MFatt_D": 50.44,"MPezzi": 1,"MPezzi_D": 58.18,"MQuota": 10.09,"MPrezzo": 7.46} 
+]}

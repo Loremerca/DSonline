@@ -1,0 +1,12 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 656.28,"FFatt_D": -13.53,"FPezzi": 94,"FPezzi_D": -14.55,"FQuota": 84.68,"FPrezzo": 6.98,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 1844.3,"CFatt_D": 63.32,"CPezzi": 176,"CPezzi_D": 60.55,"CQuota": 52.86,"CPrezzo": 10.48,"CRef": 1},
+{"DscDitta": "TEVA ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 52.2,"FFatt_D": 586.84,"FPezzi": 17,"FPezzi_D": 466.67,"FQuota": 15.32,"FPrezzo": 3.07,"FRef": 1,"CFt": 7,"CPz": 7,"CFatt": 9.21,"CFatt_D": 40.43,"CPezzi": 2,"CPezzi_D": 23.08,"CQuota": 0.72,"CPrezzo": 3.83,"CRef": 1},
+{"DscDitta": "BAYER SpA","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 4,"CPz": 3,"CFatt": 241.14,"CFatt_D": -18.82,"CPezzi": 47,"CPezzi_D": -18.79,"CQuota": 14.11,"CPrezzo": 5.13,"CRef": 1},
+{"DscDitta": "GLAXOSMITHKLINE C.HEALTH.SpA","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 3,"CPz": 4,"CFatt": 267.42,"CFatt_D": -12.27,"CPezzi": 31,"CPezzi_D": -13.99,"CQuota": 9.39,"CPrezzo": 8.55,"CRef": 2},
+{"DscDitta": "MYLAN SpA","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 5,"CPz": 5,"CFatt": 29.87,"CFatt_D": 50.11,"CPezzi": 7,"CPezzi_D": 40,"CQuota": 2.25,"CPrezzo": 3.99,"CRef": 1},
+{"DscDitta": "SANDOZ SpA","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 2,"CPz": 2,"CFatt": 0,"CFatt_D": -100,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0,"CPrezzo": null,"CRef": 0},
+{"DscDitta": "UCB PHARMA SpA","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 8,"CPz": 6,"CFatt": 463.77,"CFatt_D": 2.11,"CPezzi": 69,"CPezzi_D": 2.98,"CQuota": 20.61,"CPrezzo": 6.76,"CRef": 1},
+{"DscDitta": "2 ditte coinvolte","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 6,"CPz": 8,"CFatt": 0.77,"CFatt_D": -52.24,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0.07,"CPrezzo": 1.78,"CRef": 0} 
+]}

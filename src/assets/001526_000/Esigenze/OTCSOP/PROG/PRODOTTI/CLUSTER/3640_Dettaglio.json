@@ -1,0 +1,13 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "FEXALLEGRA10CPR RIV 120MG","DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 642.48,"FFatt_D": -15.35,"FPezzi": 92,"FPezzi_D": -16.36,"FQuota": 84.4,"FPrezzo": 6.98,"CFt": 1,"CPz": 1,"CFatt": 1824.03,"CFatt_D": 61.53,"CPezzi": 174,"CPezzi_D": 58.72,"CQuota": 53.99,"CPrezzo": 10.48},
+{"DscProd": "TICERIN7CPR RIV 10MG","DscDitta": "TEVA ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 52.2,"FFatt_D": 586.84,"FPezzi": 17,"FPezzi_D": 466.67,"FQuota": 15.6,"FPrezzo": 3.07,"CFt": 6,"CPz": 6,"CFatt": 9.04,"CFatt_D": 45.14,"CPezzi": 2,"CPezzi_D": 29.73,"CQuota": 0.73,"CPrezzo": 3.82},
+{"DscProd": "Altre 3 referenze","DscDitta": "3 ditte coinvolte","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"CFt": 7,"CPz": 7,"CFatt": 0.77,"CFatt_D": -59.91,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0.07,"CPrezzo": 1.18},
+{"DscProd": "FENISTIL30CPR RIV 1MG","DscDitta": "GLAXOSMITHKLINE C.HEALTH.SpA","FFt": 4,"FPz": 4,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 5,"CPz": 5,"CFatt": 23.49,"CFatt_D": 8.36,"CPezzi": 3,"CPezzi_D": 7.46,"CQuota": 0.93,"CPrezzo": 7.87},
+{"DscProd": "FENISTILOS GTT 20ML 1MGML","DscDitta": "GLAXOSMITHKLINE C.HEALTH.SpA","FFt": 5,"FPz": 5,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 9,"CPz": 9,"CFatt": 215.56,"CFatt_D": -18.59,"CPezzi": 25,"CPezzi_D": -19.57,"CQuota": 7.75,"CPrezzo": 8.63},
+{"DscProd": "ZIRTEC7CPR RIV 10MG","DscDitta": "UCB PHARMA SpA","FFt": 6,"FPz": 6,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 4,"CPz": 4,"CFatt": 438.18,"CFatt_D": 2.68,"CPezzi": 65,"CPezzi_D": 3.24,"CQuota": 20.11,"CPrezzo": 6.76},
+{"DscProd": "CLARITYN7CPR 10MG","DscDitta": "BAYER SpA","FFt": 7,"FPz": 7,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 2,"CPz": 2,"CFatt": 234.28,"CFatt_D": -18.66,"CPezzi": 46,"CPezzi_D": -18.04,"CQuota": 14.16,"CPrezzo": 5.13},
+{"DscProd": "CETIRIZINA SAND7CPR RIV 10MG","DscDitta": "SANDOZ SpA","FFt": 8,"FPz": 8,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 3,"CPz": 3,"CFatt": 0,"CFatt_D": -100,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0,"CPrezzo": null},
+{"DscProd": "CETIRIZINA MY7CPR RIV 10MG","DscDitta": "MYLAN SpA","FFt": 9,"FPz": 9,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 8,"CPz": 8,"CFatt": 29.04,"CFatt_D": 49.68,"CPezzi": 7,"CPezzi_D": 43.59,"CQuota": 2.26,"CPrezzo": 3.99} 
+]}

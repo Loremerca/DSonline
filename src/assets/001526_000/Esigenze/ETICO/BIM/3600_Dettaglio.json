@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antidiarroici"
+ ,"Tempo":"Ott 2018-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 19
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 5.47
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 13.65
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 22
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 5.31
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 12.75
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 123.7,"M": 31.18,"C": 81.87},
+{"Header": "Fatturato diff","F": -20.19,"M": 1.3,"C": 9.14},
+{"Header": "Pezzi","F": 19,"M": 5.47,"C": 13.65},
+{"Header": "Pezzi diff","F": -13.64,"M": 3.01,"C": 7.07} 
+]
+}

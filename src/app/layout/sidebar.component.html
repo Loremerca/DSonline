@@ -5,24 +5,36 @@
         <ul class="site-menu" data-plugin="menu">
           <li class="site-menu-category">QUADRO GENERALE</li>
           <li class="site-menu-item">
-            <a class="" routerLink="/dashboard">
-              <i class="site-menu-icon io-dashboard" aria-hidden="true"></i>
-              <span class="site-menu-title">Dashboard</span>
+            <a class="" routerLink="/home">
+              <i class="site-menu-icon io-home" aria-hidden="true"></i>
+              <span class="site-menu-title">Home</span>
+            </a>
+          </li>
+          <li class="site-menu-item">
+            <a class="animsition-link" routerLink="/dashboard">
+              <i class="site-menu-icon fa-fast-forward" aria-hidden="true"></i>
+              <span class="site-menu-title">Cruscotto</span>
             </a>
           </li>
           <li class="site-menu-item">
             <a class="animsition-link" routerLink="/analisi_scontrini">
               <i class="site-menu-icon md-receipt" aria-hidden="true"></i>
-              <span class="site-menu-title">Analisi transazioni scontrini</span>
+              <span class="">Analisi transazioni scontrini</span>
             </a>
           </li>
           <li class="site-menu-item">
             <a class="animsition-link" routerLink="/analisi_ingressi">
               <i class="site-menu-icon md-time-countdown" aria-hidden="true"></i>
-              <span class="site-menu-title">Analisi ingressi per fascia oraria</span>
+              <span class="">Analisi ingressi fascia oraria</span>
             </a>
           </li>
-          <li class="site-menu-category">CLASSIFICAZIONE MERCEOLOGICA</li>
+          <li class="site-menu-item">
+            <a class="animsition-link" routerLink="/analisi_referenze">
+              <i class="site-menu-icon fa-file-o" aria-hidden="true"></i>
+              <span class="">Analisi dettaglio referenze</span>
+            </a>
+          </li>
+          <li class="site-menu-category">MERCEOLOGIE</li>
           <li class="site-menu-item {{mc.subs?'has-sub':''}}" *ngFor="let mc of merceologica">
             <a routerLink="/merceologica/{{mc.codice}}/{{mc.nome}}">
               <i class="site-menu-icon fa-leaf" aria-hidden="true"></i>
@@ -53,9 +65,9 @@
 
             </ul>
           </li>
-          <li class="site-menu-category">CLASSIFICAZIONE ESIGENZE</li>
+          <li class="site-menu-category">ESIGENZE</li>
           <li class="site-menu-item has-sub">
-            <a href="javascript:void(0)">
+            <a routerLink="/riepilogoesigenze">
               <i class="site-menu-icon fa-list-ul" aria-hidden="true"></i>
               <span class="site-menu-title">Tutte le esigenze</span>
               <span class="site-menu-arrow"></span>

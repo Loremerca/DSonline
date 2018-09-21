@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Lassativi"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 1702
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 486.13
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 954.74
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 1591
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 459.96
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 852.96
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 21882.6,"M": 5893.9,"C": 11873.6},
+{"Header": "Fatturato diff","F": 11.18,"M": 6.32,"C": 11.83},
+{"Header": "Pezzi","F": 1702,"M": 486.13,"C": 954.74},
+{"Header": "Pezzi diff","F": 6.98,"M": 5.69,"C": 11.93} 
+]
+}

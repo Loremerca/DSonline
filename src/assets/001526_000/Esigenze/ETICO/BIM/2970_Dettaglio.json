@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antiflatulenza"
+ ,"Tempo":"Ott 2018-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 1
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 0.5
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 0.75
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 3
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 0.76
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1.29
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 17.08,"M": 8.53,"C": 12.81},
+{"Header": "Fatturato diff","F": -54.5,"M": -31.04,"C": -37.43},
+{"Header": "Pezzi","F": 1,"M": 0.5,"C": 0.75},
+{"Header": "Pezzi diff","F": -66.67,"M": -34.13,"C": -41.94} 
+]
+}

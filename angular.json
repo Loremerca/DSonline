@@ -46,6 +46,7 @@
               "src/assets/Remark/base/assets/css/site.css",
               "node_modules/c3/c3.min.css",
               "src/assets/dsmaterial.css",
+              "src/assets/dsmaterialpdf.css",
               "src/assets/dsmaterial12.css",
               "src/assets/dsonline.css"
 
@@ -75,6 +76,8 @@
               "src/assets/Remark/global/js/Plugin.js",
               "src/assets/Remark/global/js/Base.js",
               "src/assets/Remark/global/js/Config.js",
+              "node_modules/jspdf/dist/jspdf.min.js",
+              "node_modules/jspdf-autotable/dist/jspdf.plugin.autotable.js",
               "src/assets/Remark/base/assets/js/Section/Menubar.js",
               "src/assets/Remark/base/assets/js/Section/GridMenu.js",
               "src/assets/Remark/base/assets/js/Section/Sidebar.js",

@@ -1,0 +1,8 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "VISUFARMA SpA","FFt": 1,"FPz": 2,"FFatt": 72,"FFatt_D": -33.33,"FPezzi": 8,"FPezzi_D": -33.33,"FQuota": 42.11,"FPrezzo": 9,"FRef": 1,"MFt": 3,"MPz": 3,"MFatt": 10.71,"MFatt_D": -6.62,"MPezzi": 1,"MPezzi_D": -21.9,"MQuota": 21.77,"MPrezzo": 8.98,"MRef": 1},
+{"DscDitta": "ANGENERICO SpA","FFt": 2,"FPz": 1,"FFatt": 51.7,"FFatt_D": 10,"FPezzi": 11,"FPezzi_D": 10,"FQuota": 57.89,"FPrezzo": 4.7,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 4.33,"MFatt_D": 19.97,"MPezzi": 0.922,"MPezzi_D": 19.72,"MQuota": 16.85,"MPrezzo": 4.69,"MRef": 1},
+{"DscDitta": "SANDOZ SpA","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 2,"MPz": 4,"MFatt": 12.37,"MFatt_D": 5.33,"MPezzi": 3,"MPezzi_D": 19.4,"MQuota": 48.12,"MPrezzo": 4.7,"MRef": 1},
+{"DscDitta": "1 ditte coinvolte","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 4,"MPz": 2,"MFatt": 3.77,"MFatt_D": -4.73,"MPezzi": 1,"MPezzi_D": 33.44,"MQuota": 12.85,"MPrezzo": 5.2,"MRef": 1} 
+]}

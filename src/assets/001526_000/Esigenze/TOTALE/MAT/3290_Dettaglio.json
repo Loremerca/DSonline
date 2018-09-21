@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Ipocolesteromizzanti"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 17368
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 5979.76
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 9558.61
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 16873
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 6010.59
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 9287.27
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 236137.33,"M": 71491.32,"C": 122273.12},
+{"Header": "Fatturato diff","F": -3.61,"M": -20.89,"C": -16.04},
+{"Header": "Pezzi","F": 17368,"M": 5979.76,"C": 9558.61},
+{"Header": "Pezzi diff","F": 2.93,"M": -0.51,"C": 2.92} 
+]
+}

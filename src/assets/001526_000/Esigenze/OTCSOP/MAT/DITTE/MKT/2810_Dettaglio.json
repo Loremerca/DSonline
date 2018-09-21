@@ -1,0 +1,11 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "VEMEDIA PHARMA Srl","FFt": 1,"FPz": 1,"FFatt": 4321.07,"FFatt_D": 8.81,"FPezzi": 544,"FPezzi_D": 6.88,"FQuota": 94.44,"FPrezzo": 7.94,"FRef": 4,"MFt": 1,"MPz": 1,"MFatt": 641.3,"MFatt_D": 5.69,"MPezzi": 59,"MPezzi_D": 1.2,"MQuota": 89.92,"MPrezzo": 10.93,"MRef": 3},
+{"DscDitta": "TEOFARMA Srl","FFt": 2,"FPz": 2,"FFatt": 151.85,"FFatt_D": -30.28,"FPezzi": 12,"FPezzi_D": -33.33,"FQuota": 2.08,"FPrezzo": 12.65,"FRef": 1,"MFt": 2,"MPz": 2,"MFatt": 32.6,"MFatt_D": 3.9,"MPezzi": 2,"MPezzi_D": -16.1,"MQuota": 3.75,"MPrezzo": 13.3,"MRef": 1},
+{"DscDitta": "KELEMATA Srl","FFt": 3,"FPz": 3,"FFatt": 72,"FFatt_D": 50.94,"FPezzi": 10,"FPezzi_D": 42.86,"FQuota": 1.74,"FPrezzo": 7.2,"FRef": 1,"MFt": 5,"MPz": 4,"MFatt": 4.33,"MFatt_D": -18.89,"MPezzi": 0.545,"MPezzi_D": -20.44,"MQuota": 0.83,"MPrezzo": 7.94,"MRef": 0},
+{"DscDitta": "ALFA WASSERMANN SpA","FFt": 4,"FPz": 4,"FFatt": 56.8,"FFatt_D": 14.29,"FPezzi": 8,"FPezzi_D": 14.29,"FQuota": 1.39,"FPrezzo": 7.1,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 12.05,"MFatt_D": -25.33,"MPezzi": 1,"MPezzi_D": -49.89,"MQuota": 2.25,"MPrezzo": 8.21,"MRef": 1},
+{"DscDitta": "LIZOFARM Srl","FFt": 5,"FPz": 5,"FFatt": 48.45,"FFatt_D": 5.56,"FPezzi": 2,"FPezzi_D": 0,"FQuota": 0.35,"FPrezzo": 24.23,"FRef": 1,"MFt": 4,"MPz": 5,"MFatt": 20.33,"MFatt_D": -19.11,"MPezzi": 0.869,"MPezzi_D": -15.42,"MQuota": 1.33,"MPrezzo": 23.39,"MRef": 0},
+{"DscDitta": "DR.WILLMAR SCHWABE GmbH&CO.KG","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 3,"MPz": 3,"MFatt": 17.02,"MFatt_D": -13.28,"MPezzi": 1,"MPezzi_D": -30.4,"MQuota": 1.68,"MPrezzo": 15.47,"MRef": 0},
+{"DscDitta": "3 ditte coinvolte","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 7,"MPz": 7,"MFatt": 1.74,"MFatt_D": -29.5,"MPezzi": 0,"MPezzi_D": -100,"MQuota": 0.23,"MPrezzo": 11.46,"MRef": 0} 
+]}

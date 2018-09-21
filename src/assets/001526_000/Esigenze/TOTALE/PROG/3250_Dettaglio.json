@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antiemorroidali"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 1822
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 473.58
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1087.65
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 1516
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 460.66
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1023.33
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 17228.26,"M": 5394.42,"C": 12095.95},
+{"Header": "Fatturato diff","F": 24.39,"M": 4.64,"C": 7.09},
+{"Header": "Pezzi","F": 1822,"M": 473.58,"C": 1087.65},
+{"Header": "Pezzi diff","F": 20.18,"M": 2.8,"C": 6.29} 
+]
+}

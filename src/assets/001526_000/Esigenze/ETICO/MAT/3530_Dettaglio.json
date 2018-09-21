@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Salute della bocca"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 92
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 90.33
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 162.94
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 93
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 93.6
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 166.59
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 983.9,"M": 878.11,"C": 1658.47},
+{"Header": "Fatturato diff","F": 0.45,"M": -3.92,"C": -3.33},
+{"Header": "Pezzi","F": 92,"M": 90.33,"C": 162.94},
+{"Header": "Pezzi diff","F": -1.08,"M": -3.49,"C": -2.19} 
+]
+}

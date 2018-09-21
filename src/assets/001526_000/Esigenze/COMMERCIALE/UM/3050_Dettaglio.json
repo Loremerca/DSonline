@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Decongestionanti nasali"
+ ,"Tempo":"Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 662
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 169.37
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 479.86
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 727
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 151.3
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 403.83
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 4304.96,"M": 1654.91,"C": 4372.05},
+{"Header": "Fatturato diff","F": -8.38,"M": 16.21,"C": 22.55},
+{"Header": "Pezzi","F": 662,"M": 169.37,"C": 479.86},
+{"Header": "Pezzi diff","F": -8.94,"M": 11.94,"C": 18.83} 
+]
+}

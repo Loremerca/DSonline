@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 15831.42,"FFatt_D": 17.82,"FPezzi": 1570,"FPezzi_D": 15.19,"FQuota": 80.51,"FPrezzo": 10.08,"FRef": 7,"MFt": 1,"MPz": 1,"MFatt": 7606.76,"MFatt_D": 3.14,"MPezzi": 566,"MPezzi_D": -0.96,"MQuota": 76.57,"MPrezzo": 13.45,"MRef": 6},
+{"DscDitta": "ZAMBON ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 1998.24,"FFatt_D": -14.26,"FPezzi": 228,"FPezzi_D": -22.97,"FQuota": 11.69,"FPrezzo": 8.76,"FRef": 3,"MFt": 2,"MPz": 2,"MFatt": 1035.65,"MFatt_D": 1.97,"MPezzi": 85,"MPezzi_D": -2.65,"MQuota": 11.57,"MPrezzo": 12.12,"MRef": 3},
+{"DscDitta": "BRUSCHETTINI Srl","FFt": 3,"FPz": 3,"FFatt": 1056.36,"FFatt_D": 12.16,"FPezzi": 93,"FPezzi_D": 12.05,"FQuota": 4.77,"FPrezzo": 11.36,"FRef": 2,"MFt": 4,"MPz": 4,"MFatt": 304.51,"MFatt_D": -7.3,"MPezzi": 25,"MPezzi_D": -6.2,"MQuota": 3.33,"MPrezzo": 12.39,"MRef": 2},
+{"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 4,"FPz": 4,"FFatt": 687.9,"FFatt_D": -8.18,"FPezzi": 57,"FPezzi_D": -13.64,"FQuota": 2.92,"FPrezzo": 12.07,"FRef": 1,"MFt": 3,"MPz": 3,"MFatt": 717.25,"MFatt_D": 12.19,"MPezzi": 50,"MPezzi_D": 6.31,"MQuota": 6.72,"MPrezzo": 14.46,"MRef": 1},
+{"DscDitta": "SIT LABORATORIO FARMAC. Srl","FFt": 5,"FPz": 5,"FFatt": 23.4,"FFatt_D": -77.78,"FPezzi": 2,"FPezzi_D": -77.78,"FQuota": 0.1,"FPrezzo": 11.7,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 36.4,"MFatt_D": 2.88,"MPezzi": 3,"MPezzi_D": 8.39,"MQuota": 0.39,"MPrezzo": 12.67,"MRef": 1},
+{"DscDitta": "AKKADEAS PHARMA Srl","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 5,"MPz": 5,"MFatt": 81.76,"MFatt_D": -0.97,"MPezzi": 6,"MPezzi_D": 6.1,"MQuota": 0.76,"MPrezzo": 14.6,"MRef": 1},
+{"DscDitta": "BB FARMA Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 7,"MPz": 7,"MFatt": 25.05,"MFatt_D": -16.74,"MPezzi": 3,"MPezzi_D": -20.81,"MQuota": 0.42,"MPrezzo": 8,"MRef": 1},
+{"DscDitta": "FIEGE LOGISTICS ITALIA SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 8,"MPz": 8,"MFatt": 11.26,"MFatt_D": -30.05,"MPezzi": 1,"MPezzi_D": -34.78,"MQuota": 0.15,"MPrezzo": 10.46,"MRef": 0},
+{"DscDitta": "6 ditte coinvolte","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 9,"MPz": 9,"MFatt": 8.91,"MFatt_D": -20.91,"MPezzi": 1,"MPezzi_D": -0.46,"MQuota": 0.11,"MPrezzo": 6.96,"MRef": 0} 
+]}

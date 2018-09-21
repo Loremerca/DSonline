@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Anticellulite"
+ ,"Tempo":"Ott 2018-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 81
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 8
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 32.89
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 110
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 11.31
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 49.92
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 1676.4,"M": 219.65,"C": 915.7},
+{"Header": "Fatturato diff","F": -22.44,"M": -28.02,"C": -35.68},
+{"Header": "Pezzi","F": 81,"M": 8,"C": 32.89},
+{"Header": "Pezzi diff","F": -26.36,"M": -29.3,"C": -34.1} 
+]
+}

@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 17166.22,"FFatt_D": 15.04,"FPezzi": 1700,"FPezzi_D": 12.14,"FQuota": 80.45,"FPrezzo": 10.1,"FRef": 7,"CFt": 1,"CPz": 1,"CFatt": 18028.55,"CFatt_D": 7.19,"CPezzi": 1413,"CPezzi_D": 3.78,"CQuota": 77.93,"CPrezzo": 12.76,"CRef": 7},
+{"DscDitta": "ZAMBON ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 2204.04,"FFatt_D": -16.63,"FPezzi": 252,"FPezzi_D": -25.88,"FQuota": 11.93,"FPrezzo": 8.75,"FRef": 3,"CFt": 2,"CPz": 2,"CFatt": 2424.26,"CFatt_D": 11.12,"CPezzi": 213,"CPezzi_D": 7.24,"CQuota": 11.73,"CPrezzo": 11.4,"CRef": 3},
+{"DscDitta": "BRUSCHETTINI Srl","FFt": 3,"FPz": 3,"FFatt": 1101.56,"FFatt_D": 7.39,"FPezzi": 97,"FPezzi_D": 6.59,"FQuota": 4.59,"FPrezzo": 11.36,"FRef": 2,"CFt": 4,"CPz": 4,"CFatt": 486.85,"CFatt_D": -12.39,"CPezzi": 40,"CPezzi_D": -12.33,"CQuota": 2.19,"CPrezzo": 12.28,"CRef": 2},
+{"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 4,"FPz": 4,"FFatt": 733.1,"FFatt_D": -13.42,"FPezzi": 61,"FPezzi_D": -18.67,"FQuota": 2.89,"FPrezzo": 12.02,"FRef": 1,"CFt": 3,"CPz": 3,"CFatt": 1770.87,"CFatt_D": 10.08,"CPezzi": 130,"CPezzi_D": 4.35,"CQuota": 7.15,"CPrezzo": 13.66,"CRef": 1},
+{"DscDitta": "SIT LABORATORIO FARMAC. Srl","FFt": 5,"FPz": 5,"FFatt": 35.1,"FFatt_D": -66.67,"FPezzi": 3,"FPezzi_D": -66.67,"FQuota": 0.14,"FPrezzo": 11.7,"FRef": 1,"CFt": 6,"CPz": 6,"CFatt": 100.9,"CFatt_D": 51.5,"CPezzi": 8,"CPezzi_D": 47.69,"CQuota": 0.44,"CPrezzo": 12.71,"CRef": 1},
+{"DscDitta": "AKKADEAS PHARMA Srl","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 5,"CPz": 5,"CFatt": 155.2,"CFatt_D": -9.1,"CPezzi": 10,"CPezzi_D": -11.77,"CQuota": 0.57,"CPrezzo": 15.1,"CRef": 1},
+{"DscDitta": "BB FARMA Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 9,"CPz": 7,"CFatt": 0,"CFatt_D": null,"CPezzi": 0,"CPezzi_D": null,"CQuota": 0,"CPrezzo": null,"CRef": 0},
+{"DscDitta": "FIEGE LOGISTICS ITALIA SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 7,"CPz": 9,"CFatt": -0.38,"CFatt_D": null,"CPezzi": -0.043,"CPezzi_D": null,"CQuota": 0,"CPrezzo": 8.85,"CRef": 0},
+{"DscDitta": "6 ditte coinvolte","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 8,"CPz": 8,"CFatt": 0.94,"CFatt_D": 186.08,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0,"CPrezzo": 3.77,"CRef": 0} 
+]}

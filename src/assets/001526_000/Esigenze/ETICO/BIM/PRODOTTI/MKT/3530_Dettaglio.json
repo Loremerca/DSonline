@@ -1,0 +1,13 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "ACICLINCREMA 10G 5%","DscDitta": "FIDIA FARMACEUTICI SpA","FFt": 1,"FPz": 1,"FFatt": 25.5,"FFatt_D": 50,"FPezzi": 3,"FPezzi_D": 50,"FQuota": 27.27,"FPrezzo": 8.5,"MFt": 7,"MPz": 7,"MFatt": 11.36,"MFatt_D": 18.98,"MPezzi": 1,"MPezzi_D": -11.22,"MQuota": 10.58,"MPrezzo": 8.49},
+{"DscProd": "ACICLOVIR EGCR 10G 5%","DscDitta": "EG SpA","FFt": 2,"FPz": 2,"FFatt": 25.5,"FFatt_D": 50,"FPezzi": 3,"FPezzi_D": 50,"FQuota": 27.27,"FPrezzo": 8.5,"MFt": 3,"MPz": 2,"MFatt": 25.99,"MFatt_D": 7.51,"MPezzi": 3,"MPezzi_D": 5.16,"MQuota": 24.23,"MPrezzo": 8.48},
+{"DscProd": "CORTIFLUORALSOLUZ ODONT 10ML","DscDitta": "BAYER SpA","FFt": 3,"FPz": 3,"FFatt": 21.6,"FFatt_D": -66.67,"FPezzi": 2,"FPezzi_D": -66.67,"FQuota": 18.18,"FPrezzo": 10.8,"MFt": 2,"MPz": 3,"MFatt": 26.74,"MFatt_D": -50.82,"MPezzi": 2,"MPezzi_D": -60.38,"MQuota": 19.58,"MPrezzo": 10.79},
+{"DscProd": "ZOVIRAXCREMA 10G 5%","DscDitta": "GLAXOSMITHKLINE SpA","FFt": 4,"FPz": 5,"FFatt": 21.5,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 9.09,"FPrezzo": 21.5,"MFt": 1,"MPz": 1,"MFatt": 10.52,"MFatt_D": 21.88,"MPezzi": 0.489,"MPezzi_D": 21.55,"MQuota": 3.87,"MPrezzo": 21.5},
+{"DscProd": "ACICLOVIR AUROCREMA 10G 5%","DscDitta": "AUROBINDO PHARMA ITALIA Srl","FFt": 5,"FPz": 4,"FFatt": 16.2,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 18.18,"FPrezzo": 8.1,"MFt": 4,"MPz": 6,"MFatt": 0.9,"MFatt_D": 31.2,"MPezzi": 0.111,"MPezzi_D": 30.5,"MQuota": 0.88,"MPrezzo": 8.1},
+{"DscProd": "Altre 11 referenze","DscDitta": "11 ditte coinvolte","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"MFt": 6,"MPz": 8,"MFatt": 5.62,"MFatt_D": -38.15,"MPezzi": 1,"MPezzi_D": 1.4,"MQuota": 4.98,"MPrezzo": 6.08},
+{"DscProd": "ACICLOVIR DOROMCREMA 10G 5%","DscDitta": "TEVA ITALIA Srl","FFt": 7,"FPz": 7,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"MFt": 8,"MPz": 4,"MFatt": 30.84,"MFatt_D": 43.28,"MPezzi": 4,"MPezzi_D": 60.22,"MQuota": 28.05,"MPrezzo": 8.69},
+{"DscProd": "ACICLOVIR DOCCR 10G 5%","DscDitta": "DOC GENERICI Srl","FFt": 8,"FPz": 8,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"MFt": 9,"MPz": 9,"MFatt": 5.5,"MFatt_D": -22.11,"MPezzi": 0.678,"MPezzi_D": -22.18,"MQuota": 5.36,"MPrezzo": 8.1},
+{"DscProd": "ACICLOVIR ALMUSCREMA 10G 5%","DscDitta": "SKILLS IN HEALTHCARE ITALIA Sr","FFt": 9,"FPz": 9,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"MFt": 5,"MPz": 5,"MFatt": 2.87,"MFatt_D": -18.12,"MPezzi": 0.333,"MPezzi_D": -18.62,"MQuota": 2.63,"MPrezzo": 8.6} 
+]}

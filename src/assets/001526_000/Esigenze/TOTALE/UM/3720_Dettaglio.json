@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Aging care donna"
+ ,"Tempo":"Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 157
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 30.42
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 81.36
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 127
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 28.16
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 73.42
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 2931.54,"M": 486.96,"C": 1344.82},
+{"Header": "Fatturato diff","F": 12.22,"M": 11.37,"C": 12.09},
+{"Header": "Pezzi","F": 157,"M": 30.42,"C": 81.36},
+{"Header": "Pezzi diff","F": 23.62,"M": 8.04,"C": 10.82} 
+]
+}

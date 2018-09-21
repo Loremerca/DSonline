@@ -1,22 +1,87 @@
 <!-- Page -->
 <div class="page">
-  <div class="page-header">
-    <h1 class="page-title">{{title}}</h1>
-  </div>
-  <div class="page-content container-fluid">
-    <div class="row" data-plugin="matchHeight" data-by-row="true">
-      <div class="col-xxl-12 col-lg-12">
-        <div class="card card-shadow card-responsive" id="widgetLineareaColor">
-          <div class="card-block p-0">
-            <div class="pt-30 p-30" style="height:calc(100% - 50px);">
-              <div class="col-12">
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="page-header">
+        <h1 class="page-title">{{title | sanitizeHtml}}</h1>
     </div>
-  </div>
+    <div class="page-content container-fluid">
+        <div class="row" data-plugin="matchHeight" data-by-row="true">
+            <div class="col-xxl-12 col-lg-12">
+                <div class="panel panel-bordered">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">
+                            {{sottotitolo1 | sanitizeHtml}}
+                            <br>{{sottotitolo2 | sanitizeHtml}}
+                        </h3>
+                    </div>
+                    <div class="panel-body">
+                        <ngx-datatable
+                                class="dsmaterial"
+                                [rows]="datifilter['DatiGrafico']"
+                                [columnMode]="'flex'"
+                                [headerHeight]="60"
+                                [footerHeight]="0"
+                                [rowHeight]="35">
+                            <ngx-datatable-column name="" prop="Esigenza" [flexGrow]="4">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <strong>{{value}}</strong>
+                                </ng-template>
+                            </ngx-datatable-column>
+                            <ngx-datatable-column name="Pezzi al <br> {{datarif}}" prop="Pz_APA_Con" [flexGrow]="2">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <strong>{{value}}</strong>
+                                </ng-template>
+                            </ngx-datatable-column>
+                            <ngx-datatable-column name="" prop="QuotaRaggiunta" [flexGrow]="4">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <div class="progress progress-lg">
+                                        <div class="progress-bar progress-bar-striped bg-primary-700"
+                                             [style.width]="value + '%'"
+                                             role="progressbar">
+                                            {{value}}%
+                                        </div>
+                                    </div>
+                                </ng-template>
+                            </ngx-datatable-column>
+                            <ngx-datatable-column name="Pezzi Ob." prop="PezziObjAPA" [flexGrow]="2"
+                                                  *ngIf="dati['BooleanTarget'] === 1">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <strong>{{value}}</strong>
+                                </ng-template>
+                            </ngx-datatable-column>
+                            <ngx-datatable-column name="Quota OB." prop="QuotaOBB"
+                                                  [flexGrow]="2"
+                                                  *ngIf="dati['BooleanTarget'] === 1">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <strong>{{value}}</strong>
+                                </ng-template>
+                            </ngx-datatable-column>
+                            <ngx-datatable-column name="Quota al <br> {{datarif}}" prop="QuotaAUTOM"
+                                                  [flexGrow]="2"
+                                                  *ngIf="dati['BooleanTarget'] === 1">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <strong>{{value}}</strong>
+                                </ng-template>
+                            </ngx-datatable-column>
+                            <ngx-datatable-column name="PZ. Autom." prop="Pz_Automed_Con"
+                                                  [flexGrow]="2"
+                                                  *ngIf="dati['BooleanTarget'] === 0">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <strong>{{value}}</strong>
+                                </ng-template>
+                            </ngx-datatable-column>
+                            <ngx-datatable-column name="Quota al <br> {{datarif}}" prop="QuotaRaggiunta"
+                                                  [flexGrow]="2"
+                                                  *ngIf="dati['BooleanTarget'] === 0">
+                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                    <strong>{{value}}</strong>
+                                </ng-template>
+                            </ngx-datatable-column>
+
+                        </ngx-datatable>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- End Page Content -->

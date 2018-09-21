@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antiacidi"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 33656
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 11076.01
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 18207.25
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 36608
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 13110.68
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 20033.67
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 223846.23,"M": 72353.74,"C": 123436.8},
+{"Header": "Fatturato diff","F": -6.27,"M": -13.01,"C": -5.87},
+{"Header": "Pezzi","F": 33656,"M": 11076.01,"C": 18207.25},
+{"Header": "Pezzi diff","F": -8.06,"M": -15.52,"C": -9.12} 
+]
+}

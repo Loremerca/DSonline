@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Fermenti e flora intestinale"
+ ,"Tempo":"Ott 2018-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 299
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 129.5
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 290.04
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 300
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 121.53
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 251.83
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 2914.65,"M": 1747.11,"C": 3623.49},
+{"Header": "Fatturato diff","F": -4.46,"M": 11.07,"C": 15.46},
+{"Header": "Pezzi","F": 299,"M": 129.5,"C": 290.04},
+{"Header": "Pezzi diff","F": -0.33,"M": 6.56,"C": 15.17} 
+]
+}

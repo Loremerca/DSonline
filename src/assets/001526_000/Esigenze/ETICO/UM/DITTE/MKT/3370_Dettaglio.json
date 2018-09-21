@@ -1,0 +1,16 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "ANGELINI SpA","FFt": 1,"FPz": 1,"FFatt": 3299.5,"FFatt_D": 4.75,"FPezzi": 455,"FPezzi_D": 5.32,"FQuota": 79.96,"FPrezzo": 7.25,"FRef": 6,"MFt": 1,"MPz": 1,"MFatt": 1092.45,"MFatt_D": 11.78,"MPezzi": 152,"MPezzi_D": 11.22,"MQuota": 79.3,"MPrezzo": 7.17,"MRef": 6},
+{"DscDitta": "EG SpA","FFt": 2,"FPz": 2,"FFatt": 226.53,"FFatt_D": -22.86,"FPezzi": 27,"FPezzi_D": -22.86,"FQuota": 4.75,"FPrezzo": 8.39,"FRef": 2,"MFt": 2,"MPz": 2,"MFatt": 68.68,"MFatt_D": -9.27,"MPezzi": 8,"MPezzi_D": -12.08,"MQuota": 4.4,"MPrezzo": 8.13,"MRef": 3},
+{"DscDitta": "PHARMACARE Srl","FFt": 3,"FPz": 3,"FFatt": 189.6,"FFatt_D": 71.43,"FPezzi": 24,"FPezzi_D": 71.43,"FQuota": 4.22,"FPrezzo": 7.9,"FRef": 1,"MFt": 3,"MPz": 3,"MFatt": 64.98,"MFatt_D": 8.77,"MPezzi": 8,"MPezzi_D": 5.61,"MQuota": 4.28,"MPrezzo": 7.9,"MRef": 1},
+{"DscDitta": "SANOFI SpA","FFt": 4,"FPz": 5,"FFatt": 127.5,"FFatt_D": -40.27,"FPezzi": 17,"FPezzi_D": -39.29,"FQuota": 2.99,"FPrezzo": 7.5,"FRef": 2,"MFt": 6,"MPz": 6,"MFatt": 39.44,"MFatt_D": -0.68,"MPezzi": 5,"MPezzi_D": -3.85,"MQuota": 2.68,"MPrezzo": 7.65,"MRef": 2},
+{"DscDitta": "DOC GENERICI Srl","FFt": 5,"FPz": 4,"FFatt": 114,"FFatt_D": null,"FPezzi": 19,"FPezzi_D": null,"FQuota": 3.34,"FPrezzo": 6,"FRef": 1,"MFt": 4,"MPz": 4,"MFatt": 7.69,"MFatt_D": -37.81,"MPezzi": 1,"MPezzi_D": -51.56,"MQuota": 0.67,"MPrezzo": 6,"MRef": 1},
+{"DscDitta": "CHEFARO PHARMA ITALIA Srl","FFt": 6,"FPz": 6,"FFatt": 102.8,"FFatt_D": -51.19,"FPezzi": 12,"FPezzi_D": -50,"FQuota": 2.11,"FPrezzo": 8.57,"FRef": 2,"MFt": 12,"MPz": 12,"MFatt": 54.95,"MFatt_D": -1.6,"MPezzi": 7,"MPezzi_D": 1.64,"MQuota": 3.5,"MPrezzo": 8.18,"MRef": 2},
+{"DscDitta": "BRUNO FARMACEUTICI SpA","FFt": 7,"FPz": 8,"FFatt": 27,"FFatt_D": -25,"FPezzi": 3,"FPezzi_D": -25,"FQuota": 0.53,"FPrezzo": 9,"FRef": 1,"MFt": 7,"MPz": 7,"MFatt": 19.89,"MFatt_D": 22.19,"MPezzi": 2,"MPezzi_D": 10.13,"MQuota": 1.16,"MPrezzo": 8.95,"MRef": 1},
+{"DscDitta": "BAYER SpA","FFt": 8,"FPz": 7,"FFatt": 25.2,"FFatt_D": 0,"FPezzi": 6,"FPezzi_D": 0,"FQuota": 1.05,"FPrezzo": 4.2,"FRef": 1,"MFt": 8,"MPz": 8,"MFatt": 9.77,"MFatt_D": -4.54,"MPezzi": 2,"MPezzi_D": -18.16,"MQuota": 1.21,"MPrezzo": 4.2,"MRef": 1},
+{"DscDitta": "BOEHRINGER INGELHEIM IT.SpA","FFt": 9,"FPz": 9,"FFatt": 21.45,"FFatt_D": -25,"FPezzi": 3,"FPezzi_D": -25,"FQuota": 0.53,"FPrezzo": 7.15,"FRef": 1,"MFt": 10,"MPz": 5,"MFatt": 1.54,"MFatt_D": 0,"MPezzi": 0.215,"MPezzi_D": -0.51,"MQuota": 0.11,"MPrezzo": 7.15,"MRef": 1},
+{"DscDitta": "ABIOGEN PHARMA SpA","FFt": 10,"FPz": 10,"FFatt": 19.5,"FFatt_D": -62.5,"FPezzi": 3,"FPezzi_D": -62.5,"FQuota": 0.53,"FPrezzo": 6.5,"FRef": 1,"MFt": 11,"MPz": 10,"MFatt": 8.34,"MFatt_D": -16.48,"MPezzi": 1,"MPezzi_D": -35.27,"MQuota": 0.67,"MPrezzo": 6.5,"MRef": 1},
+{"DscDitta": "RATIOPHARM ITALIA Srl","FFt": 11,"FPz": 11,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 1,"MFt": 5,"MPz": 11,"MFatt": 8.12,"MFatt_D": 10.08,"MPezzi": 1,"MPezzi_D": -7.25,"MQuota": 0.61,"MPrezzo": 6.9,"MRef": 1},
+{"DscDitta": "21 ditte coinvolte","FFt": 12,"FPz": 12,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 9,"MPz": 9,"MFatt": 21.1,"MFatt_D": 21.38,"MPezzi": 3,"MPezzi_D": 42,"MQuota": 1.42,"MPrezzo": 8.67,"MRef": 0} 
+]}

@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Benessere Cardiovascolare"
+ ,"Tempo":"Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 144
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 17.57
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 45.86
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 125
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 18.88
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 54.29
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 3220.06,"M": 455.99,"C": 1127.25},
+{"Header": "Fatturato diff","F": 19.95,"M": -0.2,"C": -16.85},
+{"Header": "Pezzi","F": 144,"M": 17.57,"C": 45.86},
+{"Header": "Pezzi diff","F": 15.2,"M": -6.92,"C": -15.54} 
+]
+}

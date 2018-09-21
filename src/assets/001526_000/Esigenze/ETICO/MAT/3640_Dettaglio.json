@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antistaminici"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 2790
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 1358.62
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 2568.78
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 2593
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 1363.88
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 2433.84
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 19702.09,"M": 9536.05,"C": 18636.82},
+{"Header": "Fatturato diff","F": 5.85,"M": -0.71,"C": 4.99},
+{"Header": "Pezzi","F": 2790,"M": 1358.62,"C": 2568.78},
+{"Header": "Pezzi diff","F": 7.6,"M": -0.39,"C": 5.54} 
+]
+}

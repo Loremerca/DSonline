@@ -1,0 +1,17 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "GLAXOSMITHKLINE C.HEALTH.SpA","FFt": 1,"FPz": 1,"FFatt": 219.9,"FFatt_D": 19.38,"FPezzi": 31,"FPezzi_D": 19.23,"FQuota": 43.66,"FPrezzo": 7.09,"FRef": 3,"MFt": 1,"MPz": 1,"MFatt": 67.22,"MFatt_D": 4.48,"MPezzi": 7,"MPezzi_D": 0.23,"MQuota": 26.5,"MPrezzo": 9.63,"MRef": 3},
+{"DscDitta": "GLAXOSMITHKLINE SpA","FFt": 2,"FPz": 2,"FFatt": 133,"FFatt_D": 216.67,"FPezzi": 19,"FPezzi_D": 137.5,"FQuota": 26.76,"FPrezzo": 7,"FRef": 1,"MFt": 2,"MPz": 2,"MFatt": 39.49,"MFatt_D": 4.19,"MPezzi": 5,"MPezzi_D": 10.52,"MQuota": 17.69,"MPrezzo": 8.48,"MRef": 1},
+{"DscDitta": "TEVA ITALIA Srl","FFt": 3,"FPz": 3,"FFatt": 36.9,"FFatt_D": null,"FPezzi": 6,"FPezzi_D": null,"FQuota": 8.45,"FPrezzo": 6.15,"FRef": 1,"MFt": 13,"MPz": 13,"MFatt": 9.69,"MFatt_D": 3.35,"MPezzi": 1,"MPezzi_D": -25,"MQuota": 5.22,"MPrezzo": 7.04,"MRef": 3},
+{"DscDitta": "MEDA PHARMA SpA","FFt": 4,"FPz": 4,"FFatt": 33,"FFatt_D": 25,"FPezzi": 5,"FPezzi_D": 25,"FQuota": 7.04,"FPrezzo": 6.6,"FRef": 2,"MFt": 5,"MPz": 4,"MFatt": 18.81,"MFatt_D": 46.14,"MPezzi": 2,"MPezzi_D": 48.97,"MQuota": 7.51,"MPrezzo": 9.51,"MRef": 2},
+{"DscDitta": "CHEFARO PHARMA ITALIA Srl","FFt": 5,"FPz": 7,"FFatt": 24.3,"FFatt_D": 211.54,"FPezzi": 3,"FPezzi_D": 200,"FQuota": 4.23,"FPrezzo": 8.1,"FRef": 2,"MFt": 4,"MPz": 5,"MFatt": 21.63,"MFatt_D": 0.77,"MPezzi": 2,"MPezzi_D": 2.96,"MQuota": 7.19,"MPrezzo": 11.42,"MRef": 2},
+{"DscDitta": "MONTEFARMACO OTC SpA","FFt": 6,"FPz": 5,"FFatt": 21.3,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 4.23,"FPrezzo": 7.1,"FRef": 1,"MFt": 6,"MPz": 11,"MFatt": 10.52,"MFatt_D": 2.17,"MPezzi": 1,"MPezzi_D": -5.84,"MQuota": 4.11,"MPrezzo": 9.72,"MRef": 1},
+{"DscDitta": "ALFA WASSERMANN SpA","FFt": 7,"FPz": 6,"FFatt": 20,"FFatt_D": 33.33,"FPezzi": 4,"FPezzi_D": 33.33,"FQuota": 5.63,"FPrezzo": 5,"FRef": 1,"MFt": 11,"MPz": 3,"MFatt": 8.69,"MFatt_D": 1.98,"MPezzi": 1,"MPezzi_D": -3.33,"MQuota": 3.88,"MPrezzo": 8.51,"MRef": 1},
+{"DscDitta": "DOC GENERICI Srl","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 3,"MPz": 6,"MFatt": 4.22,"MFatt_D": -17.72,"MPezzi": 0.563,"MPezzi_D": -21.25,"MQuota": 2.14,"MPrezzo": 7.5,"MRef": 2},
+{"DscDitta": "EG SpA","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 7,"MPz": 7,"MFatt": 8.27,"MFatt_D": 17.85,"MPezzi": 1,"MPezzi_D": -1.14,"MQuota": 4.56,"MPrezzo": 6.88,"MRef": 1},
+{"DscDitta": "EPIFARMA Srl","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 1,"MFt": 9,"MPz": 9,"MFatt": 5.27,"MFatt_D": 22.21,"MPezzi": 0.832,"MPezzi_D": 18.66,"MQuota": 3.16,"MPrezzo": 6.33,"MRef": 2},
+{"DscDitta": "MYLAN SpA","FFt": 11,"FPz": 11,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 10,"MPz": 10,"MFatt": 10.22,"MFatt_D": 7.18,"MPezzi": 2,"MPezzi_D": 40.55,"MQuota": 5.78,"MPrezzo": 6.71,"MRef": 1},
+{"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 12,"FPz": 12,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 1,"MFt": 12,"MPz": 12,"MFatt": 4.81,"MFatt_D": 22.84,"MPezzi": 0.655,"MPezzi_D": 20.73,"MQuota": 2.49,"MPrezzo": 7.35,"MRef": 1},
+{"DscDitta": "27 ditte coinvolte","FFt": 13,"FPz": 13,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 8,"MPz": 8,"MFatt": 22.35,"MFatt_D": 3.11,"MPezzi": 3,"MPezzi_D": 15.69,"MQuota": 9.66,"MPrezzo": 7.35,"MRef": 0} 
+]}

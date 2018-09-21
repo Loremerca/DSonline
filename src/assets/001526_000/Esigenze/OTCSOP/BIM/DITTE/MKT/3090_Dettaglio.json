@@ -1,0 +1,15 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 703.5,"FFatt_D": 0.73,"FPezzi": 124,"FPezzi_D": -14.48,"FQuota": 50.82,"FPrezzo": 5.67,"FRef": 4,"MFt": 1,"MPz": 1,"MFatt": 325.51,"MFatt_D": 25.31,"MPezzi": 40,"MPezzi_D": 1.39,"MQuota": 43.47,"MPrezzo": 8.04,"MRef": 6},
+{"DscDitta": "RECKITT BENCKISER H.(IT.) SpA","FFt": 2,"FPz": 2,"FFatt": 522.4,"FFatt_D": 17.5,"FPezzi": 86,"FPezzi_D": 16.22,"FQuota": 35.25,"FPrezzo": 6.07,"FRef": 5,"MFt": 2,"MPz": 2,"MFatt": 267.23,"MFatt_D": 18.4,"MPezzi": 29,"MPezzi_D": 8.13,"MQuota": 31.58,"MPrezzo": 9.09,"MRef": 7},
+{"DscDitta": "BOEHRINGER INGELHEIM IT.SpA","FFt": 3,"FPz": 3,"FFatt": 101.75,"FFatt_D": -9.56,"FPezzi": 16,"FPezzi_D": -15.79,"FQuota": 6.56,"FPrezzo": 6.36,"FRef": 2,"MFt": 4,"MPz": 4,"MFatt": 12.99,"MFatt_D": -24.37,"MPezzi": 2,"MPezzi_D": -10.22,"MQuota": 1.81,"MPrezzo": 7.7,"MRef": 2},
+{"DscDitta": "PFIZER ITALIA Srl","FFt": 4,"FPz": 4,"FFatt": 75.6,"FFatt_D": -25.99,"FPezzi": 7,"FPezzi_D": -30,"FQuota": 2.87,"FPrezzo": 10.8,"FRef": 2,"MFt": 6,"MPz": 6,"MFatt": 78.48,"MFatt_D": 12.93,"MPezzi": 8,"MPezzi_D": 9.85,"MQuota": 8.47,"MPrezzo": 9.96,"MRef": 4},
+{"DscDitta": "A.MENARINI IND.FARM.RIUN.Srl","FFt": 5,"FPz": 5,"FFatt": 37.8,"FFatt_D": -45.45,"FPezzi": 6,"FPezzi_D": -45.45,"FQuota": 2.46,"FPrezzo": 6.3,"FRef": 1,"MFt": 5,"MPz": 3,"MFatt": 15.42,"MFatt_D": 7.39,"MPezzi": 2,"MPezzi_D": -3.55,"MQuota": 2.41,"MPrezzo": 6.86,"MRef": 2},
+{"DscDitta": "SELLA Srl","FFt": 6,"FPz": 6,"FFatt": 13.5,"FFatt_D": -40,"FPezzi": 3,"FPezzi_D": -40,"FQuota": 1.23,"FPrezzo": 4.5,"FRef": 1,"MFt": 11,"MPz": 5,"MFatt": 18.9,"MFatt_D": 21.25,"MPezzi": 4,"MPezzi_D": 34.26,"MQuota": 3.79,"MPrezzo": 5.35,"MRef": 1},
+{"DscDitta": "DOC GENERICI Srl","FFt": 7,"FPz": 7,"FFatt": 11.7,"FFatt_D": 101.72,"FPezzi": 2,"FPezzi_D": 100,"FQuota": 0.82,"FPrezzo": 5.85,"FRef": 1,"MFt": 3,"MPz": 7,"MFatt": 12.2,"MFatt_D": 8.61,"MPezzi": 2,"MPezzi_D": 9.99,"MQuota": 2.08,"MPrezzo": 6.3,"MRef": 1},
+{"DscDitta": "MARCO VITI FARMACEUTICI SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 7,"MPz": 9,"MFatt": 0.47,"MFatt_D": 304.41,"MPezzi": 0.125,"MPezzi_D": 318.27,"MQuota": 0.13,"MPrezzo": 3.77,"MRef": 0},
+{"DscDitta": "NOVA ARGENTIA SpA","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 9,"MPz": 10,"MFatt": 11.41,"MFatt_D": 40.93,"MPezzi": 2,"MPezzi_D": 45.24,"MQuota": 2.12,"MPrezzo": 5.78,"MRef": 1},
+{"DscDitta": "RATIOPHARM ITALIA Srl","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 2,"MFt": 10,"MPz": 11,"MFatt": 9.62,"MFatt_D": -8.16,"MPezzi": 2,"MPezzi_D": -9.19,"MQuota": 2.14,"MPrezzo": 4.83,"MRef": 2},
+{"DscDitta": "20 ditte coinvolte","FFt": 11,"FPz": 11,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 8,"MPz": 8,"MFatt": 14.3,"MFatt_D": -23.68,"MPezzi": 2,"MPezzi_D": -22.32,"MQuota": 2,"MPrezzo": 6.25,"MRef": 0} 
+]}

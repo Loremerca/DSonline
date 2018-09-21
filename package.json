@@ -37,9 +37,11 @@
     "hoek": "^5.0.4",
     "html2canvas": "^1.0.0-alpha.12",
     "jspdf": "^1.4.1",
+    "jspdf-autotable": "^2.3.5",
     "ngx-bootstrap": "^3.0.1",
     "ngx-gauge": "^1.0.0-beta.4",
     "rxjs": "^6.3.2",
+    "webui-popover": "^1.2.18",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
@@ -65,6 +67,6 @@
     "protractor": "~5.4.1",
     "ts-node": "~7.0.1",
     "tslint": "~5.11.0",
-    "typescript": "~3.0.3"
+    "typescript": "~2.7.2"
   }
 }

@@ -1,4 +1,4 @@
-import { Injectable } from '@angular/core';
+import { Injectable} from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Location } from '@angular/common';
 import {MerceologicaComponent} from '../views/merceologica/merceologica.component';
@@ -10,16 +10,22 @@ import {Observable} from 'rxjs';
 export class DataloadService {
 
   dashboard = 'Dashboard.json';
-  riepilogoEsGauge = 'RiepilogoEsGauge.json';
-  riepilogoEsNew = 'RiepilogoEsNew.json';
+  home = 'Home.json';
+  riepilogoEsGauge = 'RiepilogoESGauge.json';
+  riepilogoEsNew = 'RiepilogoESNew.json';
   ingressi = 'ingressi.json';
+  scontrini = 'scontrini.json';
+ // target = 'TargetConsolidatoNOTarget.json';
+  target = 'TargetConsolidato.json';
+  comp = 'complementarieta.json';
+  analisi_referenze = 'Analisi_dettaglio_Referenze.json';
+  piano_lavoro = 'PropostaKAM.json';
 
   constructor(private http: HttpClient, private _location: Location) { }
 
   getEsigenze(): Observable<Object> {
     return this.http.get('assets/codici_esigenze.json');
   }
-
   getDettaglio(folder, esigenza, tipo) {
     return this.http.get('assets/' + folder + '/Esigenze/' + tipo + '/' + esigenza  + '_Dettaglio.json');
   }
@@ -29,6 +35,12 @@ export class DataloadService {
   getDashboard(folder) {
     return this.http.get('assets/' + folder + '/' + this.dashboard);
   }
+  getHome(folder) {
+    return this.http.get('assets/' + folder + '/' + this.home);
+  }
+  getPianolavoro(folder) {
+    return this.http.get('assets/' + folder + '/' + this.piano_lavoro);
+  }
   getRiepilogoGauge(folder) {
     return this.http.get('assets/' + folder + '/' + this.riepilogoEsGauge);
   }
@@ -37,6 +49,18 @@ export class DataloadService {
   }
   getIngressi(folder) {
     return this.http.get('assets/' + folder + '/' + this.ingressi);
+  }
+  getScontrini(folder) {
+    return this.http.get('assets/' + folder + '/' + this.scontrini);
+  }
+  getAnalisiRef(folder) {
+    return this.http.get('assets/' + folder + '/' + this.analisi_referenze);
+  }
+  getTarget(folder) {
+    return this.http.get('assets/' + folder + '/' + this.target);
+  }
+  getComp(folder) {
+    return this.http.get('assets/' + folder + '/' + this.comp);
   }
 
 
@@ -60,7 +84,6 @@ export class DataloadService {
   getMercPM(folder, merc, tempo) {
     return this.http.get('assets/' + folder + '/Merceologie/' + tempo + '/PRODOTTI/MKT/' + merc + '_Dettaglio.json' );
   }
-
 
   getEsiDett(folder, merc, tempo, cat) {
     return this.http.get('assets/' + folder + '/Esigenze/' + cat + '/' + tempo + '/' + merc + '_Dettaglio.json' );

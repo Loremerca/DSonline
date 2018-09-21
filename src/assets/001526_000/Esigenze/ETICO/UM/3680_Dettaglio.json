@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Aging care uomo"
+ ,"Tempo":"Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 496
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 228.68
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 371.5
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 493
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 219.17
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 352.96
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 5053.5,"M": 2095.56,"C": 3418.9},
+{"Header": "Fatturato diff","F": -3.57,"M": 2.76,"C": 2.05},
+{"Header": "Pezzi","F": 496,"M": 228.68,"C": 371.5},
+{"Header": "Pezzi diff","F": 0.61,"M": 4.34,"C": 5.25} 
+]
+}

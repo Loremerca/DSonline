@@ -1,0 +1,11 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 1,"FPz": 1,"FFatt": 821.15,"FFatt_D": 358.23,"FPezzi": 73,"FPezzi_D": 356.25,"FQuota": 76.04,"FPrezzo": 11.25,"FRef": 2,"MFt": 1,"MPz": 1,"MFatt": 844.4,"MFatt_D": 112.03,"MPezzi": 65,"MPezzi_D": 110.13,"MQuota": 74.16,"MPrezzo": 12.93,"MRef": 2},
+{"DscDitta": "ANGELINI SpA","FFt": 2,"FPz": 2,"FFatt": 250.15,"FFatt_D": 89.64,"FPezzi": 21,"FPezzi_D": 90.91,"FQuota": 21.88,"FPrezzo": 11.91,"FRef": 3,"MFt": 2,"MPz": 2,"MFatt": 262.97,"MFatt_D": -18.63,"MPezzi": 20,"MPezzi_D": -20.31,"MQuota": 22.93,"MPrezzo": 13.02,"MRef": 3},
+{"DscDitta": "MONTEFARMACO OTC SpA","FFt": 3,"FPz": 3,"FFatt": 25.2,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 2.08,"FPrezzo": 12.6,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 0.81,"MFatt_D": -68.85,"MPezzi": 0.063,"MPezzi_D": -66.98,"MQuota": 0.07,"MPrezzo": 12.85,"MRef": 0},
+{"DscDitta": "INNOVARES Srl","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 4,"MPz": 4,"MFatt": 7.46,"MFatt_D": -12.42,"MPezzi": 0.664,"MPezzi_D": -11.14,"MQuota": 0.75,"MPrezzo": 11.24,"MRef": 0},
+{"DscDitta": "MARCO ANTONETTO SpA","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 5,"MPz": 5,"MFatt": 6.33,"MFatt_D": -34.89,"MPezzi": 0.643,"MPezzi_D": -41.37,"MQuota": 0.73,"MPrezzo": 9.85,"MRef": 0},
+{"DscDitta": "SIIT Srl","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 7,"MPz": 3,"MFatt": 11.87,"MFatt_D": 7278.8,"MPezzi": 0.875,"MPezzi_D": 7512.5,"MQuota": 0.99,"MPrezzo": 13.57,"MRef": 0},
+{"DscDitta": "6 ditte coinvolte","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 3,"MPz": 7,"MFatt": 3.52,"MFatt_D": -8.58,"MPezzi": 0,"MPezzi_D": -100,"MQuota": 0.37,"MPrezzo": 10.14,"MRef": 0} 
+]}

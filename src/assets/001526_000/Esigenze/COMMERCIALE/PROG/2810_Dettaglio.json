@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Sedativi"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 3981
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 659.1
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1847.51
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 3707
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 625.91
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1745.25
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 52829.16,"M": 8910.7,"C": 24756.34},
+{"Header": "Fatturato diff","F": 6.72,"M": 8.08,"C": 8.94},
+{"Header": "Pezzi","F": 3981,"M": 659.1,"C": 1847.51},
+{"Header": "Pezzi diff","F": 7.39,"M": 5.3,"C": 5.86} 
+]
+}

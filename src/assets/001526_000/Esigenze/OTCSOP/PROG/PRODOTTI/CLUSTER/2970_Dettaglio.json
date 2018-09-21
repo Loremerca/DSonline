@@ -1,0 +1,13 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "MYLICONGAS50CPR MAST 40MG","DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 2433.55,"FFatt_D": 53.46,"FPezzi": 250,"FPezzi_D": 26.9,"FQuota": 57.87,"FPrezzo": 9.73,"CFt": 1,"CPz": 1,"CFatt": 1435.51,"CFatt_D": 57.78,"CPezzi": 114,"CPezzi_D": 33.27,"CQuota": 49.09,"CPrezzo": 12.58},
+{"DscProd": "MYLICONBB OS GTT 30ML","DscDitta": "JOHNSON & JOHNSON SpA","FFt": 2,"FPz": 2,"FFatt": 821.5,"FFatt_D": 69.28,"FPezzi": 97,"FPezzi_D": 53.97,"FQuota": 22.45,"FPrezzo": 8.47,"CFt": 2,"CPz": 2,"CFatt": 845.48,"CFatt_D": 41.91,"CPezzi": 66,"CPezzi_D": 20.27,"CQuota": 28.46,"CPrezzo": 12.78},
+{"DscProd": "SIMECRIN24CPR MAST 120MG","DscDitta": "CRINOS SpA","FFt": 3,"FPz": 4,"FFatt": 345.6,"FFatt_D": 3.23,"FPezzi": 32,"FPezzi_D": 3.23,"FQuota": 7.41,"FPrezzo": 10.8,"CFt": 3,"CPz": 3,"CFatt": 362.87,"CFatt_D": 16.59,"CPezzi": 31,"CPezzi_D": 17.91,"CQuota": 13.36,"CPrezzo": 11.69},
+{"DscProd": "METEOSIM50CPR MAST 40MG","DscDitta": "I.B.I.GIOVANNI LORENZINI SpA","FFt": 4,"FPz": 3,"FFatt": 313.7,"FFatt_D": 38.56,"FPezzi": 44,"FPezzi_D": 37.5,"FQuota": 10.19,"FPrezzo": 7.13,"CFt": 7,"CPz": 7,"CFatt": 20.68,"CFatt_D": 51.18,"CPezzi": 3,"CPezzi_D": 60,"CQuota": 1.21,"CPrezzo": 7.34},
+{"DscProd": "NOGAS GIULIANI CARBOSYL48CPS","DscDitta": "GIULIANI SpA","FFt": 5,"FPz": 5,"FFatt": 44.7,"FFatt_D": 6.43,"FPezzi": 6,"FPezzi_D": 0,"FQuota": 1.39,"FPrezzo": 7.45,"CFt": 9,"CPz": 5,"CFatt": 39.84,"CFatt_D": -28.53,"CPezzi": 5,"CPezzi_D": -22.08,"CQuota": 1.99,"CPrezzo": 8.61},
+{"DscProd": "SIMEGUTOS GTT FL 30ML","DscDitta": "MARCO ANTONETTO SpA","FFt": 6,"FPz": 6,"FFatt": 33.75,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 0.69,"FPrezzo": 11.25,"CFt": 5,"CPz": 9,"CFatt": 14.31,"CFatt_D": null,"CPezzi": 1,"CPezzi_D": null,"CQuota": 0.51,"CPrezzo": 12.14},
+{"DscProd": "SIMETICONE DOM24CPR MAST120MG","DscDitta": "BRACCO SpA DIV.FARMACEUTICA","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"CFt": 4,"CPz": 4,"CFatt": 54.82,"CFatt_D": -2.04,"CPezzi": 7,"CPezzi_D": -1.18,"CQuota": 3,"CPrezzo": 7.87},
+{"DscProd": "Altre 5 referenze","DscDitta": "5 ditte coinvolte","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"CFt": 6,"CPz": 6,"CFatt": 5.92,"CFatt_D": 21.38,"CPezzi": 1,"CPezzi_D": 60,"CQuota": 0.33,"CPrezzo": 4.65},
+{"DscProd": "SIMECRIN30CPR MAST 80MG","DscDitta": "CRINOS SpA","FFt": 9,"FPz": 9,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 8,"CPz": 8,"CFatt": 48.3,"CFatt_D": 22.39,"CPezzi": 5,"CPezzi_D": 26.32,"CQuota": 2.05,"CPrezzo": 10.13} 
+]}

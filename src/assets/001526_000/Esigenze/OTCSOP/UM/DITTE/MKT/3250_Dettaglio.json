@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "RECORDATI SpA","FFt": 1,"FPz": 1,"FFatt": 186.6,"FFatt_D": 55.5,"FPezzi": 34,"FPezzi_D": 41.67,"FQuota": 38.64,"FPrezzo": 5.49,"FRef": 2,"MFt": 1,"MPz": 1,"MFatt": 90.74,"MFatt_D": 8.06,"MPezzi": 9,"MPezzi_D": 0.85,"MQuota": 40,"MPrezzo": 9.62,"MRef": 2},
+{"DscDitta": "BAYER SpA","FFt": 2,"FPz": 2,"FFatt": 101.7,"FFatt_D": -34.97,"FPezzi": 15,"FPezzi_D": -34.78,"FQuota": 17.05,"FPrezzo": 6.78,"FRef": 3,"MFt": 2,"MPz": 2,"MFatt": 57.43,"MFatt_D": 0.05,"MPezzi": 6,"MPezzi_D": 0.58,"MQuota": 24.81,"MPrezzo": 9.82,"MRef": 3},
+{"DscDitta": "PFIZER ITALIA Srl","FFt": 3,"FPz": 4,"FFatt": 84.6,"FFatt_D": 88,"FPezzi": 9,"FPezzi_D": 80,"FQuota": 10.23,"FPrezzo": 9.4,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 6.29,"MFatt_D": 29.69,"MPezzi": 0.615,"MPezzi_D": 24.43,"MQuota": 2.61,"MPrezzo": 10.23,"MRef": 1},
+{"DscDitta": "ALFA WASSERMANN SpA","FFt": 4,"FPz": 3,"FFatt": 75,"FFatt_D": 15.38,"FPezzi": 15,"FPezzi_D": 15.38,"FQuota": 17.05,"FPrezzo": 5,"FRef": 1,"MFt": 4,"MPz": 4,"MFatt": 18.96,"MFatt_D": 7.4,"MPezzi": 2,"MPezzi_D": -11.5,"MQuota": 10.02,"MPrezzo": 8.03,"MRef": 1},
+{"DscDitta": "PFIZER Srl","FFt": 5,"FPz": 5,"FFatt": 53.7,"FFatt_D": 3.27,"FPezzi": 6,"FPezzi_D": -25,"FQuota": 6.82,"FPrezzo": 8.95,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 35.74,"MFatt_D": 12.65,"MPezzi": 3,"MPezzi_D": 0.23,"MQuota": 13.61,"MPrezzo": 11.14,"MRef": 2},
+{"DscDitta": "VALEDO Srl","FFt": 6,"FPz": 6,"FFatt": 39.1,"FFatt_D": 371.08,"FPezzi": 5,"FPezzi_D": 400,"FQuota": 5.68,"FPrezzo": 7.82,"FRef": 1,"MFt": 3,"MPz": 3,"MFatt": 14.26,"MFatt_D": 5.09,"MPezzi": 2,"MPezzi_D": 28.32,"MQuota": 6.62,"MPrezzo": 9.14,"MRef": 1},
+{"DscDitta": "MEDA PHARMA SpA","FFt": 7,"FPz": 7,"FFatt": 24.15,"FFatt_D": -31.2,"FPezzi": 3,"FPezzi_D": -25,"FQuota": 3.41,"FPrezzo": 8.05,"FRef": 2,"MFt": 7,"MPz": 7,"MFatt": 2.18,"MFatt_D": -58.22,"MPezzi": 0.248,"MPezzi_D": -52.05,"MQuota": 1.05,"MPrezzo": 8.79,"MRef": 2},
+{"DscDitta": "TEOFARMA Srl","FFt": 8,"FPz": 8,"FFatt": 8.5,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 1.14,"FPrezzo": 8.5,"FRef": 1,"MFt": 9,"MPz": 8,"MFatt": 0.77,"MFatt_D": 1.19,"MPezzi": 0.085,"MPezzi_D": -0.07,"MQuota": 0.36,"MPrezzo": 9.07,"MRef": 1},
+{"DscDitta": "2 ditte coinvolte","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 8,"MPz": 9,"MFatt": 1.87,"MFatt_D": 15.52,"MPezzi": 0,"MPezzi_D": -100,"MQuota": 0.94,"MPrezzo": 4.3,"MRef": 0} 
+]}

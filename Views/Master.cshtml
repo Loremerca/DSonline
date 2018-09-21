@@ -1,8 +1,21 @@
 ﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.Master>
 @using ContentModels = Umbraco.Web.PublishedContentModels;
+@using Umbraco.Web.Security;
 @{
-	Layout = null;
-}
+    Layout = null;
+
+  }
+@*
+  var memHelper = new MembershipHelper(UmbracoContext);
+  IPublishedContent member = memHelper.GetCurrentMember();
+  var cod = member.GetProperty("codice_cliente").Value.ToString() + member.GetProperty("pdc").Value.ToString() +
+  "_" + member.GetProperty("nazione").Value.ToString();
+  var cliente = member.GetProperty("nome").Value.ToString() + " " +
+  member.GetProperty("cognome").Value.ToString();
+  var tipo = member.GetProperty("tipo_profilo").Value.ToString();
+  *@
+
+
 
 <!DOCTYPE html>
 <html class="no-js css-menubar" lang="en">
@@ -45,7 +58,7 @@
     Breakpoints();
   </script>
 </head>
-<body class="animsition dashboard">
+<body class="animsition page-aside-fixed page-aside-right">
 <!--[if lt IE 8]>
 <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
@@ -57,13 +70,7 @@
 
 @RenderBody()
 
-<!-- Footer -->
-<footer class="site-footer">
-  <div class="site-footer-legal">© 2018 Apoteca Natura</div>
-  <div class="site-footer-right">
-    Crafted with <i class="red-600 wb wb-heart"></i> by <a href="https://www.apotecanatura.it">Apoteca Natura</a>
-  </div>
-</footer>
+
 <script type="text/javascript" src="/DsonlineApp/runtime.js"></script>
 <script type="text/javascript" src="/DsonlineApp/polyfills.js"></script>
 <script type="text/javascript" src="/DsonlineApp/styles.js"></script>

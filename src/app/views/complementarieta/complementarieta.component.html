@@ -1,22 +1,128 @@
 <!-- Page -->
 <div class="page">
-  <div class="page-header">
-    <h1 class="page-title">{{title}}</h1>
-  </div>
-  <div class="page-content container-fluid">
-    <div class="row" data-plugin="matchHeight" data-by-row="true">
-      <div class="col-xxl-12 col-lg-12">
-        <div class="card card-shadow card-responsive" id="widgetLineareaColor">
-          <div class="card-block p-0">
-            <div class="pt-30 p-30" style="height:calc(100% - 50px);">
-              <div class="col-12">
+    <div class="page-aside">
 
-              </div>
-            </div>
-          </div>
+        <div class="page-aside-switch">
+            <i class="icon wb-chevron-left" aria-hidden="true"></i>
+            <i class="icon wb-chevron-right" aria-hidden="true"></i>
         </div>
-      </div>
+
+        <div class="page-aside-inner page-aside-scroll scrollable is-enabled scrollable-vertical"
+             style="position: relative;">
+            <div data-role="container" class="scrollable-container" style="height: 700.984px; width: 233px;">
+                <div data-role="content" class="scrollable-content" style="width: 218px;">
+                    <section class="page-aside-section">
+                        <h5 class="page-aside-title">Menu</h5>
+                        <div class="list-group-dividered" *ngFor="let item of dati['datiEsigenza']">
+                            <a class="list-group-item" href="#{{item.Esigenza}}">{{item.Esigenza}}</a>
+                        </div>
+                    </section>
+                </div>
+            </div>
+            <div class="scrollable-bar scrollable-bar-vertical is-disabled scrollable-bar-hide" draggable="false">
+                <div class="scrollable-bar-handle"></div>
+            </div>
+        </div>
+        <!---page-aside-inner-->
     </div>
-  </div>
+
+    <div class="page-main">
+        <div class="page-header">
+            <h1 class="page-title">{{title}}</h1>
+            <!--<button class="btn btn-info waves-effect waves-classic"
+                    data-content="And here's some amazing content. It's very engaging. Right?" data-trigger="hover"
+                    data-toggle="popover" data-original-title="Hover to trigger" tabindex="0"
+                    title=""
+                    type="button">Hover to trigger</button>-->
+
+        </div>
+        <div class="page-content container-fluid">
+            <div class="row" data-plugin="matchHeight" data-by-row="true">
+                <div class="col-xxl-12 col-lg-12">
+                    <div class="panel panel-bordered"><!--
+                    <div class="panel-heading">
+                        <h3 class="panel-title"></h3>
+                    </div>-->
+                        <div class="panel-body">
+                            <p *ngIf="!loaded">Loading...</p>
+                            <div class="row" *ngIf="loaded">
+                                <div class="col-12" *ngFor="let item of dati['datiEsigenza']">
+                                    <a name="{{item.Esigenza}}"><span>&nbsp;</span></a>
+                                    <h3 class="pt-30">{{item.Esigenza}}</h3>
+                                    <div class="col-12" *ngFor="let dat of item['datiEs']">
+                                        <ngx-datatable
+                                                #tb1
+                                                class="dsmaterial12"
+                                                [columnMode]="'flex'"
+                                                [headerHeight]="50"
+                                                [footerHeight]="0"
+                                                [rowHeight]="'auto'"
+                                                [limit]="10"
+                                                [rows]="dat.datiComp">
+                                            <ngx-datatable-column prop="Header" name="{{dat.Componente}}"
+                                                                  [cellClass]="BGColor"
+                                                                  [flexGrow]="4">
+                                                <ng-template let-row="row" let-value="value"
+                                                             ngx-datatable-cell-template>
+                                                    <strong>{{value}}</strong>
+                                                </ng-template>
+                                            </ngx-datatable-column>
+                                            <ngx-datatable-column prop="F_UM" name="{{dat.UM_Titolo}}" [flexGrow]="2"
+                                                                  cellClass="bg-primary-200 font-size-10"
+                                                                  headerClass="bg-primary-200">
+                                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                                    {{value | number}}
+                                                </ng-template>
+                                            </ngx-datatable-column>
+                                            <ngx-datatable-column prop="F_MAT" name="{{dat.MAT_Titolo}}" [flexGrow]="2"
+                                                                  cellClass="bg-primary-200 font-size-10"
+                                                                  headerClass="bg-primary-200">
+                                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                                    {{value | number}}
+                                                </ng-template>
+                                            </ngx-datatable-column>
+                                            <ngx-datatable-column prop="M_UM" name="{{dat.UM_Titolo}}" [flexGrow]="2"
+                                                                  cellClass="bg-apogreen-200 font-size-10"
+                                                                  headerClass="bg-apogreen-200">
+                                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                                    {{value | number}}
+                                                </ng-template>
+                                            </ngx-datatable-column>
+                                            <ngx-datatable-column prop="M_MAT" name="{{dat.MAT_Titolo}}" [flexGrow]="2"
+                                                                  cellClass="bg-apogreen-200 font-size-10"
+                                                                  headerClass="bg-apogreen-200">
+                                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                                    {{value | number}}
+                                                </ng-template>
+                                            </ngx-datatable-column>
+                                            <ngx-datatable-column prop="C_UM" name="{{dat.UM_Titolo}}" [flexGrow]="2"
+                                                                  cellClass="bg-light-apogreen-200 font-size-10"
+                                                                  headerClass="bg-light-apogreen-200">
+                                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                                    {{value | number}}
+                                                </ng-template>
+                                            </ngx-datatable-column>
+                                            <ngx-datatable-column prop="C_MAT" name="{{dat.MAT_Titolo}}" [flexGrow]="2"
+                                                                  cellClass="bg-light-apogreen-200 font-size-10"
+                                                                  headerClass="bg-light-apogreen-200">
+                                                <ng-template let-value="value" ngx-datatable-cell-template>
+                                                    {{value | number}}
+                                                </ng-template>
+                                            </ngx-datatable-column>
+
+                                        </ngx-datatable>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 </div>
 <!-- End Page Content -->

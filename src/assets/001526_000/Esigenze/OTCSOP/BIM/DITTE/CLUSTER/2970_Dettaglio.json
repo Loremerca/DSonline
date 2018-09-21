@@ -1,0 +1,8 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 927.8,"FFatt_D": 93.37,"FPezzi": 91,"FPezzi_D": 54.24,"FQuota": 90.1,"FPrezzo": 10.2,"FRef": 2,"CFt": 1,"CPz": 1,"CFatt": 498.04,"CFatt_D": 71.82,"CPezzi": 38,"CPezzi_D": 43.4,"CQuota": 82.7,"CPrezzo": 13.23,"CRef": 2},
+{"DscDitta": "I.B.I.GIOVANNI LORENZINI SpA","FFt": 2,"FPz": 2,"FFatt": 50.4,"FFatt_D": 18.31,"FPezzi": 7,"FPezzi_D": 16.67,"FQuota": 6.93,"FPrezzo": 7.2,"FRef": 1,"CFt": 3,"CPz": 3,"CFatt": 3.34,"CFatt_D": 21.63,"CPezzi": 0.464,"CPezzi_D": 23.73,"CQuota": 1.02,"CPrezzo": 7.2,"CRef": 1},
+{"DscDitta": "CRINOS SpA","FFt": 3,"FPz": 3,"FFatt": 32.4,"FFatt_D": -47.06,"FPezzi": 3,"FPezzi_D": -50,"FQuota": 2.97,"FPrezzo": 10.8,"FRef": 1,"CFt": 4,"CPz": 4,"CFatt": 70.56,"CFatt_D": 0.24,"CPezzi": 6,"CPezzi_D": -2.04,"CQuota": 13.46,"CPrezzo": 11.52,"CRef": 2},
+{"DscDitta": "6 ditte coinvolte","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 2,"CPz": 2,"CFatt": 11.47,"CFatt_D": -36.38,"CPezzi": 1,"CPezzi_D": -54.72,"CQuota": 2.81,"CPrezzo": 4.86,"CRef": 0} 
+]}

@@ -1,0 +1,10 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "BAYER SpA","FFt": 1,"FPz": 1,"FFatt": 21.6,"FFatt_D": -50,"FPezzi": 2,"FPezzi_D": -50,"FQuota": 28.57,"FPrezzo": 10.8,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 20.48,"MFatt_D": -21.92,"MPezzi": 2,"MPezzi_D": -17.92,"MQuota": 28.7,"MPrezzo": 10.79,"MRef": 1},
+{"DscDitta": "EG SpA","FFt": 2,"FPz": 2,"FFatt": 17,"FFatt_D": 100,"FPezzi": 2,"FPezzi_D": 100,"FQuota": 28.57,"FPrezzo": 8.5,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 11.98,"MFatt_D": -5.85,"MPezzi": 1,"MPezzi_D": -33.38,"MQuota": 21.34,"MPrezzo": 8.49,"MRef": 1},
+{"DscDitta": "AUROBINDO PHARMA ITALIA Srl","FFt": 3,"FPz": 3,"FFatt": 16.2,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 28.57,"FPrezzo": 8.1,"FRef": 1,"MFt": 2,"MPz": 2,"MFatt": 0.52,"MFatt_D": 152.99,"MPezzi": 0.064,"MPezzi_D": 153.09,"MQuota": 0.96,"MPrezzo": 8.1,"MRef": 1},
+{"DscDitta": "FIDIA FARMACEUTICI SpA","FFt": 4,"FPz": 4,"FFatt": 8.5,"FFatt_D": 0,"FPezzi": 1,"FPezzi_D": 0,"FQuota": 14.29,"FPrezzo": 8.5,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 5.25,"MFatt_D": 11.96,"MPezzi": 0.619,"MPezzi_D": 11.73,"MQuota": 9.36,"MPrezzo": 8.48,"MRef": 1},
+{"DscDitta": "TEVA ITALIA Srl","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 4,"MPz": 4,"MFatt": 14.06,"MFatt_D": 26.54,"MPezzi": 2,"MPezzi_D": 55.36,"MQuota": 24.45,"MPrezzo": 8.69,"MRef": 1},
+{"DscDitta": "14 ditte coinvolte","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 3,"MPz": 3,"MFatt": 11.46,"MFatt_D": -14.26,"MPezzi": 1,"MPezzi_D": -20.33,"MQuota": 15.01,"MPrezzo": 7.5,"MRef": 1} 
+]}

@@ -1,22 +1,187 @@
 <!-- Page -->
 <div class="page">
-  <div class="page-header">
-    <h1 class="page-title">{{title}}</h1>
-  </div>
-  <div class="page-content container-fluid">
-    <div class="row" data-plugin="matchHeight" data-by-row="true">
-      <div class="col-xxl-12 col-lg-12">
-        <div class="card card-shadow card-responsive" id="widgetLineareaColor">
-          <div class="card-block p-0">
-            <div class="pt-30 p-30" style="height:calc(100% - 50px);">
-              <div class="col-12">
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="page-header">
+        <h1 class="page-title">{{title}}</h1>
     </div>
-  </div>
+    <div class="page-content container-fluid">
+        <div class="row" data-plugin="matchHeight" data-by-row="true">
+            <div class="col-xxl-12 col-lg-12">
+                <div class="panel panel-bordered">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="col-2">
+                                <div class="dropdown pull-right mt-10 ml-10">
+                                    <button type="button" class="btn btn-primary dropdown-toggle"
+                                            id="exampleColorDropdown1"
+                                            data-toggle="dropdown" aria-expanded="false">
+                                        Scegli periodo
+                                    </button>
+                                    <div class="dropdown-menu" aria-labelledby="exampleColorDropdown1" role="menu"
+                                         x-placement="bottom-start"
+                                         style="position: absolute; transform: translate3d(0px, 36px, 0px); top: 0px; left: 0px; will-change: transform;">
+                                        <a class="dropdown-item"
+                                           (click)="setMat()"
+                                           role="menuitem">
+                                            {{p1}}</a>
+                                        <a class="dropdown-item"
+                                           (click)="setUM()"
+                                           role="menuitem">
+                                            {{p2}}</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-10">
+                                <h1 class="panel-title">{{sottotitolo}}</h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-12 pb-30">
+                                <ul class="list-group">
+                                    <li class="list-group-item" *ngFor="let item of tab2data">
+                                        <div class="row">
+                                            <div class="col-6"><strong>{{item.Header}}</strong></div>
+                                            <div class="col-3">{{item.Valore |
+                                                currency:'EUR':'symbol-narrow':'1.2-2':'it'}}</div>
+                                            <div class="col-3">{{item.Delta | number:'1.2-2'}}%</div>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <ngx-datatable
+                                    #myTable
+                                    *ngIf="loaded"
+                                    class="dsmaterial12"
+                                    [rows]="dati.dati"
+                                    [groupRowsBy]="'Filtro'"
+                                    [headerHeight]="40"
+                                    [columnMode]="'flex'"
+                                    [footerHeight]="0"
+                                    [rowHeight]="40"
+                                    [limit]="20"
+                                    [groupExpansionDefault]="true">
+                                    <!-- Group Header Template -->
+                                    <ngx-datatable-group-header [rowHeight]="50" #myGroupHeader
+                                                                (toggle)="onDetailToggle($event)">
+                                        <ng-template let-group="group" let-expanded="expanded"
+                                                     ngx-datatable-group-header-template>
+                                            <div style="background-color: #7C2529">
+                                                <button class="btn-primary"
+                                                        [class.datatable-icon-right]="!expanded"
+                                                        [class.datatable-icon-down]="expanded"
+                                                        title="Expand/Collapse Group"
+                                                        (click)="toggleExpandGroup(group)">
+                                                    <b>{{group.value[0].Filtro}}</b>
+                                                </button>
+                                            </div>
+                                        </ng-template>
+                                    </ngx-datatable-group-header>
+                                    <!-- Row Column Template -->
+                                    <ngx-datatable-column name="" prop="Header" [flexGrow]="4"></ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='MAT'" name="MAT" prop="F_MAT_Val" [flexGrow]="2"
+                                                          cellClass="farmacia"
+                                                          headerClass="farmacia">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | currency:'EUR':'symbol-narrow':'1.2-2':'it'}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='UM'" name="UM" prop="F_UM_Val" [flexGrow]="2"
+                                                          cellClass="farmacia"
+                                                          headerClass="farmacia">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | currency:'EUR':'symbol-narrow':'1.2-2':'it'}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='MAT'" name="Delta %" prop="F_MAT_Delta"
+                                                          [flexGrow]="2"
+                                                          cellClass="farmacia"
+                                                          headerClass="farmacia">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number:'1.2-2' }}%
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='UM'" name="Delta %" prop="F_UM_Delta"
+                                                          [flexGrow]="2"
+                                                          cellClass="farmacia"
+                                                          headerClass="farmacia">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number:'1.2-2' }}%
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='MAT'" name="MAT" prop="M_MAT_Val" [flexGrow]="2"
+                                                          cellClass="mercato"
+                                                          headerClass="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | currency:'EUR':'symbol-narrow':'1.2-2':'it'}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='UM'" name="UM" prop="M_UM_Val" [flexGrow]="2"
+                                                          cellClass="mercato"
+                                                          headerClass="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | currency:'EUR':'symbol-narrow':'1.2-2':'it'}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='MAT'" name="Delta %" prop="M_MAT_Delta"
+                                                          [flexGrow]="2"
+                                                          cellClass="mercato"
+                                                          headerClass="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number:'1.2-2' }}%
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='UM'" name="Delta %" prop="M_UM_Delta"
+                                                          [flexGrow]="2"
+                                                          cellClass="mercato"
+                                                          headerClass="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number:'1.2-2' }}%
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='MAT'" name="MAT" prop="C_MAT_Val" [flexGrow]="2"
+                                                          cellClass="cluster"
+                                                          headerClass="cluster">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | currency:'EUR':'symbol-narrow':'1.2-2':'it'}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='UM'" name="UM" prop="C_UM_Val" [flexGrow]="2"
+                                                          cellClass="cluster"
+                                                          headerClass="cluster">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | currency:'EUR':'symbol-narrow':'1.2-2':'it'}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='MAT'" name="Delta %" prop="C_MAT_Delta"
+                                                          [flexGrow]="2"
+                                                          cellClass="cluster"
+                                                          headerClass="cluster">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number:'1.2-2' }}%
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column *ngIf="p=='UM'" name="Delta %" prop="C_UM_Delta"
+                                                          [flexGrow]="2"
+                                                          cellClass="cluster"
+                                                          headerClass="cluster">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number:'1.2-2' }}%
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                </ngx-datatable>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- End Page Content -->

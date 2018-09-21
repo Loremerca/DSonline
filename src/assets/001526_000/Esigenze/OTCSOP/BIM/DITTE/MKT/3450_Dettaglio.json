@@ -1,0 +1,11 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 2307.55,"FFatt_D": -9.71,"FPezzi": 239,"FPezzi_D": -3.24,"FQuota": 79.93,"FPrezzo": 9.66,"FRef": 7,"MFt": 1,"MPz": 1,"MFatt": 1380.96,"MFatt_D": 12.43,"MPezzi": 101,"MPezzi_D": 7.92,"MQuota": 78.27,"MPrezzo": 13.62,"MRef": 6},
+{"DscDitta": "ZAMBON ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 283.1,"FFatt_D": -2.91,"FPezzi": 32,"FPezzi_D": -8.57,"FQuota": 10.7,"FPrezzo": 8.85,"FRef": 3,"MFt": 2,"MPz": 2,"MFatt": 171.8,"MFatt_D": 5.43,"MPezzi": 14,"MPezzi_D": 0.51,"MQuota": 10.73,"MPrezzo": 12.37,"MRef": 3},
+{"DscDitta": "BRUSCHETTINI Srl","FFt": 3,"FPz": 3,"FFatt": 204.3,"FFatt_D": 126,"FPezzi": 18,"FPezzi_D": 125,"FQuota": 6.02,"FPrezzo": 11.35,"FRef": 2,"MFt": 4,"MPz": 4,"MFatt": 49.52,"MFatt_D": -10.95,"MPezzi": 4,"MPezzi_D": -11.04,"MQuota": 3.09,"MPrezzo": 12.36,"MRef": 2},
+{"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 4,"FPz": 4,"FFatt": 108,"FFatt_D": -4.42,"FPezzi": 9,"FPezzi_D": -10,"FQuota": 3.01,"FPrezzo": 12,"FRef": 1,"MFt": 3,"MPz": 3,"MFatt": 118.31,"MFatt_D": 23.82,"MPezzi": 8,"MPezzi_D": 14.78,"MQuota": 6.28,"MPrezzo": 14.55,"MRef": 1},
+{"DscDitta": "SIT LABORATORIO FARMAC. Srl","FFt": 5,"FPz": 5,"FFatt": 11.7,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 0.33,"FPrezzo": 11.7,"FRef": 1,"MFt": 6,"MPz": 7,"MFatt": 6.82,"MFatt_D": 9.79,"MPezzi": 0.539,"MPezzi_D": 11.12,"MQuota": 0.42,"MPrezzo": 12.65,"MRef": 1},
+{"DscDitta": "AKKADEAS PHARMA Srl","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 5,"MPz": 6,"MFatt": 13.74,"MFatt_D": -6.57,"MPezzi": 0.946,"MPezzi_D": -6.05,"MQuota": 0.73,"MPrezzo": 14.53,"MRef": 1},
+{"DscDitta": "8 ditte coinvolte","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 7,"MPz": 5,"MFatt": 5.97,"MFatt_D": -38.48,"MPezzi": 1,"MPezzi_D": -4.81,"MQuota": 0.49,"MPrezzo": 6.21,"MRef": 1} 
+]}

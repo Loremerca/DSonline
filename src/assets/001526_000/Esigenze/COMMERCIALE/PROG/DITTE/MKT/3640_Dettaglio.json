@@ -1,0 +1,14 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 642.48,"FFatt_D": -15.35,"FPezzi": 92,"FPezzi_D": -16.36,"FQuota": 82.14,"FPrezzo": 6.98,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 678.33,"MFatt_D": 51.56,"MPezzi": 64,"MPezzi_D": 51.56,"MQuota": 58.45,"MPrezzo": 10.59,"MRef": 1},
+{"DscDitta": "TEVA ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 52.2,"FFatt_D": 586.84,"FPezzi": 17,"FPezzi_D": 466.67,"FQuota": 15.18,"FPrezzo": 3.07,"FRef": 1,"MFt": 9,"MPz": 9,"MFatt": 9.75,"MFatt_D": -6.03,"MPezzi": 2,"MPezzi_D": -19.14,"MQuota": 2.11,"MPrezzo": 4.21,"MRef": 1},
+{"DscDitta": "HERBOPLANET Srl","FFt": 3,"FPz": 3,"FFatt": 49.6,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 1.79,"FPrezzo": 24.8,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 0.83,"MFatt_D": 124.74,"MPezzi": 0.038,"MPezzi_D": 83.67,"MQuota": 0.03,"MPrezzo": 22.11,"MRef": 0},
+{"DscDitta": "ARCANGEA Srl","FFt": 4,"FPz": 4,"FFatt": 17.4,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 0.89,"FPrezzo": 17.4,"FRef": 1,"MFt": 7,"MPz": 7,"MFatt": 0.21,"MFatt_D": null,"MPezzi": 0.012,"MPezzi_D": null,"MQuota": 0.01,"MPrezzo": 17.4,"MRef": 0},
+{"DscDitta": "BAYER SpA","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 5,"MPz": 5,"MFatt": 19.66,"MFatt_D": -16.42,"MPezzi": 4,"MPezzi_D": -12.74,"MQuota": 3.48,"MPrezzo": 5.15,"MRef": 1},
+{"DscDitta": "GLAXOSMITHKLINE C.HEALTH.SpA","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 2,"MPz": 2,"MFatt": 66.84,"MFatt_D": -8.24,"MPezzi": 8,"MPezzi_D": -9.21,"MQuota": 7.26,"MPrezzo": 8.4,"MRef": 1},
+{"DscDitta": "MYLAN SpA","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 8,"MPz": 8,"MFatt": 20.9,"MFatt_D": 9.38,"MPezzi": 5,"MPezzi_D": 13.34,"MQuota": 4.65,"MPrezzo": 4.11,"MRef": 1},
+{"DscDitta": "SANDOZ SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 10,"MPz": 10,"MFatt": 7.5,"MFatt_D": 18.64,"MPezzi": 2,"MPezzi_D": 29.85,"MQuota": 1.64,"MPrezzo": 4.18,"MRef": 1},
+{"DscDitta": "UCB PHARMA SpA","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 3,"MPz": 3,"MFatt": 157.02,"MFatt_D": 6.21,"MPezzi": 24,"MPezzi_D": 6.87,"MQuota": 21.78,"MPrezzo": 6.58,"MRef": 1},
+{"DscDitta": "2 ditte coinvolte","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 4,"MPz": 4,"MFatt": 2.86,"MFatt_D": -5.67,"MPezzi": 1,"MPezzi_D": 48.46,"MQuota": 0.58,"MPrezzo": 4.34,"MRef": 0} 
+]}

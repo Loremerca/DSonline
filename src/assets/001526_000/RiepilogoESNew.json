@@ -1,0 +1,497 @@
+{
+  "Dati":[ {"IdPeriodo":" MAT "
+,"dati":[
+     {"Classificazione":"Globale"
+       
+,"TortaF":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":18708}
+,{"name": "Antipertensivi","value":50561}
+,{"name": "Antiacidi","value":36875}
+,{"name": "Ipocolesteromizzanti","value":17368}
+,{"name": "Sedativi","value":16164}
+,{"name": "Lassativi","value":15396}
+,{"name": "Fermenti e flora intestinale","value":14248}
+,{"name": "Altre 20 esigenze","value":99838}]
+,"TortaF_Small":[ {"name": "Aging Care Donna","value":1825}
+,{"name": "Antistaminici","value":2904}
+,{"name": "Antidiarroici","value":1019}
+,{"name": "Aging Care Uomo","value":7995}
+,{"name": "Antivaricosi","value":6304}
+,{"name": "Antiemorroidali","value":1971}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":3577}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":13081}
+,{"name": "Antiflatulenza","value":2554}
+,{"name": "Anticellulite","value":1262}
+,{"name": "Broncopolmonari","value":4923}
+,{"name": "Salute della bocca","value":7801}
+,{"name": "Controllo del peso","value":3722}
+,{"name": "Colliri","value":11180}
+,{"name": "Decongestionanti nasali","value":9655}
+,{"name": "Tonificanti","value":4795}
+,{"name": "Mal di gola","value":4727}
+,{"name": "Immunostimolanti","value":4968}
+,{"name": "Digestivi","value":3695}
+,{"name": "Vie urinarie","value":1880}]
+
+,"TortaM":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":8287.78979392908}
+,{"name": "Antipertensivi","value":25500.5431321466}
+,{"name": "Antiacidi","value":12220.9262411513}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":5974.10186683451}
+,{"name": "Ipocolesteromizzanti","value":5979.76046308274}
+,{"name": "Sedativi","value":6011.66376477778}
+,{"name": "Altre 21 esigenze","value":31672.3582315366}]
+,"TortaM_Small":[ {"name": "Aging Care Donna","value":354.902502744681}
+,{"name": "Antistaminici","value":1471.34037664303}
+,{"name": "Antidiarroici","value":498.899486427896}
+,{"name": "Aging Care Uomo","value":2845.10010599527}
+,{"name": "Antivaricosi","value":982.980207203309}
+,{"name": "Antiemorroidali","value":517.799543513003}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":851.80489125059}
+,{"name": "Antiflatulenza","value":480.593690446809}
+,{"name": "Anticellulite","value":143.71517091253}
+,{"name": "Broncopolmonari","value":3169.4004077305}
+,{"name": "Salute della bocca","value":1830.26231362884}
+,{"name": "Controllo del peso","value":382.21247270922}
+,{"name": "Colliri","value":4737.7186924539}
+,{"name": "Lassativi","value":3551.85013468322}
+,{"name": "Fermenti e flora intestinale","value":3175.77885396217}
+,{"name": "Decongestionanti nasali","value":2126.72806720331}
+,{"name": "Tonificanti","value":959.865574565011}
+,{"name": "Mal di gola","value":2034.39727731442}
+,{"name": "Immunostimolanti","value":762.598206761229}
+,{"name": "Digestivi","value":447.348202614657}
+,{"name": "Vie urinarie","value":347.06205277305}]
+
+,"TortaC":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":16671.732088764}
+,{"name": "Antipertensivi","value":37092.0725621988}
+,{"name": "Antiacidi","value":20063.3759314596}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":12798.6095700745}
+,{"name": "Ipocolesteromizzanti","value":9558.6111847205}
+,{"name": "Colliri","value":9698.18464636646}
+,{"name": "Sedativi","value":10022.092968}
+,{"name": "Altre 20 esigenze","value":63289.5365212547}]
+,"TortaC_Small":[ {"name": "Aging Care Donna","value":917.597105770186}
+,{"name": "Antistaminici","value":2901.83968393168}
+,{"name": "Antidiarroici","value":1172.13688916149}
+,{"name": "Aging Care Uomo","value":4874.8052480559}
+,{"name": "Antivaricosi","value":2471.4381199441}
+,{"name": "Antiemorroidali","value":1192.73799685093}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":1570.15297052174}
+,{"name": "Antiflatulenza","value":1217.86528427329}
+,{"name": "Anticellulite","value":542.450842714286}
+,{"name": "Broncopolmonari","value":6377.29352874534}
+,{"name": "Salute della bocca","value":5125.98640731677}
+,{"name": "Controllo del peso","value":1234.82070178882}
+,{"name": "Lassativi","value":8786.61925318013}
+,{"name": "Fermenti e flora intestinale","value":7538.93314978261}
+,{"name": "Decongestionanti nasali","value":5701.63303241615}
+,{"name": "Tonificanti","value":2461.09326372671}
+,{"name": "Mal di gola","value":5041.14844126087}
+,{"name": "Immunostimolanti","value":2070.83732684472}
+,{"name": "Digestivi","value":1182.01036095652}
+,{"name": "Vie urinarie","value":908.136914012422}]
+ 
+      ,"datiTab":[
+
+
+ {"Header": "TotaleEsigenze","HeaderRiga": "Totale Esigenze (27)","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 2584164.17,"FFatt_D": 3.44,"FPezzi": 269158,"FPezzi_D": 2.97,"FQuota": 24.5,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 853535.6,"MFatt_D": -3.16,"MPezzi": 95647,"MPezzi_D": -2.5,"MQuota": 42.83,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 1681816.89,"CFatt_D": 1.24,"CPezzi": 179194,"CPezzi_D": 2.24,"CQuota": 35.29},
+{"Header": "3720","HeaderRiga": "Aging Care Donna","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 35460.85,"FFatt_D": 9.8,"FPezzi": 1825,"FPezzi_D": 6.54,"FQuota": 0.68,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 5928.91,"MFatt_D": 7.42,"MPezzi": 355,"MPezzi_D": 3.78,"MQuota": 0.37,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 15911.52,"CFatt_D": 7.77,"CPezzi": 918,"CPezzi_D": 7.04,"CQuota": 0.51},
+{"Header": "3680","HeaderRiga": "Aging Care Uomo","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 102332.5,"FFatt_D": 5.94,"FPezzi": 7995,"FPezzi_D": 6.03,"FQuota": 2.97,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 29270.5,"MFatt_D": -4.85,"MPezzi": 2845,"MPezzi_D": -0.4,"MQuota": 2.97,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 52739.89,"CFatt_D": 2.94,"CPezzi": 4875,"CPezzi_D": 8.57,"CQuota": 2.72},
+{"Header": "3090","HeaderRiga": "Antiacidi","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 245445.35,"FFatt_D": -6.21,"FPezzi": 36875,"FPezzi_D": -8.1,"FQuota": 13.7,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 79729.65,"MFatt_D": -12.76,"MPezzi": 12221,"MPezzi_D": -15.16,"MQuota": 12.78,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 135811.62,"CFatt_D": -5.78,"CPezzi": 20063,"CPezzi_D": -8.86,"CQuota": 11.2},
+{"Header": "3210","HeaderRiga": "Anticellulite","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 29965.13,"FFatt_D": -24.14,"FPezzi": 1262,"FPezzi_D": -26.54,"FQuota": 0.47,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 4204.69,"MFatt_D": -19.28,"MPezzi": 144,"MPezzi_D": -23.19,"MQuota": 0.15,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 15720.73,"CFatt_D": -29.71,"CPezzi": 542,"CPezzi_D": -29.79,"CQuota": 0.3},
+{"Header": "3600","HeaderRiga": "Antidiarroici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 6521.66,"FFatt_D": 20.22,"FPezzi": 1019,"FPezzi_D": 10.4,"FQuota": 0.38,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 4519.57,"MFatt_D": 14.47,"MPezzi": 499,"MPezzi_D": 4.76,"MQuota": 0.52,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 10242.18,"CFatt_D": 18.21,"CPezzi": 1172,"CPezzi_D": 9.44,"CQuota": 0.65},
+{"Header": "3250","HeaderRiga": "Antiemorroidali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 18611.57,"FFatt_D": 24.85,"FPezzi": 1971,"FPezzi_D": 20.48,"FQuota": 0.73,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 5889.1,"MFatt_D": 4.4,"MPezzi": 518,"MPezzi_D": 2.55,"MQuota": 0.54,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 13240.22,"CFatt_D": 6.8,"CPezzi": 1193,"CPezzi_D": 6.07,"CQuota": 0.67},
+{"Header": "2970","HeaderRiga": "Antiflatulenza","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 30261.48,"FFatt_D": 7.23,"FPezzi": 2554,"FPezzi_D": 0.63,"FQuota": 0.95,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 6665.66,"MFatt_D": 5.65,"MPezzi": 481,"MPezzi_D": -1.38,"MQuota": 0.5,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 16026.27,"CFatt_D": 5.95,"CPezzi": 1218,"CPezzi_D": 1.06,"CQuota": 0.68},
+{"Header": "3410","HeaderRiga": "Antinfiammatori antireumatici e antitraumatici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 165118.58,"FFatt_D": 5.14,"FPezzi": 18708,"FPezzi_D": 1.22,"FQuota": 6.95,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 68390.32,"MFatt_D": -1.02,"MPezzi": 8288,"MPezzi_D": -2.48,"MQuota": 8.66,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 142402.58,"CFatt_D": 4.24,"CPezzi": 16672,"CPezzi_D": 3.26,"CQuota": 9.3},
+{"Header": "3330","HeaderRiga": "Antipertensivi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 337212.79,"FFatt_D": 5.31,"FPezzi": 50561,"FPezzi_D": 6.15,"FQuota": 18.78,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 160488.27,"MFatt_D": -1.25,"MPezzi": 25501,"MPezzi_D": 0.45,"MQuota": 26.66,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 239394.22,"CFatt_D": 4.67,"CPezzi": 37092,"CPezzi_D": 6.93,"CQuota": 20.7},
+{"Header": "3370","HeaderRiga": "Antipiretici analgesici e antinfluenzali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 83300.9,"FFatt_D": 12.7,"FPezzi": 13081,"FPezzi_D": 11.88,"FQuota": 4.86,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 40602.81,"MFatt_D": 4.9,"MPezzi": 5974,"MPezzi_D": 2.6,"MQuota": 6.25,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 86767.87,"CFatt_D": 9.54,"CPezzi": 12799,"CPezzi_D": 6.8,"CQuota": 7.14},
+{"Header": "3640","HeaderRiga": "Antistaminici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 20477.57,"FFatt_D": 5.67,"FPezzi": 2904,"FPezzi_D": 7.32,"FQuota": 1.08,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 10522.87,"MFatt_D": 1.63,"MPezzi": 1471,"MPezzi_D": 1.21,"MQuota": 1.54,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 21496.21,"CFatt_D": 7.65,"CPezzi": 2902,"CPezzi_D": 6.99,"CQuota": 1.62},
+{"Header": "2770","HeaderRiga": "Antivaricosi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 98264.83,"FFatt_D": 8.6,"FPezzi": 6304,"FPezzi_D": 5.07,"FQuota": 2.34,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 16380.59,"MFatt_D": -2.87,"MPezzi": 983,"MPezzi_D": -5.16,"MQuota": 1.03,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 40374.84,"CFatt_D": -3.25,"CPezzi": 2471,"CPezzi_D": -4.98,"CQuota": 1.38},
+{"Header": "3760","HeaderRiga": "Benessere cardiovascolare","FFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","FFatt": 62155.49,"FFatt_D": -3.63,"FPezzi": 3577,"FPezzi_D": -8.73,"FQuota": 1.33,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 13707.76,"MFatt_D": -12.81,"MPezzi": 852,"MPezzi_D": -16.99,"MQuota": 0.89,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 27617.07,"CFatt_D": -4.33,"CPezzi": 1570,"CPezzi_D": -6.25,"CQuota": 0.88},
+{"Header": "2850","HeaderRiga": "Broncopolmonari","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 46280.62,"FFatt_D": 10.04,"FPezzi": 4923,"FPezzi_D": 8.1,"FQuota": 1.83,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 35208.17,"MFatt_D": 3.23,"MPezzi": 3169,"MPezzi_D": 1.26,"MQuota": 3.31,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 69139.22,"CFatt_D": 5.76,"CPezzi": 6377,"CPezzi_D": 3.46,"CQuota": 3.56},
+{"Header": "3130","HeaderRiga": "Colliri","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 138577.9,"FFatt_D": 5.04,"FPezzi": 11180,"FPezzi_D": 3.11,"FQuota": 4.15,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 61044.21,"MFatt_D": 0.37,"MPezzi": 4738,"MPezzi_D": -0.28,"MQuota": 4.95,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 123575,"CFatt_D": 4.7,"CPezzi": 9698,"CPezzi_D": 3.87,"CQuota": 5.41},
+{"Header": "3050","HeaderRiga": "Decongestionanti nasali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 80676.57,"FFatt_D": 8.81,"FPezzi": 9655,"FPezzi_D": 5.42,"FQuota": 3.59,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 23688.66,"MFatt_D": 3.48,"MPezzi": 2127,"MPezzi_D": 1.28,"MQuota": 2.22,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 59841.47,"CFatt_D": 8.72,"CPezzi": 5702,"CPezzi_D": 5.98,"CQuota": 3.18},
+{"Header": "3170","HeaderRiga": "Digestivi","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 55917.31,"FFatt_D": 2.8,"FPezzi": 3695,"FPezzi_D": 5.63,"FQuota": 1.37,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 6600.33,"MFatt_D": 5.9,"MPezzi": 447,"MPezzi_D": 4.99,"MQuota": 0.47,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 17405.96,"CFatt_D": 7.88,"CPezzi": 1182,"CPezzi_D": 8.19,"CQuota": 0.66},
+{"Header": "2930","HeaderRiga": "Dimagranti","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 83294.51,"FFatt_D": -7.67,"FPezzi": 3722,"FPezzi_D": -4.27,"FQuota": 1.38,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 9554.34,"MFatt_D": -9.23,"MPezzi": 382,"MPezzi_D": -8.93,"MQuota": 0.4,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 28375.02,"CFatt_D": -9.84,"CPezzi": 1235,"CPezzi_D": -9.58,"CQuota": 0.69},
+{"Header": "3450","HeaderRiga": "Fermenti e flora intestinale","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 174304.73,"FFatt_D": 12.99,"FPezzi": 14248,"FPezzi_D": 9.57,"FQuota": 5.29,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 46370.97,"MFatt_D": 5.83,"MPezzi": 3176,"MPezzi_D": 1.45,"MQuota": 3.32,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 104706.79,"CFatt_D": 4.71,"CPezzi": 7539,"CPezzi_D": 1.97,"CQuota": 4.21},
+{"Header": "3490","HeaderRiga": "Immunostimolanti","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 94477.33,"FFatt_D": 2.3,"FPezzi": 4968,"FPezzi_D": 3.31,"FQuota": 1.85,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 14873.79,"MFatt_D": 1.15,"MPezzi": 763,"MPezzi_D": 0.39,"MQuota": 0.8,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 39601.7,"CFatt_D": 1.49,"CPezzi": 2071,"CPezzi_D": 1.17,"CQuota": 1.16},
+{"Header": "3290","HeaderRiga": "Ipocolesteromizzanti","FFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","FFatt": 236137.33,"FFatt_D": -3.61,"FPezzi": 17368,"FPezzi_D": 2.93,"FQuota": 6.45,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 71491.32,"MFatt_D": -20.89,"MPezzi": 5980,"MPezzi_D": -0.51,"MQuota": 6.25,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 122273.12,"CFatt_D": -16.04,"CPezzi": 9559,"CPezzi_D": 2.92,"CQuota": 5.33},
+{"Header": "2730","HeaderRiga": "Lassativi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 106029.21,"FFatt_D": 5.39,"FPezzi": 15396,"FPezzi_D": 4.91,"FQuota": 5.72,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 29324.11,"MFatt_D": 1.33,"MPezzi": 3552,"MPezzi_D": -1.72,"MQuota": 3.71,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 66145.56,"CFatt_D": 3.19,"CPezzi": 8787,"CPezzi_D": 0.63,"CQuota": 4.9},
+{"Header": "3010","HeaderRiga": "Mal di gola","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 32370.22,"FFatt_D": 7.98,"FPezzi": 4727,"FPezzi_D": 4.51,"FQuota": 1.76,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 18130.68,"MFatt_D": -0.85,"MPezzi": 2034,"MPezzi_D": -5.35,"MQuota": 2.13,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 43557.97,"CFatt_D": 1.95,"CPezzi": 5041,"CPezzi_D": -1.93,"CQuota": 2.81},
+{"Header": "3530","HeaderRiga": "Salute della bocca","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 43551.6,"FFatt_D": 7.25,"FPezzi": 7801,"FPezzi_D": -4.26,"FQuota": 2.9,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 14842.46,"MFatt_D": 2.78,"MPezzi": 1830,"MPezzi_D": -3.08,"MQuota": 1.91,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 38601.4,"CFatt_D": 6.77,"CPezzi": 5126,"CPezzi_D": 0.42,"CQuota": 2.86},
+{"Header": "2810","HeaderRiga": "Sedativi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 152411.16,"FFatt_D": 6.77,"FPezzi": 16164,"FPezzi_D": 6.81,"FQuota": 6.01,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 53226.15,"MFatt_D": 1.45,"MPezzi": 6012,"MPezzi_D": 0.16,"MQuota": 6.29,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 94135.28,"CFatt_D": 3.84,"CPezzi": 10022,"CPezzi_D": 1.53,"CQuota": 5.59},
+{"Header": "2890","HeaderRiga": "Tonificanti","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 70196.4,"FFatt_D": 6.52,"FPezzi": 4795,"FPezzi_D": 18.98,"FQuota": 1.78,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 16332.62,"MFatt_D": 6.07,"MPezzi": 960,"MPezzi_D": 7.8,"MQuota": 1,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 39695.39,"CFatt_D": 7.2,"CPezzi": 2461,"CPezzi_D": 15.05,"CQuota": 1.37},
+{"Header": "3570","HeaderRiga": "Vie urinarie","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 34810.58,"FFatt_D": 16.3,"FPezzi": 1880,"FPezzi_D": 15.2,"FQuota": 0.7,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 6547.06,"MFatt_D": 3,"MPezzi": 347,"MPezzi_D": 1.49,"MQuota": 0.36,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 17017.8,"CFatt_D": 5.98,"CPezzi": 908,"CPezzi_D": 3.81,"CQuota": 0.51} 
+]
+     }
+    ,{"Classificazione":"Commerciale"
+       
+,"TortaF":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":10342}
+,{"name": "Salute della bocca","value":7709}
+,{"name": "Lassativi","value":13555}
+,{"name": "Fermenti e flora intestinale","value":14248}
+,{"name": "Decongestionanti nasali","value":8308}
+,{"name": "Altre 22 esigenze","value":71826}]
+,"TortaF_Small":[ {"name": "Aging Care Donna","value":1233}
+,{"name": "Antistaminici","value":114}
+,{"name": "Antidiarroici","value":865}
+,{"name": "Aging Care Uomo","value":2082}
+,{"name": "Antivaricosi","value":6090}
+,{"name": "Antipertensivi","value":486}
+,{"name": "Antiemorroidali","value":1801}
+,{"name": "Antiacidi","value":4474}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":1720}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":6198}
+,{"name": "Antiflatulenza","value":2535}
+,{"name": "Anticellulite","value":1262}
+,{"name": "Broncopolmonari","value":4135}
+,{"name": "Ipocolesteromizzanti","value":5849}
+,{"name": "Controllo del peso","value":3683}
+,{"name": "Colliri","value":5868}
+,{"name": "Sedativi","value":4322}
+,{"name": "Tonificanti","value":4790}
+,{"name": "Mal di gola","value":4657}
+,{"name": "Immunostimolanti","value":4195}
+,{"name": "Digestivi","value":3587}
+,{"name": "Vie urinarie","value":1880}]
+
+,"TortaM":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":3969.0217169669}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":3776.55974568794}
+,{"name": "Broncopolmonari","value":2630.97979958629}
+,{"name": "Salute della bocca","value":1739.93382255556}
+,{"name": "Colliri","value":1864.06925904019}
+,{"name": "Lassativi","value":3024.09462802837}
+,{"name": "Fermenti e flora intestinale","value":3175.77885396217}
+,{"name": "Decongestionanti nasali","value":1749.94376786525}
+,{"name": "Mal di gola","value":2016.33243668794}
+,{"name": "Altre 18 esigenze","value":8353.65941318913}]
+,"TortaM_Small":[ {"name": "Aging Care Donna","value":146.334327966903}
+,{"name": "Antistaminici","value":112.718529385343}
+,{"name": "Antidiarroici","value":464.767506319149}
+,{"name": "Aging Care Uomo","value":256.489704104019}
+,{"name": "Antivaricosi","value":952.569886829787}
+,{"name": "Antipertensivi","value":37.3952229952719}
+,{"name": "Antiemorroidali","value":473.403521666667}
+,{"name": "Antiacidi","value":1170.08282386998}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":214.3238771513}
+,{"name": "Antiflatulenza","value":477.019532134752}
+,{"name": "Anticellulite","value":143.71517091253}
+,{"name": "Ipocolesteromizzanti","value":567.356517531915}
+,{"name": "Controllo del peso","value":377.301752891253}
+,{"name": "Sedativi","value":714.606048943263}
+,{"name": "Tonificanti","value":956.692198839243}
+,{"name": "Immunostimolanti","value":557.53843664539}
+,{"name": "Digestivi","value":384.308111312057}
+,{"name": "Vie urinarie","value":347.036243690307}]
+
+,"TortaC":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":9308.90337836646}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":8407.14385067081}
+,{"name": "Broncopolmonari","value":5396.3044087205}
+,{"name": "Salute della bocca","value":4963.04791365838}
+,{"name": "Colliri","value":4377.35131848447}
+,{"name": "Lassativi","value":7750.5475088882}
+,{"name": "Fermenti e flora intestinale","value":7538.93314978261}
+,{"name": "Decongestionanti nasali","value":4776.09185246584}
+,{"name": "Mal di gola","value":5006.56820838509}
+,{"name": "Altre 18 esigenze","value":22093.7930521118}]
+,"TortaC_Small":[ {"name": "Aging Care Donna","value":435.59797026087}
+,{"name": "Antistaminici","value":333.060900621118}
+,{"name": "Antidiarroici","value":1087.71568309938}
+,{"name": "Aging Care Uomo","value":628.827422012422}
+,{"name": "Antivaricosi","value":2387.79134459627}
+,{"name": "Antipertensivi","value":104.386102136646}
+,{"name": "Antiemorroidali","value":1085.85048644099}
+,{"name": "Antiacidi","value":2754.02327097516}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":566.091091639752}
+,{"name": "Antiflatulenza","value":1210.61397988199}
+,{"name": "Anticellulite","value":542.450842714286}
+,{"name": "Ipocolesteromizzanti","value":1658.72607112422}
+,{"name": "Controllo del peso","value":1218.86675768944}
+,{"name": "Sedativi","value":2005.34084106211}
+,{"name": "Tonificanti","value":2455.47730619876}
+,{"name": "Immunostimolanti","value":1626.88278743478}
+,{"name": "Digestivi","value":1083.95328021118}
+,{"name": "Vie urinarie","value":908.136914012422}]
+ 
+      ,"datiTab":[
+
+
+ {"Header": "1","HeaderRiga": "Aging Care Donna","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 27931.63,"FFatt_D": 12.04,"FPezzi": 1233,"FPezzi_D": 13.43,"FQuota": 67.56,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 3785.29,"MFatt_D": 7.19,"MPezzi": 146,"MPezzi_D": 2.6,"MQuota": 41.23,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 10818.55,"CFatt_D": 7.51,"CPezzi": 436,"CPezzi_D": 7.48,"CQuota": 47.47},
+{"Header": "2","HeaderRiga": "Aging Care Uomo","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 40406.88,"FFatt_D": 7.71,"FPezzi": 2082,"FPezzi_D": 3.27,"FQuota": 26.04,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 5382.23,"MFatt_D": 4.42,"MPezzi": 256,"MPezzi_D": 1.42,"MQuota": 9.02,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 12979.69,"CFatt_D": 5.24,"CPezzi": 629,"CPezzi_D": -0.08,"CQuota": 12.9},
+{"Header": "3","HeaderRiga": "Antiacidi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 47744.78,"FFatt_D": 23.02,"FPezzi": 4474,"FPezzi_D": 7.7,"FQuota": 12.13,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 12122.82,"MFatt_D": 10.88,"MPezzi": 1170,"MPezzi_D": 2.45,"MQuota": 9.57,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 28403.37,"CFatt_D": 11.98,"CPezzi": 2754,"CPezzi_D": 4.33,"CQuota": 13.73},
+{"Header": "4","HeaderRiga": "Anticellulite","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 29965.13,"FFatt_D": -24.14,"FPezzi": 1262,"FPezzi_D": -26.54,"FQuota": 100,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 4204.69,"MFatt_D": -19.28,"MPezzi": 144,"MPezzi_D": -23.19,"MQuota": 100,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 15720.73,"CFatt_D": -29.71,"CPezzi": 542,"CPezzi_D": -29.79,"CQuota": 100},
+{"Header": "5","HeaderRiga": "Antidiarroici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 5453.86,"FFatt_D": 30.65,"FPezzi": 865,"FPezzi_D": 14.87,"FQuota": 84.89,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 4320.89,"MFatt_D": 15.47,"MPezzi": 465,"MPezzi_D": 5.25,"MQuota": 93.16,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 9730.31,"CFatt_D": 19.26,"CPezzi": 1088,"CPezzi_D": 9.9,"CQuota": 92.8},
+{"Header": "6","HeaderRiga": "Antiemorroidali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 16256.98,"FFatt_D": 28.32,"FPezzi": 1801,"FPezzi_D": 21.77,"FQuota": 91.37,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 5240.78,"MFatt_D": 4.39,"MPezzi": 473,"MPezzi_D": 2.56,"MQuota": 91.43,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 11638.05,"CFatt_D": 5.85,"CPezzi": 1086,"CPezzi_D": 5.59,"CQuota": 91.04},
+{"Header": "7","HeaderRiga": "Antiflatulenza","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 29991.76,"FFatt_D": 7.01,"FPezzi": 2535,"FPezzi_D": 0.48,"FQuota": 99.26,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 6605.63,"MFatt_D": 5.98,"MPezzi": 477,"MPezzi_D": -1.16,"MQuota": 99.26,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 15905.82,"CFatt_D": 6.05,"CPezzi": 1211,"CPezzi_D": 1.12,"CQuota": 99.4},
+{"Header": "8","HeaderRiga": "Antinfiammatori antireumatici e antitraumatici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 114284,"FFatt_D": 6.51,"FPezzi": 10342,"FPezzi_D": 2.31,"FQuota": 55.28,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 42138.66,"MFatt_D": 2.03,"MPezzi": 3969,"MPezzi_D": -1.1,"MQuota": 47.89,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 96604.04,"CFatt_D": 6.96,"CPezzi": 9309,"CPezzi_D": 4.67,"CQuota": 55.84},
+{"Header": "9","HeaderRiga": "Antipertensivi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 9273.58,"FFatt_D": 17.93,"FPezzi": 486,"FPezzi_D": 14.62,"FQuota": 0.96,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 671.94,"MFatt_D": 11.45,"MPezzi": 37,"MPezzi_D": 9.23,"MQuota": 0.15,"CFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","CFatt": 1941.52,"CFatt_D": -0.83,"CPezzi": 104,"CPezzi_D": -3.53,"CQuota": 0.28},
+{"Header": "10","HeaderRiga": "Antipiretici analgesici e antinfluenzali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 32860.39,"FFatt_D": 16.19,"FPezzi": 6198,"FPezzi_D": 12.77,"FQuota": 47.38,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 24623.83,"MFatt_D": 3.69,"MPezzi": 3777,"MPezzi_D": 0.52,"MQuota": 63.22,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 54785.05,"CFatt_D": 7.88,"CPezzi": 8407,"CPezzi_D": 4.27,"CQuota": 65.69},
+{"Header": "11","HeaderRiga": "Antistaminici","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 775.48,"FFatt_D": 1.16,"FPezzi": 114,"FPezzi_D": 0.88,"FQuota": 3.93,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 986.81,"MFatt_D": 31.76,"MPezzi": 113,"MPezzi_D": 25.33,"MQuota": 7.66,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 2859.39,"CFatt_D": 28.97,"CPezzi": 333,"CPezzi_D": 19.61,"CQuota": 11.48},
+{"Header": "12","HeaderRiga": "Antivaricosi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 95072.13,"FFatt_D": 7.87,"FPezzi": 6090,"FPezzi_D": 4.26,"FQuota": 96.61,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 15927.83,"MFatt_D": -2.77,"MPezzi": 953,"MPezzi_D": -5.08,"MQuota": 96.91,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 39157.14,"CFatt_D": -3.19,"CPezzi": 2388,"CPezzi_D": -4.93,"CQuota": 96.62},
+{"Header": "13","HeaderRiga": "Benessere cardiovascolare","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 38367.87,"FFatt_D": 5.12,"FPezzi": 1720,"FPezzi_D": -0.58,"FQuota": 48.08,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 5357.35,"MFatt_D": 1.21,"MPezzi": 214,"MPezzi_D": -1.92,"MQuota": 25.16,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 14475.75,"CFatt_D": -4.62,"CPezzi": 566,"CPezzi_D": -7.6,"CQuota": 36.05},
+{"Header": "14","HeaderRiga": "Broncopolmonari","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 36423.73,"FFatt_D": 13.46,"FPezzi": 4135,"FPezzi_D": 10.21,"FQuota": 83.99,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 28875.4,"MFatt_D": 4.03,"MPezzi": 2631,"MPezzi_D": 1.44,"MQuota": 83.01,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 57599.58,"CFatt_D": 5.67,"CPezzi": 5396,"CPezzi_D": 2.99,"CQuota": 84.62},
+{"Header": "15","HeaderRiga": "Colliri","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 71722.91,"FFatt_D": 9.67,"FPezzi": 5868,"FPezzi_D": 4.9,"FQuota": 52.49,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 24371.7,"MFatt_D": 2.34,"MPezzi": 1864,"MPezzi_D": 0.38,"MQuota": 39.35,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 56016.73,"CFatt_D": 4.1,"CPezzi": 4377,"CPezzi_D": 2.6,"CQuota": 45.14},
+{"Header": "16","HeaderRiga": "Decongestionanti nasali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 55125.07,"FFatt_D": 7.59,"FPezzi": 8308,"FPezzi_D": 4.2,"FQuota": 86.05,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 16840.65,"MFatt_D": 6.17,"MPezzi": 1750,"MPezzi_D": 2.95,"MQuota": 82.28,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 43203.5,"CFatt_D": 9.8,"CPezzi": 4776,"CPezzi_D": 6.23,"CQuota": 83.77},
+{"Header": "17","HeaderRiga": "Digestivi","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 54047.83,"FFatt_D": 2.42,"FPezzi": 3587,"FPezzi_D": 5.38,"FQuota": 97.08,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 5495.4,"MFatt_D": 6.12,"MPezzi": 384,"MPezzi_D": 4.79,"MQuota": 85.91,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 15686.25,"CFatt_D": 7.57,"CPezzi": 1084,"CPezzi_D": 7.53,"CQuota": 91.7},
+{"Header": "18","HeaderRiga": "Dimagranti","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 81335.66,"FFatt_D": -7.9,"FPezzi": 3683,"FPezzi_D": -4.29,"FQuota": 98.95,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 9308.14,"MFatt_D": -9.63,"MPezzi": 377,"MPezzi_D": -9.13,"MQuota": 98.72,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 27568.04,"CFatt_D": -10.4,"CPezzi": 1219,"CPezzi_D": -9.83,"CQuota": 98.71},
+{"Header": "19","HeaderRiga": "Fermenti e flora intestinale","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 174304.73,"FFatt_D": 12.99,"FPezzi": 14248,"FPezzi_D": 9.57,"FQuota": 100,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 46370.97,"MFatt_D": 5.83,"MPezzi": 3176,"MPezzi_D": 1.45,"MQuota": 100,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 104706.79,"CFatt_D": 4.71,"CPezzi": 7539,"CPezzi_D": 1.97,"CQuota": 100},
+{"Header": "20","HeaderRiga": "Immunostimolanti","FFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","FFatt": 76039.1,"FFatt_D": 0.38,"FPezzi": 4195,"FPezzi_D": 2.49,"FQuota": 84.44,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 10208.08,"MFatt_D": 1.95,"MPezzi": 558,"MPezzi_D": 1.7,"MQuota": 73.11,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 29516.16,"CFatt_D": 1.37,"CPezzi": 1627,"CPezzi_D": 1.88,"CQuota": 78.56},
+{"Header": "21","HeaderRiga": "Ipocolesteromizzanti","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 121783.5,"FFatt_D": 8.2,"FPezzi": 5849,"FPezzi_D": 1.55,"FQuota": 33.68,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 12383.94,"MFatt_D": 6.52,"MPezzi": 567,"MPezzi_D": 1.93,"MQuota": 9.49,"CFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","CFatt": 35913.72,"CFatt_D": 0.14,"CPezzi": 1659,"CPezzi_D": -5.24,"CQuota": 17.35},
+{"Header": "22","HeaderRiga": "Lassativi","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 82440.81,"FFatt_D": 4.16,"FPezzi": 13555,"FPezzi_D": 4.82,"FQuota": 88.04,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 22931.83,"MFatt_D": 0.09,"MPezzi": 3024,"MPezzi_D": -2.88,"MQuota": 85.14,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 53288.12,"CFatt_D": 1.41,"CPezzi": 7751,"CPezzi_D": -0.69,"CQuota": 88.21},
+{"Header": "23","HeaderRiga": "Mal di gola","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 31490.22,"FFatt_D": 8.76,"FPezzi": 4657,"FPezzi_D": 4.84,"FQuota": 98.52,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 17894.71,"MFatt_D": -0.82,"MPezzi": 2016,"MPezzi_D": -5.37,"MQuota": 99.11,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 43104.59,"CFatt_D": 2.06,"CPezzi": 5007,"CPezzi_D": -1.88,"CQuota": 99.31},
+{"Header": "24","HeaderRiga": "Salute della bocca","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 42567.7,"FFatt_D": 7.42,"FPezzi": 7709,"FPezzi_D": -4.3,"FQuota": 98.82,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 13964.35,"MFatt_D": 3.23,"MPezzi": 1740,"MPezzi_D": -3.06,"MQuota": 95.06,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 36942.93,"CFatt_D": 7.28,"CPezzi": 4963,"CPezzi_D": 0.51,"CQuota": 96.82},
+{"Header": "25","HeaderRiga": "Sedativi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 57433.19,"FFatt_D": 6.87,"FPezzi": 4322,"FPezzi_D": 6.8,"FQuota": 26.74,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 9646.41,"MFatt_D": 7.49,"MPezzi": 715,"MPezzi_D": 4.71,"MQuota": 11.89,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 26842.57,"CFatt_D": 8.34,"CPezzi": 2005,"CPezzi_D": 5.17,"CQuota": 20.01},
+{"Header": "26","HeaderRiga": "Tonificanti","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 70133.6,"FFatt_D": 6.42,"FPezzi": 4790,"FPezzi_D": 18.86,"FQuota": 99.9,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 16294.61,"MFatt_D": 5.85,"MPezzi": 957,"MPezzi_D": 7.47,"MQuota": 99.67,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 39626.92,"CFatt_D": 7.04,"CPezzi": 2455,"CPezzi_D": 14.81,"CQuota": 99.77},
+{"Header": "27","HeaderRiga": "Totale Esigenze (27)","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 1478043.1,"FFatt_D": 6.78,"FPezzi": 125988,"FPezzi_D": 4.98,"FQuota": 46.81,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 372501.4,"MFatt_D": 3.05,"MPezzi": 32300,"MPezzi_D": -0.15,"MQuota": 33.77,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 902053.09,"CFatt_D": 3.65,"CPezzi": 79619,"CPezzi_D": 2.08,"CQuota": 44.43},
+{"Header": "28","HeaderRiga": "Vie urinarie","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 34810.58,"FFatt_D": 16.3,"FPezzi": 1880,"FPezzi_D": 15.2,"FQuota": 100,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 6546.43,"MFatt_D": 2.99,"MPezzi": 347,"MPezzi_D": 1.49,"MQuota": 99.99,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 17017.8,"CFatt_D": 5.98,"CPezzi": 908,"CPezzi_D": 3.81,"CQuota": 100} 
+]
+     }]
+    }
+, {"IdPeriodo":" PROG "
+,"dati":[
+     {"Classificazione":"Globale"
+       
+,"TortaF":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":17282}
+,{"name": "Antipertensivi","value":46268}
+,{"name": "Antiacidi","value":33656}
+,{"name": "Ipocolesteromizzanti","value":15969}
+,{"name": "Sedativi","value":14836}
+,{"name": "Lassativi","value":14148}
+,{"name": "Fermenti e flora intestinale","value":13176}
+,{"name": "Altre 20 esigenze","value":90888}]
+,"TortaF_Small":[ {"name": "Aging Care Donna","value":1711}
+,{"name": "Antistaminici","value":2732}
+,{"name": "Antidiarroici","value":943}
+,{"name": "Aging Care Uomo","value":7326}
+,{"name": "Antivaricosi","value":5926}
+,{"name": "Antiemorroidali","value":1822}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":3248}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":11513}
+,{"name": "Antiflatulenza","value":2387}
+,{"name": "Anticellulite","value":1226}
+,{"name": "Broncopolmonari","value":4206}
+,{"name": "Salute della bocca","value":7193}
+,{"name": "Controllo del peso","value":3507}
+,{"name": "Colliri","value":10335}
+,{"name": "Decongestionanti nasali","value":8715}
+,{"name": "Tonificanti","value":4506}
+,{"name": "Mal di gola","value":4043}
+,{"name": "Immunostimolanti","value":4385}
+,{"name": "Digestivi","value":3420}
+,{"name": "Vie urinarie","value":1744}]
+
+,"TortaM":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":7555.98519616548}
+,{"name": "Antipertensivi","value":23400.9362355201}
+,{"name": "Antiacidi","value":11076.0067009125}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":5168.3294530331}
+,{"name": "Ipocolesteromizzanti","value":5481.02023317258}
+,{"name": "Colliri","value":4370.833634974}
+,{"name": "Sedativi","value":5509.24997160284}
+,{"name": "Altre 20 esigenze","value":24334.8257452955}]
+,"TortaM_Small":[ {"name": "Aging Care Donna","value":327.557675118203}
+,{"name": "Antistaminici","value":1394.95876744208}
+,{"name": "Antidiarroici","value":449.761555392435}
+,{"name": "Aging Care Uomo","value":2612.12539333806}
+,{"name": "Antivaricosi","value":921.607793368794}
+,{"name": "Antiemorroidali","value":473.576555004728}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":766.106040654846}
+,{"name": "Antiflatulenza","value":443.090242158392}
+,{"name": "Anticellulite","value":137.209423744681}
+,{"name": "Broncopolmonari","value":2711.32454563121}
+,{"name": "Salute della bocca","value":1667.76116416548}
+,{"name": "Controllo del peso","value":359.906725515366}
+,{"name": "Lassativi","value":3249.67082428369}
+,{"name": "Fermenti e flora intestinale","value":2866.44552059575}
+,{"name": "Decongestionanti nasali","value":1895.4843890331}
+,{"name": "Tonificanti","value":896.849482527187}
+,{"name": "Mal di gola","value":1761.33520832151}
+,{"name": "Immunostimolanti","value":671.572919333333}
+,{"name": "Digestivi","value":408.207972678487}
+,{"name": "Vie urinarie","value":320.27354698818}]
+
+,"TortaC":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":15172.3987561553}
+,{"name": "Antipertensivi","value":34070.1975622857}
+,{"name": "Antiacidi","value":18207.2509318509}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":11031.4845703354}
+,{"name": "Ipocolesteromizzanti","value":8755.86118498136}
+,{"name": "Colliri","value":8943.97631362733}
+,{"name": "Sedativi","value":9161.6763026087}
+,{"name": "Altre 20 esigenze","value":57094.0781948199}]
+,"TortaC_Small":[ {"name": "Aging Care Donna","value":841.597106031056}
+,{"name": "Antistaminici","value":2750.17301740994}
+,{"name": "Antidiarroici","value":1059.55355585714}
+,{"name": "Aging Care Uomo","value":4485.38858157764}
+,{"name": "Antivaricosi","value":2309.89645368323}
+,{"name": "Antiemorroidali","value":1087.65466354658}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":1426.11130391304}
+,{"name": "Antiflatulenza","value":1117.36528431677}
+,{"name": "Anticellulite","value":511.659176322981}
+,{"name": "Broncopolmonari","value":5441.33519596273}
+,{"name": "Salute della bocca","value":4664.98640749068}
+,{"name": "Controllo del peso","value":1150.23736909317}
+,{"name": "Lassativi","value":8003.61925370186}
+,{"name": "Fermenti e flora intestinale","value":6785.72481721739}
+,{"name": "Decongestionanti nasali","value":5084.42469924224}
+,{"name": "Tonificanti","value":2294.50993111801}
+,{"name": "Mal di gola","value":4353.81510821739}
+,{"name": "Immunostimolanti","value":1809.21232740994}
+,{"name": "Digestivi","value":1076.05202821739}
+,{"name": "Vie urinarie","value":840.761914490683}]
+ 
+      ,"datiTab":[
+
+
+ {"Header": "TotaleEsigenze","HeaderRiga": "Totale Esigenze (27)","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 2370562.61,"FFatt_D": 3.25,"FPezzi": 246223,"FPezzi_D": 2.83,"FQuota": 24.46,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 774988.91,"MFatt_D": -3.06,"MPezzi": 86897,"MPezzi_D": -2.15,"MQuota": 42.64,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 1525322.63,"CFatt_D": 1.47,"CPezzi": 162437,"CPezzi_D": 2.77,"CQuota": 35.09},
+{"Header": "3720","HeaderRiga": "Aging Care Donna","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 33236.84,"FFatt_D": 10.44,"FPezzi": 1711,"FPezzi_D": 6.74,"FQuota": 0.69,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 5478.91,"MFatt_D": 7.73,"MPezzi": 328,"MPezzi_D": 3.95,"MQuota": 0.38,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 14539.31,"CFatt_D": 6.95,"CPezzi": 842,"CPezzi_D": 6.75,"CQuota": 0.52},
+{"Header": "3680","HeaderRiga": "Aging Care Uomo","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 93767.83,"FFatt_D": 5.36,"FPezzi": 7326,"FPezzi_D": 5.23,"FQuota": 2.98,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 26849.8,"MFatt_D": -4.27,"MPezzi": 2612,"MPezzi_D": 0.08,"MQuota": 3.01,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 48446.05,"CFatt_D": 3.84,"CPezzi": 4485,"CPezzi_D": 9.4,"CQuota": 2.76},
+{"Header": "3090","HeaderRiga": "Antiacidi","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 223846.23,"FFatt_D": -6.27,"FPezzi": 33656,"FPezzi_D": -8.06,"FQuota": 13.67,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 72353.74,"MFatt_D": -13.01,"MPezzi": 11076,"MPezzi_D": -15.52,"MQuota": 12.75,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 123436.8,"CFatt_D": -5.87,"CPezzi": 18207,"CPezzi_D": -9.12,"CQuota": 11.21},
+{"Header": "3210","HeaderRiga": "Anticellulite","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 29007.93,"FFatt_D": -23.8,"FPezzi": 1226,"FPezzi_D": -26.54,"FQuota": 0.5,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 4007.16,"MFatt_D": -20.07,"MPezzi": 137,"MPezzi_D": -24.11,"MQuota": 0.16,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 14743.54,"CFatt_D": -31.13,"CPezzi": 512,"CPezzi_D": -31.12,"CQuota": 0.31},
+{"Header": "3600","HeaderRiga": "Antidiarroici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 6049.66,"FFatt_D": 19.35,"FPezzi": 943,"FPezzi_D": 9.91,"FQuota": 0.38,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 4082.48,"MFatt_D": 13.4,"MPezzi": 450,"MPezzi_D": 4.51,"MQuota": 0.52,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 9269.8,"CFatt_D": 17.83,"CPezzi": 1060,"CPezzi_D": 9.87,"CQuota": 0.65},
+{"Header": "3250","HeaderRiga": "Antiemorroidali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 17228.26,"FFatt_D": 24.39,"FPezzi": 1822,"FPezzi_D": 20.18,"FQuota": 0.74,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 5394.42,"MFatt_D": 4.64,"MPezzi": 474,"MPezzi_D": 2.8,"MQuota": 0.54,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 12095.95,"CFatt_D": 7.09,"CPezzi": 1088,"CPezzi_D": 6.29,"CQuota": 0.67},
+{"Header": "2970","HeaderRiga": "Antiflatulenza","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 28239.02,"FFatt_D": 7.76,"FPezzi": 2387,"FPezzi_D": 1.4,"FQuota": 0.97,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 6154.73,"MFatt_D": 6.09,"MPezzi": 443,"MPezzi_D": -0.83,"MQuota": 0.51,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 14745.84,"CFatt_D": 6.18,"CPezzi": 1117,"CPezzi_D": 1.33,"CQuota": 0.69},
+{"Header": "3410","HeaderRiga": "Antinfiammatori antireumatici e antitraumatici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 152787.51,"FFatt_D": 5.75,"FPezzi": 17282,"FPezzi_D": 1.93,"FQuota": 7.02,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 62466.26,"MFatt_D": -0.79,"MPezzi": 7556,"MPezzi_D": -2.24,"MQuota": 8.7,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 129818.21,"CFatt_D": 4.52,"CPezzi": 15172,"CPezzi_D": 3.62,"CQuota": 9.34},
+{"Header": "3330","HeaderRiga": "Antipertensivi","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 308032.54,"FFatt_D": 4.89,"FPezzi": 46268,"FPezzi_D": 5.74,"FQuota": 18.79,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 147116.07,"MFatt_D": -0.82,"MPezzi": 23401,"MPezzi_D": 0.8,"MQuota": 26.93,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 219631.67,"CFatt_D": 5.25,"CPezzi": 34070,"CPezzi_D": 7.39,"CQuota": 20.97},
+{"Header": "3370","HeaderRiga": "Antipiretici analgesici e antinfluenzali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 73397.12,"FFatt_D": 10.59,"FPezzi": 11513,"FPezzi_D": 9.85,"FQuota": 4.68,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 35135.41,"MFatt_D": 6.2,"MPezzi": 5168,"MPezzi_D": 4.03,"MQuota": 5.95,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 74826.82,"CFatt_D": 11.6,"CPezzi": 11031,"CPezzi_D": 8.98,"CQuota": 6.79},
+{"Header": "3640","HeaderRiga": "Antistaminici","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 19266.53,"FFatt_D": 4.97,"FPezzi": 2732,"FPezzi_D": 6.68,"FQuota": 1.11,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 9986.86,"MFatt_D": 2.24,"MPezzi": 1395,"MPezzi_D": 1.72,"MQuota": 1.61,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 20397.73,"CFatt_D": 8.24,"CPezzi": 2750,"CPezzi_D": 7.49,"CQuota": 1.69},
+{"Header": "2770","HeaderRiga": "Antivaricosi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 92360.82,"FFatt_D": 8.45,"FPezzi": 5926,"FPezzi_D": 5.02,"FQuota": 2.41,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 15368.87,"MFatt_D": -2.78,"MPezzi": 922,"MPezzi_D": -5.04,"MQuota": 1.06,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 37745.33,"CFatt_D": -3.39,"CPezzi": 2310,"CPezzi_D": -5.05,"CQuota": 1.42},
+{"Header": "3760","HeaderRiga": "Benessere cardiovascolare","FFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","FFatt": 56926.45,"FFatt_D": -3.73,"FPezzi": 3248,"FPezzi_D": -9.53,"FQuota": 1.32,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 12397.51,"MFatt_D": -13.81,"MPezzi": 766,"MPezzi_D": -18.39,"MQuota": 0.88,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 25122.65,"CFatt_D": -4.61,"CPezzi": 1426,"CPezzi_D": -6.61,"CQuota": 0.88},
+{"Header": "2850","HeaderRiga": "Broncopolmonari","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 39852.83,"FFatt_D": 5.78,"FPezzi": 4206,"FPezzi_D": 3.57,"FQuota": 1.71,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 30197.44,"MFatt_D": 5.42,"MPezzi": 2711,"MPezzi_D": 3.65,"MQuota": 3.12,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 59235.06,"CFatt_D": 8.64,"CPezzi": 5441,"CPezzi_D": 6.39,"CQuota": 3.35},
+{"Header": "3130","HeaderRiga": "Colliri","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 128217.63,"FFatt_D": 5.56,"FPezzi": 10335,"FPezzi_D": 3.78,"FQuota": 4.2,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 56301.32,"MFatt_D": 0.57,"MPezzi": 4371,"MPezzi_D": 0.03,"MQuota": 5.03,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 113997.44,"CFatt_D": 4.97,"CPezzi": 8944,"CPezzi_D": 4.19,"CQuota": 5.51},
+{"Header": "3050","HeaderRiga": "Decongestionanti nasali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 73138.75,"FFatt_D": 7.78,"FPezzi": 8715,"FPezzi_D": 4.2,"FQuota": 3.54,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 21307.69,"MFatt_D": 3.86,"MPezzi": 1895,"MPezzi_D": 1.77,"MQuota": 2.18,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 53802.44,"CFatt_D": 9.2,"CPezzi": 5084,"CPezzi_D": 6.56,"CQuota": 3.13},
+{"Header": "3170","HeaderRiga": "Digestivi","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 51859.46,"FFatt_D": 3.29,"FPezzi": 3420,"FPezzi_D": 6.24,"FQuota": 1.39,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 6056.66,"MFatt_D": 6.35,"MPezzi": 408,"MPezzi_D": 5.57,"MQuota": 0.47,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 15926.09,"CFatt_D": 8.12,"CPezzi": 1076,"CPezzi_D": 8.69,"CQuota": 0.66},
+{"Header": "2930","HeaderRiga": "Dimagranti","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 78033.62,"FFatt_D": -8.26,"FPezzi": 3507,"FPezzi_D": -4.31,"FQuota": 1.42,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 9010.97,"MFatt_D": -8.95,"MPezzi": 360,"MPezzi_D": -8.69,"MQuota": 0.41,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 26421.04,"CFatt_D": -10.41,"CPezzi": 1150,"CPezzi_D": -9.73,"CQuota": 0.71},
+{"Header": "3450","HeaderRiga": "Fermenti e flora intestinale","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 161723.64,"FFatt_D": 13.62,"FPezzi": 13176,"FPezzi_D": 10.23,"FQuota": 5.35,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 41896.23,"MFatt_D": 6.42,"MPezzi": 2866,"MPezzi_D": 2.18,"MQuota": 3.3,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 94397.04,"CFatt_D": 5.06,"CPezzi": 6786,"CPezzi_D": 2.46,"CQuota": 4.18},
+{"Header": "3490","HeaderRiga": "Immunostimolanti","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 83632.31,"FFatt_D": 1.42,"FPezzi": 4385,"FPezzi_D": 2.84,"FQuota": 1.78,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 13200.05,"MFatt_D": 1.89,"MPezzi": 672,"MPezzi_D": 1.12,"MQuota": 0.77,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 34867.75,"CFatt_D": 1.7,"CPezzi": 1809,"CPezzi_D": 1.4,"CQuota": 1.11},
+{"Header": "3290","HeaderRiga": "Ipocolesteromizzanti","FFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","FFatt": 215513.31,"FFatt_D": -4.61,"FPezzi": 15969,"FPezzi_D": 2.71,"FQuota": 6.49,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 63896.53,"MFatt_D": -22.83,"MPezzi": 5481,"MPezzi_D": -0.44,"MQuota": 6.31,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 109629.73,"CFatt_D": -17.63,"CPezzi": 8756,"CPezzi_D": 3.44,"CQuota": 5.39},
+{"Header": "2730","HeaderRiga": "Lassativi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 97618.25,"FFatt_D": 5.84,"FPezzi": 14148,"FPezzi_D": 5.17,"FQuota": 5.75,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 26895.66,"MFatt_D": 1.6,"MPezzi": 3250,"MPezzi_D": -1.48,"MQuota": 3.74,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 60408.07,"CFatt_D": 3.32,"CPezzi": 8004,"CPezzi_D": 0.77,"CQuota": 4.93},
+{"Header": "3010","HeaderRiga": "Mal di gola","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 28025.86,"FFatt_D": 7.05,"FPezzi": 4043,"FPezzi_D": 2.8,"FQuota": 1.64,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 15759.44,"MFatt_D": 0.56,"MPezzi": 1761,"MPezzi_D": -3.85,"MQuota": 2.03,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 37791.16,"CFatt_D": 3.57,"CPezzi": 4354,"CPezzi_D": -0.4,"CQuota": 2.68},
+{"Header": "3530","HeaderRiga": "Salute della bocca","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 40311.95,"FFatt_D": 8.85,"FPezzi": 7193,"FPezzi_D": -2.78,"FQuota": 2.92,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 13516.33,"MFatt_D": 2.83,"MPezzi": 1668,"MPezzi_D": -2.8,"MQuota": 1.92,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 35026,"CFatt_D": 6.95,"CPezzi": 4665,"CPezzi_D": 1.1,"CQuota": 2.87},
+{"Header": "2810","HeaderRiga": "Sedativi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 139945.27,"FFatt_D": 6.76,"FPezzi": 14836,"FPezzi_D": 7.14,"FQuota": 6.03,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 48833,"MFatt_D": 1.96,"MPezzi": 5509,"MPezzi_D": 0.71,"MQuota": 6.34,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 86261.59,"CFatt_D": 4.15,"CPezzi": 9162,"CPezzi_D": 1.77,"CQuota": 5.64},
+{"Header": "2890","HeaderRiga": "Tonificanti","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 66114.11,"FFatt_D": 8.75,"FPezzi": 4506,"FPezzi_D": 20.8,"FQuota": 1.83,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 15283.49,"MFatt_D": 6.78,"MPezzi": 897,"MPezzi_D": 8.62,"MQuota": 1.03,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 36963.01,"CFatt_D": 8.41,"CPezzi": 2295,"CPezzi_D": 16.85,"CQuota": 1.41},
+{"Header": "3570","HeaderRiga": "Vie urinarie","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 32428.88,"FFatt_D": 18.47,"FPezzi": 1744,"FPezzi_D": 16.97,"FQuota": 0.71,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 6041.89,"MFatt_D": 3.3,"MPezzi": 320,"MPezzi_D": 2,"MQuota": 0.37,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 15776.49,"CFatt_D": 7.47,"CPezzi": 841,"CPezzi_D": 5.19,"CQuota": 0.52} 
+]
+     }
+    ,{"Classificazione":"Commerciale"
+       
+,"TortaF":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":9555}
+,{"name": "Salute della bocca","value":7107}
+,{"name": "Lassativi","value":12446}
+,{"name": "Fermenti e flora intestinale","value":13176}
+,{"name": "Decongestionanti nasali","value":7479}
+,{"name": "Altre 22 esigenze","value":65505}]
+,"TortaF_Small":[ {"name": "Aging Care Donna","value":1158}
+,{"name": "Antistaminici","value":112}
+,{"name": "Antidiarroici","value":799}
+,{"name": "Aging Care Uomo","value":1903}
+,{"name": "Antivaricosi","value":5728}
+,{"name": "Antipertensivi","value":445}
+,{"name": "Antiemorroidali","value":1667}
+,{"name": "Antiacidi","value":4047}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":1587}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":5402}
+,{"name": "Antiflatulenza","value":2372}
+,{"name": "Anticellulite","value":1226}
+,{"name": "Broncopolmonari","value":3518}
+,{"name": "Ipocolesteromizzanti","value":5397}
+,{"name": "Controllo del peso","value":3473}
+,{"name": "Colliri","value":5440}
+,{"name": "Sedativi","value":3981}
+,{"name": "Tonificanti","value":4501}
+,{"name": "Mal di gola","value":3978}
+,{"name": "Immunostimolanti","value":3707}
+,{"name": "Digestivi","value":3320}
+,{"name": "Vie urinarie","value":1744}]
+
+,"TortaM":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":3618.6906824208}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":3223.54825142553}
+,{"name": "Broncopolmonari","value":2240.13612139007}
+,{"name": "Salute della bocca","value":1585.65106389598}
+,{"name": "Colliri","value":1726.01178776596}
+,{"name": "Lassativi","value":2763.53830613712}
+,{"name": "Fermenti e flora intestinale","value":2866.44552059575}
+,{"name": "Decongestionanti nasali","value":1547.45641153191}
+,{"name": "Mal di gola","value":1745.14393091253}
+,{"name": "Altre 18 esigenze","value":7675.95596432151}]
+,"TortaM_Small":[ {"name": "Aging Care Donna","value":135.155017579196}
+,{"name": "Antistaminici","value":109.536920189125}
+,{"name": "Antidiarroici","value":418.698540801419}
+,{"name": "Aging Care Uomo","value":234.600048926714}
+,{"name": "Antivaricosi","value":893.438852307329}
+,{"name": "Antipertensivi","value":34.1032689598109}
+,{"name": "Antiemorroidali","value":433.143751548463}
+,{"name": "Antiacidi","value":1057.36558247281}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":195.87560126714}
+,{"name": "Antiflatulenza","value":439.904589593381}
+,{"name": "Anticellulite","value":137.209423744681}
+,{"name": "Ipocolesteromizzanti","value":518.678356595745}
+,{"name": "Controllo del peso","value":355.3960056974}
+,{"name": "Sedativi","value":659.09570405201}
+,{"name": "Tonificanti","value":893.830129789598}
+,{"name": "Immunostimolanti","value":489.692459560284}
+,{"name": "Digestivi","value":349.983973330969}
+,{"name": "Vie urinarie","value":320.247737905437}]
+
+,"TortaC":      [ {"name": "Antinfiammatori antireumatici e antitraumatici","value":8464.1117122795}
+,{"name": "Antipiretici analgesici e antinfluenzali","value":7160.7688508882}
+,{"name": "Broncopolmonari","value":4582.97107593789}
+,{"name": "Salute della bocca","value":4514.96458044099}
+,{"name": "Colliri","value":4042.68465235404}
+,{"name": "Lassativi","value":7048.88084271429}
+,{"name": "Fermenti e flora intestinale","value":6785.72481721739}
+,{"name": "Decongestionanti nasali","value":4232.34185263975}
+,{"name": "Mal di gola","value":4322.90154199379}
+,{"name": "Altre 18 esigenze","value":20219.9597245901}]
+,"TortaC_Small":[ {"name": "Aging Care Donna","value":398.306303826087}
+,{"name": "Antistaminici","value":322.394233968944}
+,{"name": "Antidiarroici","value":983.215683099379}
+,{"name": "Aging Care Uomo","value":572.952422142857}
+,{"name": "Antivaricosi","value":2231.70801168323}
+,{"name": "Antipertensivi","value":94.2611023975154}
+,{"name": "Antiemorroidali","value":990.725486484472}
+,{"name": "Antiacidi","value":2473.56493806211}
+,{"name": "Benessere Cardiovascolare (Omega 3)","value":515.96609168323}
+,{"name": "Antiflatulenza","value":1110.98897992547}
+,{"name": "Anticellulite","value":511.659176322981}
+,{"name": "Ipocolesteromizzanti","value":1497.26773786335}
+,{"name": "Controllo del peso","value":1135.74175834161}
+,{"name": "Sedativi","value":1847.50750858385}
+,{"name": "Tonificanti","value":2289.10230689441}
+,{"name": "Immunostimolanti","value":1418.38278804348}
+,{"name": "Digestivi","value":985.453280776397}
+,{"name": "Vie urinarie","value":840.761914490683}]
+ 
+      ,"datiTab":[
+
+
+ {"Header": "1","HeaderRiga": "Aging Care Donna","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 26204.62,"FFatt_D": 13.63,"FPezzi": 1158,"FPezzi_D": 14.88,"FQuota": 67.68,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 3498.95,"MFatt_D": 7.53,"MPezzi": 135,"MPezzi_D": 2.94,"MQuota": 41.26,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 9856.84,"CFatt_D": 6.53,"CPezzi": 398,"CPezzi_D": 7.1,"CQuota": 47.33},
+{"Header": "2","HeaderRiga": "Aging Care Uomo","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 37090.32,"FFatt_D": 7.57,"FPezzi": 1903,"FPezzi_D": 2.37,"FQuota": 25.98,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 4925.69,"MFatt_D": 4.64,"MPezzi": 235,"MPezzi_D": 1.54,"MQuota": 8.98,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 11844.27,"CFatt_D": 5.15,"CPezzi": 573,"CPezzi_D": -0.21,"CQuota": 12.77},
+{"Header": "3","HeaderRiga": "Antiacidi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 43369.66,"FFatt_D": 22.33,"FPezzi": 4047,"FPezzi_D": 7.95,"FQuota": 12.02,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 11012.83,"MFatt_D": 11.09,"MPezzi": 1057,"MPezzi_D": 2.93,"MQuota": 9.55,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 25660.65,"CFatt_D": 12.01,"CPezzi": 2474,"CPezzi_D": 4.68,"CQuota": 13.59},
+{"Header": "4","HeaderRiga": "Anticellulite","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 29007.93,"FFatt_D": -23.8,"FPezzi": 1226,"FPezzi_D": -26.54,"FQuota": 100,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 4007.16,"MFatt_D": -20.07,"MPezzi": 137,"MPezzi_D": -24.11,"MQuota": 100,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 14743.54,"CFatt_D": -31.13,"CPezzi": 512,"CPezzi_D": -31.12,"CQuota": 100},
+{"Header": "5","HeaderRiga": "Antidiarroici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 5063.26,"FFatt_D": 29.19,"FPezzi": 799,"FPezzi_D": 13.66,"FQuota": 84.73,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 3901.85,"MFatt_D": 14.32,"MPezzi": 419,"MPezzi_D": 4.96,"MQuota": 93.09,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 8806.34,"CFatt_D": 18.88,"CPezzi": 983,"CPezzi_D": 10.39,"CQuota": 92.8},
+{"Header": "6","HeaderRiga": "Antiemorroidali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 15076.17,"FFatt_D": 28.05,"FPezzi": 1667,"FPezzi_D": 21.59,"FQuota": 91.49,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 4802.99,"MFatt_D": 4.64,"MPezzi": 433,"MPezzi_D": 2.85,"MQuota": 91.46,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 10632.18,"CFatt_D": 6.06,"CPezzi": 991,"CPezzi_D": 5.89,"CQuota": 91.09},
+{"Header": "7","HeaderRiga": "Antiflatulenza","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 28023.92,"FFatt_D": 7.63,"FPezzi": 2372,"FPezzi_D": 1.32,"FQuota": 99.37,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 6101.03,"MFatt_D": 6.46,"MPezzi": 440,"MPezzi_D": -0.58,"MQuota": 99.28,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 14638.97,"CFatt_D": 6.3,"CPezzi": 1111,"CPezzi_D": 1.41,"CQuota": 99.43},
+{"Header": "8","HeaderRiga": "Antinfiammatori antireumatici e antitraumatici","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 105712.68,"FFatt_D": 6.91,"FPezzi": 9555,"FPezzi_D": 2.87,"FQuota": 55.29,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 38505.77,"MFatt_D": 2.12,"MPezzi": 3619,"MPezzi_D": -0.95,"MQuota": 47.89,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 88035.42,"CFatt_D": 7,"CPezzi": 8464,"CPezzi_D": 4.87,"CQuota": 55.79},
+{"Header": "9","HeaderRiga": "Antipertensivi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 8502.78,"FFatt_D": 19.61,"FPezzi": 445,"FPezzi_D": 16.19,"FQuota": 0.96,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 614.38,"MFatt_D": 12.19,"MPezzi": 34,"MPezzi_D": 9.77,"MQuota": 0.15,"CFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","CFatt": 1762.44,"CFatt_D": -0.25,"CPezzi": 94,"CPezzi_D": -3.32,"CQuota": 0.28},
+{"Header": "10","HeaderRiga": "Antipiretici analgesici e antinfluenzali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 28615.38,"FFatt_D": 13.86,"FPezzi": 5402,"FPezzi_D": 10.61,"FQuota": 46.92,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 20988.01,"MFatt_D": 4.81,"MPezzi": 3224,"MPezzi_D": 1.77,"MQuota": 62.37,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 46607.78,"CFatt_D": 9.65,"CPezzi": 7161,"CPezzi_D": 6.19,"CQuota": 64.91},
+{"Header": "11","HeaderRiga": "Antistaminici","FFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","FFatt": 761.68,"FFatt_D": -0.64,"FPezzi": 112,"FPezzi_D": -0.88,"FQuota": 4.1,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 963.91,"MFatt_D": 31.86,"MPezzi": 110,"MPezzi_D": 25.62,"MQuota": 7.85,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 2777.29,"CFatt_D": 28.48,"CPezzi": 322,"CPezzi_D": 19.28,"CQuota": 11.72},
+{"Header": "12","HeaderRiga": "Antivaricosi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 89416.02,"FFatt_D": 7.81,"FPezzi": 5728,"FPezzi_D": 4.3,"FQuota": 96.66,"MFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","MFatt": 14949.24,"MFatt_D": -2.67,"MPezzi": 893,"MPezzi_D": -4.95,"MQuota": 96.94,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 36605.1,"CFatt_D": -3.35,"CPezzi": 2232,"CPezzi_D": -5.03,"CQuota": 96.62},
+{"Header": "13","HeaderRiga": "Benessere cardiovascolare","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 35647.13,"FFatt_D": 6.66,"FPezzi": 1587,"FPezzi_D": 0.51,"FQuota": 48.86,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 4914.81,"MFatt_D": 1.43,"MPezzi": 196,"MPezzi_D": -1.93,"MQuota": 25.57,"CFlg": "icon wb-arrow-down red-900 mfa-rotate--45  font-size-12","CFatt": 13191.58,"CFatt_D": -4.5,"CPezzi": 516,"CPezzi_D": -6.98,"CQuota": 36.18},
+{"Header": "14","HeaderRiga": "Broncopolmonari","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 31186.9,"FFatt_D": 9.83,"FPezzi": 3518,"FPezzi_D": 6.16,"FQuota": 83.64,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 24647.45,"MFatt_D": 6.25,"MPezzi": 2240,"MPezzi_D": 3.83,"MQuota": 82.62,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 49125.43,"CFatt_D": 8.55,"CPezzi": 4583,"CPezzi_D": 5.92,"CQuota": 84.23},
+{"Header": "15","HeaderRiga": "Colliri","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 66659.44,"FFatt_D": 10.34,"FPezzi": 5440,"FPezzi_D": 5.39,"FQuota": 52.64,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 22539.98,"MFatt_D": 2.5,"MPezzi": 1726,"MPezzi_D": 0.68,"MQuota": 39.49,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 51739.28,"CFatt_D": 4.43,"CPezzi": 4043,"CPezzi_D": 2.94,"CQuota": 45.2},
+{"Header": "16","HeaderRiga": "Decongestionanti nasali","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 49674.95,"FFatt_D": 6.38,"FPezzi": 7479,"FPezzi_D": 2.86,"FQuota": 85.82,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 14955.8,"MFatt_D": 6.67,"MPezzi": 1547,"MPezzi_D": 3.63,"MQuota": 81.64,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 38392.57,"CFatt_D": 10.27,"CPezzi": 4232,"CPezzi_D": 6.87,"CQuota": 83.24},
+{"Header": "17","HeaderRiga": "Digestivi","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 50128.46,"FFatt_D": 2.93,"FPezzi": 3320,"FPezzi_D": 6,"FQuota": 97.08,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 5038.94,"MFatt_D": 6.6,"MPezzi": 350,"MPezzi_D": 5.33,"MQuota": 85.74,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 14342.43,"CFatt_D": 7.69,"CPezzi": 985,"CPezzi_D": 7.92,"CQuota": 91.58},
+{"Header": "18","HeaderRiga": "Dimagranti","FFlg": "icon wb-arrow-down red-900  font-size-12","FFatt": 76313.27,"FFatt_D": -8.45,"FPezzi": 3473,"FPezzi_D": -4.3,"FQuota": 99.03,"MFlg": "icon wb-arrow-down red-900  font-size-12","MFatt": 8785.03,"MFatt_D": -9.34,"MPezzi": 355,"MPezzi_D": -8.89,"MQuota": 98.75,"CFlg": "icon wb-arrow-down red-900  font-size-12","CFatt": 25688.26,"CFatt_D": -11,"CPezzi": 1136,"CPezzi_D": -9.98,"CQuota": 98.74},
+{"Header": "19","HeaderRiga": "Fermenti e flora intestinale","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 161723.64,"FFatt_D": 13.62,"FPezzi": 13176,"FPezzi_D": 10.23,"FQuota": 100,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 41896.23,"MFatt_D": 6.42,"MPezzi": 2866,"MPezzi_D": 2.18,"MQuota": 100,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 94397.04,"CFatt_D": 5.06,"CPezzi": 6786,"CPezzi_D": 2.46,"CQuota": 100},
+{"Header": "20","HeaderRiga": "Immunostimolanti","FFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","FFatt": 67225.49,"FFatt_D": -0.12,"FPezzi": 3707,"FPezzi_D": 2.49,"FQuota": 84.54,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 9020.44,"MFatt_D": 2.98,"MPezzi": 490,"MPezzi_D": 2.5,"MQuota": 72.92,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 25876.62,"CFatt_D": 1.72,"CPezzi": 1418,"CPezzi_D": 2.2,"CQuota": 78.4},
+{"Header": "21","HeaderRiga": "Ipocolesteromizzanti","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 112704.95,"FFatt_D": 8.32,"FPezzi": 5397,"FPezzi_D": 1.39,"FQuota": 33.8,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 11314.95,"MFatt_D": 6.45,"MPezzi": 519,"MPezzi_D": 2.36,"MQuota": 9.46,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 32576.73,"CFatt_D": 1.03,"CPezzi": 1497,"CPezzi_D": -3.13,"CQuota": 17.1},
+{"Header": "22","HeaderRiga": "Lassativi","FFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 75735.65,"FFatt_D": 4.4,"FPezzi": 12446,"FPezzi_D": 4.93,"FQuota": 87.97,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 21001.75,"MFatt_D": 0.35,"MPezzi": 2764,"MPezzi_D": -2.64,"MQuota": 85.04,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 48534.47,"CFatt_D": 1.43,"CPezzi": 7049,"CPezzi_D": -0.57,"CQuota": 88.07},
+{"Header": "23","HeaderRiga": "Mal di gola","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 27209.86,"FFatt_D": 7.56,"FPezzi": 3978,"FPezzi_D": 2.98,"FQuota": 98.39,"MFlg": "icon wb-pause mfa-rotate-90 green-900  font-size-12","MFatt": 15548.11,"MFatt_D": 0.63,"MPezzi": 1745,"MPezzi_D": -3.85,"MQuota": 99.08,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 37385.86,"CFatt_D": 3.71,"CPezzi": 4323,"CPezzi_D": -0.33,"CQuota": 99.29},
+{"Header": "24","HeaderRiga": "Salute della bocca","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 39393.35,"FFatt_D": 9.08,"FPezzi": 7107,"FPezzi_D": -2.8,"FQuota": 98.8,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 12717.73,"MFatt_D": 3.3,"MPezzi": 1586,"MPezzi_D": -2.76,"MQuota": 95.08,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 33498.46,"CFatt_D": 7.41,"CPezzi": 4515,"CPezzi_D": 1.18,"CQuota": 96.78},
+{"Header": "25","HeaderRiga": "Sedativi","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 52829.16,"FFatt_D": 6.72,"FPezzi": 3981,"FPezzi_D": 7.39,"FQuota": 26.83,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 8910.7,"MFatt_D": 8.08,"MPezzi": 659,"MPezzi_D": 5.3,"MQuota": 11.96,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 24756.34,"CFatt_D": 8.94,"CPezzi": 1848,"CPezzi_D": 5.86,"CQuota": 20.17},
+{"Header": "26","HeaderRiga": "Tonificanti","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 66051.31,"FFatt_D": 8.65,"FPezzi": 4501,"FPezzi_D": 20.67,"FQuota": 99.89,"MFlg": "icon wb-arrow-up green-900  font-size-12","MFatt": 15247.34,"MFatt_D": 6.55,"MPezzi": 894,"MPezzi_D": 8.28,"MQuota": 99.66,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 36897.15,"CFatt_D": 8.24,"CPezzi": 2289,"CPezzi_D": 16.6,"CQuota": 99.76},
+{"Header": "27","HeaderRiga": "Totale Esigenze (27)","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 1361756.86,"FFatt_D": 6.89,"FPezzi": 115268,"FPezzi_D": 4.98,"FQuota": 46.81,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 336852.33,"MFatt_D": 3.55,"MPezzi": 28993,"MPezzi_D": 0.54,"MQuota": 33.36,"CFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","CFatt": 814149.52,"CFatt_D": 4.06,"CPezzi": 71375,"CPezzi_D": 2.84,"CQuota": 43.94},
+{"Header": "28","HeaderRiga": "Vie urinarie","FFlg": "icon wb-arrow-up green-900  font-size-12","FFatt": 32428.88,"FFatt_D": 18.47,"FPezzi": 1744,"FPezzi_D": 16.97,"FQuota": 100,"MFlg": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 6041.26,"MFatt_D": 3.3,"MPezzi": 320,"MPezzi_D": 1.99,"MQuota": 99.99,"CFlg": "icon wb-arrow-up green-900  font-size-12","CFatt": 15776.49,"CFatt_D": 7.47,"CPezzi": 841,"CPezzi_D": 5.19,"CQuota": 100} 
+]
+     }]
+    }
+]
+}

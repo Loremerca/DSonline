@@ -1,0 +1,8 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "VISUFARMA SpA","FFt": 1,"FPz": 1,"FFatt": 648,"FFatt_D": -26.53,"FPezzi": 72,"FPezzi_D": -26.53,"FQuota": 50,"FPrezzo": 9,"FRef": 1,"MFt": 1,"MPz": 4,"MFatt": 68.34,"MFatt_D": -12.99,"MPezzi": 8,"MPezzi_D": -8.88,"MQuota": 24.47,"MPrezzo": 8.99,"MRef": 1},
+{"DscDitta": "ANGENERICO SpA","FFt": 2,"FPz": 2,"FFatt": 338.4,"FFatt_D": 28.57,"FPezzi": 72,"FPezzi_D": 28.57,"FQuota": 50,"FPrezzo": 4.7,"FRef": 1,"MFt": 4,"MPz": 1,"MFatt": 22.95,"MFatt_D": 4.18,"MPezzi": 5,"MPezzi_D": 6.05,"MQuota": 15.73,"MPrezzo": 4.7,"MRef": 1},
+{"DscDitta": "DOC GENERICI Srl","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 2,"MPz": 2,"MFatt": 22.89,"MFatt_D": -2.67,"MPezzi": 4,"MPezzi_D": -11.54,"MQuota": 14.24,"MPrezzo": 5.17,"MRef": 1},
+{"DscDitta": "SANDOZ SpA","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 3,"MPz": 3,"MFatt": 66.45,"MFatt_D": 6.04,"MPezzi": 14,"MPezzi_D": 4.3,"MQuota": 45.56,"MPrezzo": 4.7,"MRef": 1} 
+]}

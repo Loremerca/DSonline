@@ -1,0 +1,12 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "PLANTA MEDICA Srl","FFt": 1,"FPz": 1,"FFatt": 177.96,"FFatt_D": 57.77,"FPezzi": 15,"FPezzi_D": 50,"FQuota": 68.18,"FPrezzo": 11.86,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 284.22,"MFatt_D": -6.4,"MPezzi": 21,"MPezzi_D": -8.91,"MQuota": 65.62,"MPrezzo": 13.27,"MRef": 1},
+{"DscDitta": "SALUTE PIU' Srl","FFt": 2,"FPz": 2,"FFatt": 58.8,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 13.64,"FPrezzo": 19.6,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 0.14,"MFatt_D": null,"MPezzi": 0.009,"MPezzi_D": null,"MQuota": 0.03,"MPrezzo": 14.67,"MRef": 0},
+{"DscDitta": "LABORATORI LEGREN Srl","FFt": 3,"FPz": 3,"FFatt": 49.4,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 9.09,"FPrezzo": 24.7,"FRef": 1,"MFt": 3,"MPz": 6,"MFatt": 12.31,"MFatt_D": null,"MPezzi": 0.515,"MPezzi_D": null,"MQuota": 1.58,"MPrezzo": 23.88,"MRef": 0},
+{"DscDitta": "PHOENIX Srl - LONGLIFE","FFt": 4,"FPz": 4,"FFatt": 29.98,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 9.09,"FPrezzo": 14.99,"FRef": 1,"MFt": 7,"MPz": 7,"MFatt": 1.47,"MFatt_D": 3.45,"MPezzi": 0.108,"MPezzi_D": 6.77,"MQuota": 0.33,"MPrezzo": 13.71,"MRef": 0},
+{"DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 6,"MPz": 3,"MFatt": 90.72,"MFatt_D": null,"MPezzi": 9,"MPezzi_D": null,"MQuota": 26.29,"MPrezzo": 10.57,"MRef": 1},
+{"DscDitta": "BIOS LINE SpA","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 8,"MPz": 4,"MFatt": 9.92,"MFatt_D": 5.58,"MPezzi": 1,"MPezzi_D": 0.71,"MQuota": 3.24,"MPrezzo": 9.37,"MRef": 1},
+{"DscDitta": "LOACKER REMEDIA Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 4,"MPz": 2,"MFatt": 10.23,"MFatt_D": -3.05,"MPezzi": 0.862,"MPezzi_D": -5.8,"MQuota": 2.64,"MPrezzo": 11.87,"MRef": 0},
+{"DscDitta": "8 ditte coinvolte","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 2,"MPz": 8,"MFatt": 1.62,"MFatt_D": 144.1,"MPezzi": 0,"MPezzi_D": -100,"MQuota": 0.27,"MPrezzo": 15.55,"MRef": 0} 
+]}

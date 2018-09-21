@@ -1,0 +1,9 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "LABORATORI BALDACCI SpA","FFt": 1,"FPz": 1,"FFatt": 122.4,"FFatt_D": 0,"FPezzi": 8,"FPezzi_D": 0,"FQuota": 72.73,"FPrezzo": 15.3,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 49.07,"CFatt_D": 51.17,"CPezzi": 3,"CPezzi_D": 35.85,"CQuota": 49.45,"CPrezzo": 15.27,"CRef": 1},
+{"DscDitta": "FARMACEUTICA LODIGIANA S.R.L.","FFt": 2,"FPz": 2,"FFatt": 21.6,"FFatt_D": -33.33,"FPezzi": 2,"FPezzi_D": -33.33,"FQuota": 18.18,"FPrezzo": 10.8,"FRef": 1,"CFt": 4,"CPz": 2,"CFatt": 13.11,"CFatt_D": 56.51,"CPezzi": 1,"CPezzi_D": 26.32,"CQuota": 18.68,"CPrezzo": 10.8,"CRef": 1},
+{"DscDitta": "PHARMA LINE Srl","FFt": 3,"FPz": 3,"FFatt": 14,"FFatt_D": -50,"FPezzi": 1,"FPezzi_D": -50,"FQuota": 9.09,"FPrezzo": 14,"FRef": 1,"CFt": 2,"CPz": 4,"CFatt": 3,"CFatt_D": 35.34,"CPezzi": 0.214,"CPezzi_D": 28.4,"CQuota": 3.3,"CPrezzo": 14,"CRef": 1},
+{"DscDitta": "CENTRO PRODOTTI SERVIZI F.Srl","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 2,"CFt": 5,"CPz": 5,"CFatt": 16.43,"CFatt_D": -17.79,"CPezzi": 1,"CPezzi_D": -17.24,"CQuota": 15.38,"CPrezzo": 16.43,"CRef": 2},
+{"DscDitta": "5 ditte coinvolte","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 3,"CFt": 3,"CPz": 3,"CFatt": 9.53,"CFatt_D": -48.73,"CPezzi": 1,"CPezzi_D": -25,"CQuota": 14.12,"CPrezzo": 6.26,"CRef": 3} 
+]}

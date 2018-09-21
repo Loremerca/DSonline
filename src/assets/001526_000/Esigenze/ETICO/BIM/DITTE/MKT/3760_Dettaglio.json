@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 1,"FPz": 2,"FFatt": 1572.87,"FFatt_D": -7.5,"FPezzi": 111,"FPezzi_D": -7.5,"FQuota": 39.08,"FPrezzo": 14.17,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 525.01,"MFatt_D": -11.27,"MPezzi": 37,"MPezzi_D": -11.58,"MQuota": 36.36,"MPrezzo": 14.17,"MRef": 1},
+{"DscDitta": "IBSA FARMACEUTICI ITALIA Srl","FFt": 2,"FPz": 1,"FFatt": 1365.39,"FFatt_D": -41.21,"FPezzi": 117,"FPezzi_D": -41.21,"FQuota": 41.2,"FPrezzo": 11.67,"FRef": 1,"MFt": 2,"MPz": 2,"MFatt": 340.94,"MFatt_D": -52.02,"MPezzi": 29,"MPezzi_D": -52.34,"MQuota": 28.46,"MPrezzo": 11.75,"MRef": 2},
+{"DscDitta": "PFIZER ITALIA Srl","FFt": 3,"FPz": 4,"FFatt": 226.72,"FFatt_D": -40.74,"FPezzi": 16,"FPezzi_D": -40.74,"FQuota": 5.63,"FPrezzo": 14.17,"FRef": 1,"MFt": 5,"MPz": 3,"MFatt": 168.24,"MFatt_D": -9.91,"MPezzi": 12,"MPezzi_D": -9.11,"MQuota": 11.65,"MPrezzo": 14.16,"MRef": 1},
+{"DscDitta": "PIAM FARMACEUTICI SpA","FFt": 4,"FPz": 3,"FFatt": 187,"FFatt_D": -10.53,"FPezzi": 17,"FPezzi_D": -10.53,"FQuota": 5.99,"FPrezzo": 11,"FRef": 1,"MFt": 3,"MPz": 5,"MFatt": 37.57,"MFatt_D": 66.94,"MPezzi": 3,"MPezzi_D": 46.3,"MQuota": 3.35,"MPrezzo": 11,"MRef": 1},
+{"DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 5,"FPz": 5,"FFatt": 170.04,"FFatt_D": -50,"FPezzi": 12,"FPezzi_D": -50,"FQuota": 4.23,"FPrezzo": 14.17,"FRef": 1,"MFt": 4,"MPz": 4,"MFatt": 173.76,"MFatt_D": -11.98,"MPezzi": 12,"MPezzi_D": -14,"MQuota": 12.03,"MPrezzo": 14.16,"MRef": 1},
+{"DscDitta": "ALFA WASSERMANN SpA","FFt": 6,"FPz": 6,"FFatt": 128.37,"FFatt_D": 37.5,"FPezzi": 11,"FPezzi_D": 37.5,"FQuota": 3.87,"FPrezzo": 11.67,"FRef": 1,"MFt": 7,"MPz": 7,"MFatt": 24.57,"MFatt_D": -51.08,"MPezzi": 2,"MPezzi_D": -53.58,"MQuota": 2.07,"MPrezzo": 11.66,"MRef": 1},
+{"DscDitta": "DOC GENERICI Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 6,"MPz": 6,"MFatt": 37.28,"MFatt_D": 41.57,"MPezzi": 3,"MPezzi_D": 25.24,"MQuota": 3.33,"MPrezzo": 11,"MRef": 1},
+{"DscDitta": "IBN SAVIO Srl","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 1,"MFt": 8,"MPz": 8,"MFatt": 23.04,"MFatt_D": 64.48,"MPezzi": 2,"MPezzi_D": 57.04,"MQuota": 2.05,"MPrezzo": 11,"MRef": 1},
+{"DscDitta": "1 ditte coinvolte","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 9,"MPz": 9,"MFatt": 7.83,"MFatt_D": 51.82,"MPezzi": 1,"MPezzi_D": 113.24,"MQuota": 0.71,"MPrezzo": 11,"MRef": 1} 
+]}

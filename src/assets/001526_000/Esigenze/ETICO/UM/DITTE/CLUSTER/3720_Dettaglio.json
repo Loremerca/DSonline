@@ -1,0 +1,15 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "MSD ITALIA Srl","FFt": 1,"FPz": 3,"FFatt": 268.24,"FFatt_D": -10.72,"FPezzi": 10,"FPezzi_D": -9.09,"FQuota": 20.83,"FPrezzo": 26.82,"FRef": 2,"CFt": 1,"CPz": 1,"CFatt": 205.59,"CFatt_D": 38.46,"CPezzi": 10,"CPezzi_D": 25,"CQuota": 24.01,"CPrezzo": 20.71,"CRef": 2},
+{"DscDitta": "ITALFARMACO SpA","FFt": 2,"FPz": 1,"FFatt": 114,"FFatt_D": -45.45,"FPezzi": 6,"FPezzi_D": -45.45,"FQuota": 12.5,"FPrezzo": 19,"FRef": 1,"CFt": 2,"CPz": 7,"CFatt": 89.32,"CFatt_D": -17.52,"CPezzi": 5,"CPezzi_D": -13.04,"CQuota": 11.4,"CPrezzo": 18.95,"CRef": 1},
+{"DscDitta": "ANGELINI SpA","FFt": 3,"FPz": 2,"FFatt": 68.07,"FFatt_D": 104.48,"FPezzi": 17,"FPezzi_D": 88.89,"FQuota": 35.42,"FPrezzo": 4,"FRef": 2,"CFt": 7,"CPz": 3,"CFatt": 34.19,"CFatt_D": -15.26,"CPezzi": 8,"CPezzi_D": -1.03,"CQuota": 18.13,"CPrezzo": 4.56,"CRef": 2},
+{"DscDitta": "PIERRE FABRE PHARMA Srl","FFt": 4,"FPz": 5,"FFatt": 35.8,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 4.17,"FPrezzo": 17.9,"FRef": 1,"CFt": 3,"CPz": 2,"CFatt": 8.95,"CFatt_D": -36.51,"CPezzi": 0.5,"CPezzi_D": -36.84,"CQuota": 1.21,"CPrezzo": 17.9,"CRef": 1},
+{"DscDitta": "MEDA PHARMA SpA","FFt": 5,"FPz": 6,"FFatt": 33.8,"FFatt_D": 100,"FPezzi": 4,"FPezzi_D": 100,"FQuota": 8.33,"FPrezzo": 8.45,"FRef": 3,"CFt": 6,"CPz": 6,"CFatt": 6.85,"CFatt_D": -41.41,"CPezzi": 0.857,"CPezzi_D": -44.41,"CQuota": 2.07,"CPrezzo": 8,"CRef": 3},
+{"DscDitta": "ALLOGA ITALIA Srl","FFt": 6,"FPz": 7,"FFatt": 24.28,"FFatt_D": -52.18,"FPezzi": 4,"FPezzi_D": -33.33,"FQuota": 8.33,"FPrezzo": 6.07,"FRef": 2,"CFt": 10,"CPz": 9,"CFatt": 23.47,"CFatt_D": 2.85,"CPezzi": 3,"CPezzi_D": 4.35,"CQuota": 6.74,"CPrezzo": 8.42,"CRef": 2},
+{"DscDitta": "BAYER SpA","FFt": 7,"FPz": 4,"FFatt": 12,"FFatt_D": -33.33,"FPezzi": 4,"FPezzi_D": -33.33,"FQuota": 8.33,"FPrezzo": 3,"FRef": 1,"CFt": 11,"CPz": 10,"CFatt": 44.41,"CFatt_D": 12.71,"CPezzi": 9,"CPezzi_D": -13.6,"CQuota": 21.93,"CPrezzo": 4.9,"CRef": 3},
+{"DscDitta": "RATIOPHARM ITALIA Srl","FFt": 8,"FPz": 8,"FFatt": 4.8,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 2.08,"FPrezzo": 4.8,"FRef": 1,"CFt": 9,"CPz": 8,"CFatt": 5.83,"CFatt_D": -7.73,"CPezzi": 1,"CPezzi_D": -20,"CQuota": 2.94,"CPrezzo": 4.8,"CRef": 1},
+{"DscDitta": "ORION CORPORATION","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 1,"CFt": 4,"CPz": 11,"CFatt": 15.59,"CFatt_D": 14.41,"CPezzi": 2,"CPezzi_D": 14.29,"CQuota": 4.84,"CPrezzo": 7.8,"CRef": 1},
+{"DscDitta": "SANDOZ SpA","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 1,"CFt": 5,"CPz": 5,"CFatt": 19.34,"CFatt_D": 14.31,"CPezzi": 2,"CPezzi_D": 33.33,"CQuota": 4.15,"CPrezzo": 11.28,"CRef": 1},
+{"DscDitta": "5 ditte coinvolte","FFt": 11,"FPz": 11,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 8,"CPz": 4,"CFatt": 18.91,"CFatt_D": 57.78,"CPezzi": 1,"CPezzi_D": 9.09,"CQuota": 2.53,"CPrezzo": 6.43,"CRef": 0} 
+]}

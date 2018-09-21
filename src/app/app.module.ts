@@ -24,6 +24,12 @@ import {NgxDatatableModule} from '@swimlane/ngx-datatable';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {MerceologicaComponent} from './views/merceologica/merceologica.component';
 import { MerceologicarefComponent } from './views/merceologica/merceologicaref.component';
+import { RiepilogoComponent } from './views/esigenza/riepilogo.component';
+import { AnalisiReferenzeComponent } from './views/analisi-referenze/analisi-referenze.component';
+import { SanitizeHtmlPipe } from './pipes/sanitize-html.pipe';
+import { PianoLavoroComponent } from './views/piano-lavoro/piano-lavoro.component';
+import { FooterComponent } from './layout/footer.component';
+import { HomeComponent } from './views/home/home.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +46,13 @@ import { MerceologicarefComponent } from './views/merceologica/merceologicaref.c
     ReferenzeComponent,
     ProvachartComponent,
     MerceologicaComponent,
-    MerceologicarefComponent
+    MerceologicarefComponent,
+    RiepilogoComponent,
+    AnalisiReferenzeComponent,
+    SanitizeHtmlPipe,
+    PianoLavoroComponent,
+    FooterComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

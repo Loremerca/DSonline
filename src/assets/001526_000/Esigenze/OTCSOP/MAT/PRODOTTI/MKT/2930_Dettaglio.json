@@ -1,0 +1,8 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "XENICAL84CPS 120MG","DscDitta": "ROCHE SpA","FFt": 1,"FPz": 1,"FFatt": 3778.5,"FFatt_D": -53.52,"FPezzi": 33,"FPezzi_D": -53.52,"FQuota": 97.06,"FPrezzo": 114.5,"MFt": 1,"MPz": 1,"MFatt": 253.14,"MFatt_D": -19.69,"MPezzi": 2,"MPezzi_D": -28.63,"MQuota": 67.55,"MPrezzo": 114.21},
+{"DscProd": "BEACITA84CPS 120MG","DscDitta": "AUROBINDO PHARMA ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 88.2,"FFatt_D": 0,"FPezzi": 1,"FPezzi_D": 0,"FQuota": 2.94,"FPrezzo": 88.2,"MFt": 3,"MPz": 3,"MFatt": 38.23,"MFatt_D": -4.36,"MPezzi": 0.435,"MPezzi_D": -6.32,"MQuota": 13.25,"MPrezzo": 87.92},
+{"DscProd": "Altre 3 referenze","DscDitta": "5 ditte coinvolte","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"MFt": 2,"MPz": 2,"MFatt": 53.91,"MFatt_D": 7.89,"MPezzi": 1,"MPezzi_D": 94.2,"MQuota": 17.32,"MPrezzo": 88.41},
+{"DscProd": "TOCASLIM CIOCNOCC 20BUST","DscDitta": "TO.C.A.S. Srl","FFt": 4,"FPz": 4,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"MFt": 4,"MPz": 4,"MFatt": 4.18,"MFatt_D": 79.17,"MPezzi": 0.099,"MPezzi_D": 48.5,"MQuota": 3.02,"MPrezzo": 42.12} 
+]}

@@ -1,0 +1,516 @@
+{
+ "Titolo":"Flusso transazioni e scontrini a Nov 2018"
+ ,"Sottotitolo":"Ai fini della leggibilità della tabella,sono state azzerate le transazioni inferiori a 5 in un dato giorno e relativo valore scontrino commerciale" ,"NAperture":{"Lunedi":"4","Martedi":"4","Mercoledi":"4","Giovedi":"4","Venerdi":"5","Sabato":"4","Domenica":"0"}
+,"dati":[ {"Header":"08:00 - 09:00","Lunedi_N": 45
+,"Lunedi_Eur": 45.97
+,"Martedi_N": 38
+,"Martedi_Eur": 23.07
+,"Mercoledi_N": 42
+,"Mercoledi_Eur": 17.3
+,"Giovedi_N": 46
+,"Giovedi_Eur": 22.7
+,"Venerdi_N": 39
+,"Venerdi_Eur": 18.36
+,"Sabato_N": 0
+,"Sabato_Eur": 0
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 879
+,"Tot_Eur": 25.51
+,"Lunedi_Bar": 27.6412776412776
+,"Martedi_Bar": 23.3415233415233
+,"Mercoledi_Bar": 25.7985257985258
+,"Giovedi_Bar": 28.2555282555283
+,"Venerdi_Bar": 23.955773955774
+,"Sabato_Bar": 0
+,"Domenica_Bar": 0
+,"Tot_Bar": 26.4774986444967,
+"Graf":[{"name":"L" ,"value":45}
+ ,{"name":"M" ,"value":38}
+ ,{"name":"M" ,"value":42}
+ ,{"name":"G" ,"value":46}
+ ,{"name":"V" ,"value":39}
+ ,{"name":"S" ,"value":0}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"09:00 - 10:00","Lunedi_N": 80
+,"Lunedi_Eur": 28.72
+,"Martedi_N": 71
+,"Martedi_Eur": 28.41
+,"Mercoledi_N": 80
+,"Mercoledi_Eur": 29.76
+,"Giovedi_N": 75
+,"Giovedi_Eur": 26.49
+,"Venerdi_N": 91
+,"Venerdi_Eur": 22.18
+,"Sabato_N": 69
+,"Sabato_Eur": 25.32
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 1955
+,"Tot_Eur": 26.53
+,"Lunedi_Bar": 49.1400491400491
+,"Martedi_Bar": 43.6117936117936
+,"Mercoledi_Bar": 49.1400491400491
+,"Giovedi_Bar": 46.0687960687961
+,"Venerdi_Bar": 55.8968058968059
+,"Sabato_Bar": 42.3832923832924
+,"Domenica_Bar": 0
+,"Tot_Bar": 58.889089704199,
+"Graf":[{"name":"L" ,"value":80}
+ ,{"name":"M" ,"value":71}
+ ,{"name":"M" ,"value":80}
+ ,{"name":"G" ,"value":75}
+ ,{"name":"V" ,"value":91}
+ ,{"name":"S" ,"value":69}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"10:00 - 11:00","Lunedi_N": 107
+,"Lunedi_Eur": 26.16
+,"Martedi_N": 101
+,"Martedi_Eur": 26.18
+,"Mercoledi_N": 110
+,"Mercoledi_Eur": 22.29
+,"Giovedi_N": 108
+,"Giovedi_Eur": 26.33
+,"Venerdi_N": 124
+,"Venerdi_Eur": 26.64
+,"Sabato_N": 103
+,"Sabato_Eur": 26.93
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 2736
+,"Tot_Eur": 25.79
+,"Lunedi_Bar": 65.7248157248157
+,"Martedi_Bar": 62.039312039312
+,"Mercoledi_Bar": 67.5675675675676
+,"Giovedi_Bar": 66.3390663390663
+,"Venerdi_Bar": 76.1670761670762
+,"Sabato_Bar": 63.2678132678133
+,"Domenica_Bar": 0
+,"Tot_Bar": 82.4146032893548,
+"Graf":[{"name":"L" ,"value":107}
+ ,{"name":"M" ,"value":101}
+ ,{"name":"M" ,"value":110}
+ ,{"name":"G" ,"value":108}
+ ,{"name":"V" ,"value":124}
+ ,{"name":"S" ,"value":103}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"11:00 - 12:00","Lunedi_N": 113
+,"Lunedi_Eur": 25.59
+,"Martedi_N": 114
+,"Martedi_Eur": 26.28
+,"Mercoledi_N": 113
+,"Mercoledi_Eur": 24.7
+,"Giovedi_N": 114
+,"Giovedi_Eur": 25.79
+,"Venerdi_N": 131
+,"Venerdi_Eur": 28.73
+,"Sabato_N": 136
+,"Sabato_Eur": 26.9
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 3018
+,"Tot_Eur": 26.51
+,"Lunedi_Bar": 69.4103194103194
+,"Martedi_Bar": 70.02457002457
+,"Mercoledi_Bar": 69.4103194103194
+,"Giovedi_Bar": 70.02457002457
+,"Venerdi_Bar": 80.4668304668305
+,"Sabato_Bar": 83.5380835380835
+,"Domenica_Bar": 0
+,"Tot_Bar": 90.9090909090909,
+"Graf":[{"name":"L" ,"value":113}
+ ,{"name":"M" ,"value":114}
+ ,{"name":"M" ,"value":113}
+ ,{"name":"G" ,"value":114}
+ ,{"name":"V" ,"value":131}
+ ,{"name":"S" ,"value":136}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"12:00 - 13:00","Lunedi_N": 108
+,"Lunedi_Eur": 23.5
+,"Martedi_N": 97
+,"Martedi_Eur": 25.41
+,"Mercoledi_N": 109
+,"Mercoledi_Eur": 25.1
+,"Giovedi_N": 103
+,"Giovedi_Eur": 25.73
+,"Venerdi_N": 113
+,"Venerdi_Eur": 26.44
+,"Sabato_N": 114
+,"Sabato_Eur": 30.86
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 2682
+,"Tot_Eur": 26.24
+,"Lunedi_Bar": 66.3390663390663
+,"Martedi_Bar": 59.5823095823096
+,"Mercoledi_Bar": 66.9533169533169
+,"Giovedi_Bar": 63.2678132678133
+,"Venerdi_Bar": 69.4103194103194
+,"Sabato_Bar": 70.02457002457
+,"Domenica_Bar": 0
+,"Tot_Bar": 80.7879992770649,
+"Graf":[{"name":"L" ,"value":108}
+ ,{"name":"M" ,"value":97}
+ ,{"name":"M" ,"value":109}
+ ,{"name":"G" ,"value":103}
+ ,{"name":"V" ,"value":113}
+ ,{"name":"S" ,"value":114}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"13:00 - 14:00","Lunedi_N": 61
+,"Lunedi_Eur": 21.35
+,"Martedi_N": 51
+,"Martedi_Eur": 21.3
+,"Mercoledi_N": 55
+,"Mercoledi_Eur": 20.98
+,"Giovedi_N": 54
+,"Giovedi_Eur": 24.23
+,"Venerdi_N": 57
+,"Venerdi_Eur": 27.66
+,"Sabato_N": 7
+,"Sabato_Eur": 25.54
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 1194
+,"Tot_Eur": 23.43
+,"Lunedi_Bar": 37.4692874692875
+,"Martedi_Bar": 31.3267813267813
+,"Mercoledi_Bar": 33.7837837837838
+,"Giovedi_Bar": 33.1695331695332
+,"Venerdi_Bar": 35.012285012285
+,"Sabato_Bar": 4.2997542997543
+,"Domenica_Bar": 0
+,"Tot_Bar": 35.9660220495211,
+"Graf":[{"name":"L" ,"value":61}
+ ,{"name":"M" ,"value":51}
+ ,{"name":"M" ,"value":55}
+ ,{"name":"G" ,"value":54}
+ ,{"name":"V" ,"value":57}
+ ,{"name":"S" ,"value":7}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"14:00 - 15:00","Lunedi_N": 0
+,"Lunedi_Eur": 0
+,"Martedi_N": 0
+,"Martedi_Eur": 0
+,"Mercoledi_N": 0
+,"Mercoledi_Eur": 0
+,"Giovedi_N": 0
+,"Giovedi_Eur": 0
+,"Venerdi_N": 0
+,"Venerdi_Eur": 0
+,"Sabato_N": 0
+,"Sabato_Eur": 0
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 0
+,"Tot_Eur": 0
+,"Lunedi_Bar": 0
+,"Martedi_Bar": 0
+,"Mercoledi_Bar": 0
+,"Giovedi_Bar": 0
+,"Venerdi_Bar": 0
+,"Sabato_Bar": 0
+,"Domenica_Bar": 0
+,"Tot_Bar": 0,
+"Graf":[{"name":"L" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"G" ,"value":0}
+ ,{"name":"V" ,"value":0}
+ ,{"name":"S" ,"value":0}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"15:00 - 16:00","Lunedi_N": 29
+,"Lunedi_Eur": 22.32
+,"Martedi_N": 33
+,"Martedi_Eur": 21.8
+,"Mercoledi_N": 26
+,"Mercoledi_Eur": 19.51
+,"Giovedi_N": 32
+,"Giovedi_Eur": 20.05
+,"Venerdi_N": 34
+,"Venerdi_Eur": 17.7
+,"Sabato_N": 0
+,"Sabato_Eur": 0
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 651
+,"Tot_Eur": 20.07
+,"Lunedi_Bar": 17.8132678132678
+,"Martedi_Bar": 20.2702702702703
+,"Mercoledi_Bar": 15.970515970516
+,"Giovedi_Bar": 19.6560196560197
+,"Venerdi_Bar": 20.8845208845209
+,"Sabato_Bar": 0
+,"Domenica_Bar": 0
+,"Tot_Bar": 19.6096150370504,
+"Graf":[{"name":"L" ,"value":29}
+ ,{"name":"M" ,"value":33}
+ ,{"name":"M" ,"value":26}
+ ,{"name":"G" ,"value":32}
+ ,{"name":"V" ,"value":34}
+ ,{"name":"S" ,"value":0}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"16:00 - 17:00","Lunedi_N": 113
+,"Lunedi_Eur": 26.91
+,"Martedi_N": 97
+,"Martedi_Eur": 25.72
+,"Mercoledi_N": 96
+,"Mercoledi_Eur": 30.1
+,"Giovedi_N": 89
+,"Giovedi_Eur": 24.79
+,"Venerdi_N": 109
+,"Venerdi_Eur": 27.41
+,"Sabato_N": 70
+,"Sabato_Eur": 26.43
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 2399
+,"Tot_Eur": 26.98
+,"Lunedi_Bar": 69.4103194103194
+,"Martedi_Bar": 59.5823095823096
+,"Mercoledi_Bar": 58.968058968059
+,"Giovedi_Bar": 54.6683046683047
+,"Venerdi_Bar": 66.9533169533169
+,"Sabato_Bar": 42.997542997543
+,"Domenica_Bar": 0
+,"Tot_Bar": 72.2633893608049,
+"Graf":[{"name":"L" ,"value":113}
+ ,{"name":"M" ,"value":97}
+ ,{"name":"M" ,"value":96}
+ ,{"name":"G" ,"value":89}
+ ,{"name":"V" ,"value":109}
+ ,{"name":"S" ,"value":70}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"17:00 - 18:00","Lunedi_N": 148
+,"Lunedi_Eur": 24.17
+,"Martedi_N": 117
+,"Martedi_Eur": 27.07
+,"Mercoledi_N": 121
+,"Mercoledi_Eur": 28.62
+,"Giovedi_N": 117
+,"Giovedi_Eur": 27.17
+,"Venerdi_N": 130
+,"Venerdi_Eur": 24.67
+,"Sabato_N": 81
+,"Sabato_Eur": 26.53
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 2985
+,"Tot_Eur": 26.17
+,"Lunedi_Bar": 90.9090909090909
+,"Martedi_Bar": 71.8673218673219
+,"Mercoledi_Bar": 74.3243243243243
+,"Giovedi_Bar": 71.8673218673219
+,"Venerdi_Bar": 79.8525798525799
+,"Sabato_Bar": 49.7542997542998
+,"Domenica_Bar": 0
+,"Tot_Bar": 89.9150551238026,
+"Graf":[{"name":"L" ,"value":148}
+ ,{"name":"M" ,"value":117}
+ ,{"name":"M" ,"value":121}
+ ,{"name":"G" ,"value":117}
+ ,{"name":"V" ,"value":130}
+ ,{"name":"S" ,"value":81}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"18:00 - 19:00","Lunedi_N": 124
+,"Lunedi_Eur": 29.48
+,"Martedi_N": 102
+,"Martedi_Eur": 27.86
+,"Mercoledi_N": 111
+,"Mercoledi_Eur": 29.97
+,"Giovedi_N": 105
+,"Giovedi_Eur": 27.46
+,"Venerdi_N": 110
+,"Venerdi_Eur": 28.67
+,"Sabato_N": 69
+,"Sabato_Eur": 23.5
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 2595
+,"Tot_Eur": 28.17
+,"Lunedi_Bar": 76.1670761670762
+,"Martedi_Bar": 62.6535626535627
+,"Mercoledi_Bar": 68.1818181818182
+,"Giovedi_Bar": 64.4963144963145
+,"Venerdi_Bar": 67.5675675675676
+,"Sabato_Bar": 42.3832923832924
+,"Domenica_Bar": 0
+,"Tot_Bar": 78.1673594794867,
+"Graf":[{"name":"L" ,"value":124}
+ ,{"name":"M" ,"value":102}
+ ,{"name":"M" ,"value":111}
+ ,{"name":"G" ,"value":105}
+ ,{"name":"V" ,"value":110}
+ ,{"name":"S" ,"value":69}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"19:00 - 20:00","Lunedi_N": 67
+,"Lunedi_Eur": 23.41
+,"Martedi_N": 73
+,"Martedi_Eur": 27.19
+,"Mercoledi_N": 66
+,"Mercoledi_Eur": 27.52
+,"Giovedi_N": 63
+,"Giovedi_Eur": 24.29
+,"Venerdi_N": 73
+,"Venerdi_Eur": 26.41
+,"Sabato_N": 50
+,"Sabato_Eur": 23.18
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 1639
+,"Tot_Eur": 25.51
+,"Lunedi_Bar": 41.1547911547912
+,"Martedi_Bar": 44.8402948402948
+,"Mercoledi_Bar": 40.5405405405405
+,"Giovedi_Bar": 38.6977886977887
+,"Venerdi_Bar": 44.8402948402948
+,"Sabato_Bar": 30.7125307125307
+,"Domenica_Bar": 0
+,"Tot_Bar": 49.3704440026508,
+"Graf":[{"name":"L" ,"value":67}
+ ,{"name":"M" ,"value":73}
+ ,{"name":"M" ,"value":66}
+ ,{"name":"G" ,"value":63}
+ ,{"name":"V" ,"value":73}
+ ,{"name":"S" ,"value":50}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"20:00 - 21:00","Lunedi_N": 0
+,"Lunedi_Eur": 0
+,"Martedi_N": 0
+,"Martedi_Eur": 0
+,"Mercoledi_N": 0
+,"Mercoledi_Eur": 0
+,"Giovedi_N": 0
+,"Giovedi_Eur": 0
+,"Venerdi_N": 0
+,"Venerdi_Eur": 0
+,"Sabato_N": 0
+,"Sabato_Eur": 0
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 0
+,"Tot_Eur": 0
+,"Lunedi_Bar": 0
+,"Martedi_Bar": 0
+,"Mercoledi_Bar": 0
+,"Giovedi_Bar": 0
+,"Venerdi_Bar": 0
+,"Sabato_Bar": 0
+,"Domenica_Bar": 0
+,"Tot_Bar": 0,
+"Graf":[{"name":"L" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"G" ,"value":0}
+ ,{"name":"V" ,"value":0}
+ ,{"name":"S" ,"value":0}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"21:00 - 22:00","Lunedi_N": 0
+,"Lunedi_Eur": 0
+,"Martedi_N": 0
+,"Martedi_Eur": 0
+,"Mercoledi_N": 0
+,"Mercoledi_Eur": 0
+,"Giovedi_N": 0
+,"Giovedi_Eur": 0
+,"Venerdi_N": 0
+,"Venerdi_Eur": 0
+,"Sabato_N": 0
+,"Sabato_Eur": 0
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 0
+,"Tot_Eur": 0
+,"Lunedi_Bar": 0
+,"Martedi_Bar": 0
+,"Mercoledi_Bar": 0
+,"Giovedi_Bar": 0
+,"Venerdi_Bar": 0
+,"Sabato_Bar": 0
+,"Domenica_Bar": 0
+,"Tot_Bar": 0,
+"Graf":[{"name":"L" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"G" ,"value":0}
+ ,{"name":"V" ,"value":0}
+ ,{"name":"S" ,"value":0}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"22:00 - 08:00","Lunedi_N": 0
+,"Lunedi_Eur": 0
+,"Martedi_N": 0
+,"Martedi_Eur": 0
+,"Mercoledi_N": 0
+,"Mercoledi_Eur": 0
+,"Giovedi_N": 0
+,"Giovedi_Eur": 0
+,"Venerdi_N": 0
+,"Venerdi_Eur": 0
+,"Sabato_N": 0
+,"Sabato_Eur": 0
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 0
+,"Tot_Eur": 0
+,"Lunedi_Bar": 0
+,"Martedi_Bar": 0
+,"Mercoledi_Bar": 0
+,"Giovedi_Bar": 0
+,"Venerdi_Bar": 0
+,"Sabato_Bar": 0
+,"Domenica_Bar": 0
+,"Tot_Bar": 0,
+"Graf":[{"name":"L" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"M" ,"value":0}
+ ,{"name":"G" ,"value":0}
+ ,{"name":"V" ,"value":0}
+ ,{"name":"S" ,"value":0}
+ ,{"name":"D" ,"value":0}
+]}
+,{"Header":"Totale","Lunedi_N": 994
+,"Lunedi_Eur": 26.48
+,"Martedi_N": 895
+,"Martedi_Eur": 26.09
+,"Mercoledi_N": 928
+,"Mercoledi_Eur": 26.07
+,"Giovedi_N": 905
+,"Giovedi_Eur": 25.63
+,"Venerdi_N": 1012
+,"Venerdi_Eur": 25.99
+,"Sabato_N": 697
+,"Sabato_Eur": 26.7
+,"Domenica_N": 0
+,"Domenica_Eur": 0
+,"Tot_N": 22733
+,"Tot_Eur": 27.87
+,"Lunedi_Bar": 89.2921307941071
+,"Martedi_Bar": 80.398850161696
+,"Mercoledi_Bar": 83.3632770391664
+,"Giovedi_Bar": 81.297161336687
+,"Venerdi_Bar": 90.9090909090909
+,"Sabato_Bar": 62.6122888968739
+,"Domenica_Bar": 0
+,"Tot_Bar": 684.770166877523,
+"Graf":[{"name":"L" ,"value":994}
+ ,{"name":"M" ,"value":895}
+ ,{"name":"M" ,"value":928}
+ ,{"name":"G" ,"value":905}
+ ,{"name":"V" ,"value":1012}
+ ,{"name":"S" ,"value":697}
+ ,{"name":"D" ,"value":0}
+]} ]
+}

@@ -1,0 +1,12 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "IMODIUM8CPS 2MG","DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 245.7,"FFatt_D": 29.37,"FPezzi": 42,"FPezzi_D": 10.53,"FQuota": 76.36,"FPrezzo": 5.85,"CFt": 1,"CPz": 1,"CFatt": 260.26,"CFatt_D": 15.28,"CPezzi": 36,"CPezzi_D": 10.34,"CQuota": 52.84,"CPrezzo": 7.24},
+{"DscProd": "IMODIUM12CPR OROSOL 2MG","DscDitta": "JOHNSON & JOHNSON SpA","FFt": 2,"FPz": 2,"FFatt": 49.8,"FFatt_D": 4.62,"FPezzi": 6,"FPezzi_D": -14.29,"FQuota": 10.91,"FPrezzo": 8.3,"CFt": 2,"CPz": 2,"CFatt": 173.98,"CFatt_D": 30.14,"CPezzi": 14,"CPezzi_D": 8.04,"CQuota": 21.32,"CPrezzo": 12},
+{"DscProd": "DISSENTEN15CPR 2MG","DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 3,"FPz": 3,"FFatt": 29.2,"FFatt_D": 21.67,"FPezzi": 4,"FPezzi_D": 0,"FQuota": 7.27,"FPrezzo": 7.3,"CFt": 3,"CPz": 3,"CFatt": 67.77,"CFatt_D": 19.22,"CPezzi": 9,"CPezzi_D": 19.34,"CQuota": 12.71,"CPrezzo": 7.84},
+{"DscProd": "LOSIPACO12CPR 2MG+125MG","DscDitta": "DISPHAR INTERNATIONAL B.V.","FFt": 4,"FPz": 4,"FFatt": 12,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 3.64,"FPrezzo": 6,"CFt": 8,"CPz": 8,"CFatt": 4.94,"CFatt_D": 2.27,"CPezzi": 0.571,"CPezzi_D": 14.2,"CQuota": 0.84,"CPrezzo": 8.65},
+{"DscProd": "DISSENTEN ANTIDIARREA10CPR2MG","DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 5,"FPz": 5,"FFatt": 5.85,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 1.82,"FPrezzo": 5.85,"CFt": 7,"CPz": 7,"CFatt": 1.53,"CFatt_D": null,"CPezzi": 0.214,"CPezzi_D": null,"CQuota": 0.32,"CPrezzo": 7.15},
+{"DscProd": "ENTEROG ANTIDIARROICO12CPR2MG","DscDitta": "SANOFI SpA","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"CFt": 6,"CPz": 6,"CFatt": 10.05,"CFatt_D": 20.45,"CPezzi": 1,"CPezzi_D": -7.69,"CQuota": 1.89,"CPrezzo": 7.82},
+{"DscProd": "Altre 12 referenze","DscDitta": "13 ditte coinvolte","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"CFt": 4,"CPz": 4,"CFatt": 13.68,"CFatt_D": -41.64,"CPezzi": 2,"CPezzi_D": -33.33,"CQuota": 2.75,"CPrezzo": 2.52},
+{"DscProd": "IMODIUM8CPS 2MG","DscDitta": "GMM FARMA Srl","FFt": 8,"FPz": 8,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 5,"CPz": 5,"CFatt": 39,"CFatt_D": null,"CPezzi": 5,"CPezzi_D": null,"CQuota": 7.35,"CPrezzo": 7.8} 
+]}

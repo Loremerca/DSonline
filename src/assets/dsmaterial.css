@@ -39,12 +39,12 @@
   .ngx-datatable.dsmaterial.multi-click-selection .datatable-body-row.active:focus .datatable-row-group {
     background-color: #2041EF;
     color: #FFF; }
-  .ngx-datatable.dsmaterial:not(.cell-selection) .datatable-body-row:hover,
-  .ngx-datatable.dsmaterial:not(.cell-selection) .datatable-body-row:hover .datatable-row-group {
-    background-color: #eee;
-    transition-property: background;
-    transition-duration: .3s;
-    transition-timing-function: linear; }
+/*.ngx-datatable.dsmaterial:not(.cell-selection) .datatable-body-row:hover,
+.ngx-datatable.dsmaterial:not(.cell-selection) .datatable-body-row:hover .datatable-row-group {
+  background-color: #eee;
+  transition-property: background;
+  transition-duration: .3s;
+  transition-timing-function: linear; }*/
   .ngx-datatable.dsmaterial:not(.cell-selection) .datatable-body-row:focus,
   .ngx-datatable.dsmaterial:not(.cell-selection) .datatable-body-row:focus .datatable-row-group {
     background-color: #ddd; }
@@ -276,6 +276,7 @@
       height: 1rem;
       background: #fff;
       cursor: pointer; }
+
 
 /**
  * Progress bar animations

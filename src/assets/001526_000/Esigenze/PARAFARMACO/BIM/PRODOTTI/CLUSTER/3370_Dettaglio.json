@@ -1,0 +1,9 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "INFLUVIS SCIROPPO 120G","DscDitta": "PLANTA MEDICA Srl","FFt": 1,"FPz": 1,"FFatt": 34.8,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 60,"FPrezzo": 11.6,"CFt": 1,"CPz": 1,"CFatt": 111.74,"CFatt_D": 54.52,"CPezzi": 8,"CPezzi_D": 42.22,"CQuota": 41.25,"CPrezzo": 13.24},
+{"DscProd": "ALGICRON 30CPR","DscDitta": "LABORATORI LEGREN Srl","FFt": 2,"FPz": 2,"FFatt": 26,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 20,"FPrezzo": 26,"CFt": 5,"CPz": 5,"CFatt": 76.71,"CFatt_D": null,"CPezzi": 3,"CPezzi_D": null,"CQuota": 16.02,"CPrezzo": 23.41},
+{"DscProd": "LONGLIFE PARTENIO 60CPS VEG","DscDitta": "PHOENIX Srl - LONGLIFE","FFt": 3,"FPz": 3,"FFatt": 14.99,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 20,"FPrezzo": 14.99,"CFt": 2,"CPz": 2,"CFatt": 3.08,"CFatt_D": 392.86,"CPezzi": 0.205,"CPezzi_D": 392,"CQuota": 1,"CPrezzo": 14.99},
+{"DscProd": "Altre 15 referenze","DscDitta": "12 ditte coinvolte","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"CFt": 3,"CPz": 3,"CFatt": 0.71,"CFatt_D": -92.43,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0.37,"CPrezzo": 0.67},
+{"DscProd": "SAMBUCO VIT C SCIROPPO 120G","DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 5,"FPz": 5,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 4,"CPz": 4,"CFatt": 88.55,"CFatt_D": null,"CPezzi": 8,"CPezzi_D": null,"CQuota": 41.38,"CPrezzo": 10.46} 
+]}

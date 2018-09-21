@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Broncopolmonari"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 4135
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 2630.98
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 5396.3
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 3752
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 2593.64
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 5239.47
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 36423.73,"M": 28875.4,"C": 57599.58},
+{"Header": "Fatturato diff","F": 13.46,"M": 4.03,"C": 5.67},
+{"Header": "Pezzi","F": 4135,"M": 2630.98,"C": 5396.3},
+{"Header": "Pezzi diff","F": 10.21,"M": 1.44,"C": 2.99} 
+]
+}

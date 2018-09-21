@@ -1,0 +1,362 @@
+<!-- Page -->
+<div class="page">
+    <div class="page-header">
+        <h1 class="page-title">{{title}}</h1>
+    </div>
+    <div class="page-content container-fluid">
+
+        <div class="row" data-plugin="matchHeight" data-by-row="true">
+            <div class="col-xxl-12 col-lg-12">
+                <div class="panel panel-bordered">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="col-12">
+                                <ul class="nav nav-tabs" *ngIf="loaded">
+                                    <li class="nav-item"><a class="nav-link {{classeperiodo === 0?'active':''}}"
+                                                            data-toggle="tab"
+                                                            (click)="setPeriodo(0)">Report
+                                        annuale</a></li>
+                                    <li class="nav-item"><a class="nav-link {{classeperiodo === 1?'active':''}}"
+                                                            data-toggle="tab"
+                                                            (click)="setPeriodo(1)">Report
+                                        bimestrale</a></li>
+                                    <li class="nav-item"><a class="nav-link {{classeperiodo === 2?'active':''}}"
+                                                            data-toggle="tab"
+                                                            (click)="setPeriodo(2)">Report
+                                        progressivo</a></li>
+                                    <li class="nav-item"><a class="nav-link {{classeperiodo === 3?'active':''}}"
+                                                            data-toggle="tab"
+                                                            (click)="setPeriodo(3)">Report
+                                        ultimo mese</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-12 text-right">
+                                <button (click)="cambiamercato('F')" class="btn btn-lg bg-primary-200 white ml-10">
+                                    Farmacia
+                                </button>
+                                <button (click)="cambiamercato('M')" class="btn btn-lg bg-apogreen-200 white ml-10">
+                                    Mercato
+                                </button>
+                                <button (click)="cambiamercato('C')"
+                                        class="btn btn-lg bg-light-apogreen-200 white ml-10">Cluster
+                                </button>
+                            </div>
+                        </div>
+                        <div class="row h-500">
+                            <div class="col-7">
+                                <ngx-charts-pie-chart
+                                        class="chart-container"
+                                        [scheme]="cs"
+                                        [results]="tortabig"
+                                        [animations]="true"
+                                        [legend]="true"
+                                        [legendTitle]="'Legenda'"
+                                        [explodeSlices]="false"
+                                        [labels]="true"
+                                        [doughnut]="false">
+                                </ngx-charts-pie-chart>
+                            </div>
+                            <div class="col-5">
+                                <ngx-charts-pie-chart
+                                        class="chart-container"
+                                        [scheme]="cs"
+                                        [results]="tortasmall"
+                                        [animations]="true"
+                                        [legend]="true"
+                                        [legendTitle]="'Legenda'"
+                                        [explodeSlices]="false"
+                                        [labels]="true"
+                                        [doughnut]="false">
+                                </ngx-charts-pie-chart>
+                            </div>
+                        </div>
+                        <hr/>
+                        <div class="row">
+                            <div class="col-12 text-right">
+                                <button (click)="cambiamercatotab(true)" class="btn btn-lg bg-apogreen-200 white ml-10">
+                                    Mercato
+                                </button>
+                                <button (click)="cambiamercatotab(false)"
+                                        class="btn btn-lg bg-light-apogreen-200 white ml-10">Cluster
+                                </button>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <ngx-datatable
+                                        #tb1
+                                        class="dsmaterial"
+                                        [columnMode]="'flex'"
+                                        [groupRowsBy]="'Gruppo'"
+                                        [headerHeight]="50"
+                                        [footerHeight]="50"
+                                        [rowHeight]="'auto'"
+                                        [limit]="30"
+                                        [groupExpansionDefault]="true"
+                                        [rows]="datitab">
+                                    <ngx-datatable-group-header [rowHeight]="50" #myGroupHeader
+                                                                (toggle)="onDetailToggle($event)">
+                                        <ng-template let-group="group" let-expanded="expanded"
+                                                     ngx-datatable-group-header-template>
+                                            <div style="background-color: #7C2529">
+                                                <button class="btn-primary"
+                                                        [class.datatable-icon-right]="!expanded"
+                                                        [class.datatable-icon-down]="expanded"
+                                                        title="Expand/Collapse Group"
+                                                        (click)="toggleExpandGroup(group)">
+                                                    <b>{{group.value[0].Gruppo}}</b>
+                                                </button>
+                                            </div>
+                                        </ng-template>
+                                    </ngx-datatable-group-header>
+                                    <ngx-datatable-column prop="HeaderRiga" name="" [flexGrow]="4" [cellClass]="BGColor">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            <strong>{{value}}</strong>
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="FFatt" name="Fatt" [flexGrow]="2"
+                                                          cellClass="bg-primary-200 font-size-10"
+                                                          headerClass="bg-primary-200">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="FFatt_D" name="Diff" [flexGrow]="2"
+                                                          cellClass="bg-primary-200 font-size-10"
+                                                          headerClass="bg-primary-200">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="FPezzi" name="Pezzi" [flexGrow]="2"
+                                                          cellClass="bg-primary-200"
+                                                          headerClass="bg-primary-200">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="FPezzi_D" name="Diff" [flexGrow]="2"
+                                                          cellClass="bg-primary-200"
+                                                          headerClass="bg-primary-200">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="FQuota" name="Quota" [flexGrow]="2"
+                                                          cellClass="bg-primary-200"
+                                                          headerClass="bg-primary-200">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="FRef" name="Ref" [flexGrow]="2"
+                                                          cellClass="bg-primary-200"
+                                                          headerClass="bg-primary-200">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="FRef80" name="Ref80" [flexGrow]="2"
+                                                          cellClass="bg-primary-200"
+                                                          headerClass="bg-primary-200">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <!-- MERCATO -->
+                                    <ngx-datatable-column prop="MFatt" name="Fatt" [flexGrow]="2"
+                                                          cellClass="bg-apogreen-200 font-size-10"
+                                                          headerClass="bg-apogreen-200" *ngIf="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="MFatt_D" name="Diff" [flexGrow]="2"
+                                                          cellClass="bg-apogreen-200 font-size-10"
+                                                          headerClass="bg-apogreen-200" *ngIf="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="MPezzi" name="Pezzi" [flexGrow]="2"
+                                                          cellClass="bg-apogreen-200"
+                                                          headerClass="bg-apogreen-200" *ngIf="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="MPezzi_D" name="Diff" [flexGrow]="2"
+                                                          cellClass="bg-apogreen-200"
+                                                          headerClass="bg-apogreen-200" *ngIf="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="MQuota" name="Quota" [flexGrow]="2"
+                                                          cellClass="bg-apogreen-200"
+                                                          headerClass="bg-apogreen-200" *ngIf="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="MRef" name="Ref" [flexGrow]="2"
+                                                          cellClass="bg-apogreen-200"
+                                                          headerClass="bg-apogreen-200" *ngIf="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="MRef80" name="Ref80" [flexGrow]="2"
+                                                          cellClass="bg-apogreen-200"
+                                                          headerClass="bg-apogreen-200" *ngIf="mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <!-- CLUSTER -->
+                                    <ngx-datatable-column prop="CFatt" name="Fatturato" [flexGrow]="2"
+                                                          cellClass="bg-light-apogreen-200"
+                                                          headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="CFatt_D" name="Diff" [flexGrow]="2"
+                                                          cellClass="bg-light-apogreen-200"
+                                                          headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="CPezzi" name="Pezzi" [flexGrow]="2"
+                                                          cellClass="bg-light-apogreen-200"
+                                                          headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="CPezzi_D" name="Diff" [flexGrow]="2"
+                                                          cellClass="bg-light-apogreen-200"
+                                                          headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="CQuota" name="Quota" [flexGrow]="2"
+                                                          cellClass="bg-light-apogreen-200"
+                                                          headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="CRef" name="Ref" [flexGrow]="2"
+                                                          cellClass="bg-light-apogreen-200"
+                                                          headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                    <ngx-datatable-column prop="CRef80" name="Ref80" [flexGrow]="2"
+                                                          cellClass="bg-light-apogreen-200"
+                                                          headerClass="bg-light-apogreen-200" *ngIf="!mercato">
+                                        <ng-template let-value="value" ngx-datatable-cell-template>
+                                            {{value | number}}
+                                        </ng-template>
+                                    </ngx-datatable-column>
+                                </ngx-datatable>
+                            </div>
+                        </div>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row" data-plugin="matchHeight" data-by-row="true">
+            <div class="col-xxl-12 col-lg-12">
+                <div class="panel panel-bordered">
+                    <div class="panel-heading">
+                        <div class="row">
+                            <div class="col-12">
+                                <ul class="nav nav-tabs" *ngIf="loaded">
+                                    <li class="nav-item"><a class="nav-link {{classeperiodo === 0?'active':''}}"
+                                                            data-toggle="tab"
+                                                            (click)="setPeriodo2(0)">Report
+                                        annuale</a></li>
+
+                                    <li class="nav-item"><a class="nav-link {{classeperiodo === 2?'active':''}}"
+                                                            data-toggle="tab"
+                                                            (click)="setPeriodo2(1)">Report
+                                        progressivo</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="card-columns">
+                                    <div class="card" *ngFor="let gauge of datigauges">
+                                        <h4 class="card-title ">{{gauge.Header}}</h4>
+                                        <div class="card-header h-250">
+                                            <ngx-charts-gauge
+                                                    *ngIf="loaded"
+                                                    class="chart-container"
+                                                    [legend]="false"
+                                                    [results]="gauge.Gauge"
+                                                    [animations]="true"
+                                                    [scheme]="'fire'"
+                                                    [min]="gauge.Min"
+                                                    [max]="gauge.Max"
+                                                    [units]="'%'"
+                                                    [bigSegments]="10"
+                                                    [smallSegments]="5"
+                                                    [angleSpan]="240"
+                                                    [startAngle]="-120"
+                                                    [showAxis]="true">
+                                            </ngx-charts-gauge>
+                                        </div>
+                                        <div class="card-block p-25 bg-apoprimary-200">
+                                            <div class="counter counter-lg counter-inverse">
+                                                <div class="counter-label text-uppercase">Farmacia</div>
+                                                <div class="counter-number-group">
+                                                    <span class="counter-number">{{gauge.Farmacia}}</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="card-block p-25 bg-apogreen-200">
+                                            <div class="counter counter-lg counter-inverse">
+                                                <div class="counter-label text-uppercase">Mercato</div>
+                                                <div class="counter-number-group">
+                                                    <span class="counter-number">{{gauge.Mercato}}</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="card-block p-25 bg-light-apogreen-200">
+                                            <div class="counter counter-lg counter-inverse">
+                                                <div class="counter-label text-uppercase">Cluster</div>
+                                                <div class="counter-number-group">
+                                                    <span class="counter-number">{{gauge.Cluster}}</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<!-- End Page Content -->

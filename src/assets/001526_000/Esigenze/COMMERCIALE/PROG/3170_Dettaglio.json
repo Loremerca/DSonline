@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Digestivi"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 3320
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 349.98
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 985.45
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 3132
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 332.26
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 913.12
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 50128.46,"M": 5038.94,"C": 14342.43},
+{"Header": "Fatturato diff","F": 2.93,"M": 6.6,"C": 7.69},
+{"Header": "Pezzi","F": 3320,"M": 349.98,"C": 985.45},
+{"Header": "Pezzi diff","F": 6,"M": 5.33,"C": 7.92} 
+]
+}

@@ -1,0 +1,16 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "BAYER SpA","FFt": 1,"FPz": 1,"FFatt": 518.4,"FFatt_D": -7.69,"FPezzi": 48,"FPezzi_D": -7.69,"FQuota": 55.81,"FPrezzo": 10.8,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 281.25,"MFatt_D": -9.58,"MPezzi": 26,"MPezzi_D": -9.98,"MQuota": 31.74,"MPrezzo": 10.79,"MRef": 1},
+{"DscDitta": "FIDIA FARMACEUTICI SpA","FFt": 2,"FPz": 2,"FFatt": 178.5,"FFatt_D": 90.91,"FPezzi": 21,"FPezzi_D": 90.91,"FQuota": 24.42,"FPrezzo": 8.5,"FRef": 1,"MFt": 4,"MPz": 4,"MFatt": 63.27,"MFatt_D": -3.68,"MPezzi": 7,"MPezzi_D": -9.72,"MQuota": 9.07,"MPrezzo": 8.49,"MRef": 1},
+{"DscDitta": "GLAXOSMITHKLINE SpA","FFt": 3,"FPz": 4,"FFatt": 129,"FFatt_D": null,"FPezzi": 6,"FPezzi_D": null,"FQuota": 6.98,"FPrezzo": 21.5,"FRef": 1,"MFt": 11,"MPz": 11,"MFatt": 60.54,"MFatt_D": 3.99,"MPezzi": 3,"MPezzi_D": 10.31,"MQuota": 3.43,"MPrezzo": 21.47,"MRef": 1},
+{"DscDitta": "EG SpA","FFt": 4,"FPz": 3,"FFatt": 76.5,"FFatt_D": 28.57,"FPezzi": 9,"FPezzi_D": 28.57,"FQuota": 10.47,"FPrezzo": 8.5,"FRef": 1,"MFt": 2,"MPz": 2,"MFatt": 151.88,"MFatt_D": 17.58,"MPezzi": 18,"MPezzi_D": 17.48,"MQuota": 21.85,"MPrezzo": 8.46,"MRef": 1},
+{"DscDitta": "AUROBINDO PHARMA ITALIA Srl","FFt": 5,"FPz": 5,"FFatt": 16.2,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 2.33,"FPrezzo": 8.1,"FRef": 1,"MFt": 3,"MPz": 7,"MFatt": 8.09,"MFatt_D": 84.69,"MPezzi": 0.999,"MPezzi_D": 83.36,"MQuota": 1.22,"MPrezzo": 8.1,"MRef": 1},
+{"DscDitta": "ABC FARMACEUTICI SpA","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 7,"MPz": 3,"MFatt": 9.99,"MFatt_D": 54.67,"MPezzi": 1,"MPezzi_D": 22.19,"MQuota": 1.54,"MPrezzo": 7.88,"MRef": 1},
+{"DscDitta": "DOC GENERICI Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 10,"MPz": 8,"MFatt": 29.24,"MFatt_D": -36.72,"MPezzi": 4,"MPezzi_D": -30.01,"MQuota": 4.4,"MPrezzo": 8.1,"MRef": 1},
+{"DscDitta": "PENSA PHARMA SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 8,"MPz": 10,"MFatt": 15.12,"MFatt_D": -28.65,"MPezzi": 2,"MPezzi_D": -23.08,"MQuota": 2.27,"MPrezzo": 8.12,"MRef": 1},
+{"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 12,"MPz": 6,"MFatt": 9.85,"MFatt_D": -24.54,"MPezzi": 0.658,"MPezzi_D": -24.28,"MQuota": 0.8,"MPrezzo": 14.97,"MRef": 0},
+{"DscDitta": "SKILLS IN HEALTHCARE ITALIA Sr","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 6,"MPz": 12,"MFatt": 16.93,"MFatt_D": -5.32,"MPezzi": 2,"MPezzi_D": -4.81,"MQuota": 2.4,"MPrezzo": 8.59,"MRef": 1},
+{"DscDitta": "TEVA ITALIA Srl","FFt": 11,"FPz": 11,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 9,"MPz": 5,"MFatt": 142.33,"MFatt_D": 13.02,"MPezzi": 16,"MPezzi_D": 9.37,"MQuota": 19.96,"MPrezzo": 8.68,"MRef": 1},
+{"DscDitta": "8 ditte coinvolte","FFt": 12,"FPz": 12,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 1,"MFt": 5,"MPz": 9,"MFatt": 10.11,"MFatt_D": -69.6,"MPezzi": 1,"MPezzi_D": -68.06,"MQuota": 1.32,"MPrezzo": 8.9,"MRef": 0} 
+]}

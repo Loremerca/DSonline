@@ -1,0 +1,10 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "CORTIFLUORALSOLUZ ODONT 10ML","DscDitta": "BAYER SpA","FFt": 1,"FPz": 1,"FFatt": 21.6,"FFatt_D": -50,"FPezzi": 2,"FPezzi_D": -50,"FQuota": 28.57,"FPrezzo": 10.8,"CFt": 1,"CPz": 1,"CFatt": 37.8,"CFatt_D": -38.41,"CPezzi": 4,"CPezzi_D": -29.93,"CQuota": 31.61,"CPrezzo": 10.8},
+{"DscProd": "ACICLOVIR EGCR 10G 5%","DscDitta": "EG SpA","FFt": 2,"FPz": 2,"FFatt": 17,"FFatt_D": 100,"FPezzi": 2,"FPezzi_D": 100,"FQuota": 28.57,"FPrezzo": 8.5,"CFt": 2,"CPz": 2,"CFatt": 21.86,"CFatt_D": 43.88,"CPezzi": 3,"CPezzi_D": 67.44,"CQuota": 23.23,"CPrezzo": 8.5},
+{"DscProd": "ACICLOVIR AUROCREMA 10G 5%","DscDitta": "AUROBINDO PHARMA ITALIA Srl","FFt": 3,"FPz": 3,"FFatt": 16.2,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 28.57,"FPrezzo": 8.1,"CFt": 5,"CPz": 4,"CFatt": 4.63,"CFatt_D": null,"CPezzi": 0.571,"CPezzi_D": null,"CQuota": 5.16,"CPrezzo": 8.1},
+{"DscProd": "ACICLINCREMA 10G 5%","DscDitta": "FIDIA FARMACEUTICI SpA","FFt": 4,"FPz": 4,"FFatt": 8.5,"FFatt_D": 0,"FPezzi": 1,"FPezzi_D": 0,"FQuota": 14.29,"FPrezzo": 8.5,"CFt": 4,"CPz": 5,"CFatt": 13.96,"CFatt_D": 19.87,"CPezzi": 2,"CPezzi_D": 45.45,"CQuota": 14.84,"CPrezzo": 8.5},
+{"DscProd": "Altre 14 referenze","DscDitta": "14 ditte coinvolte","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"CFt": 6,"CPz": 6,"CFatt": 19.41,"CFatt_D": -19.34,"CPezzi": 2,"CPezzi_D": 20,"CQuota": 13.45,"CPrezzo": 2.73},
+{"DscProd": "ACICLOVIR DOROMCREMA 10G 5%","DscDitta": "TEVA ITALIA Srl","FFt": 6,"FPz": 6,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 3,"CPz": 3,"CFatt": 9.94,"CFatt_D": -2.4,"CPezzi": 1,"CPezzi_D": -22.58,"CQuota": 10.32,"CPrezzo": 8.7} 
+]}

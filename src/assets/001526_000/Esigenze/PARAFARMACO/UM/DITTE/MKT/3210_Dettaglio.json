@@ -1,0 +1,14 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "LACOTE Srl","FFt": 1,"FPz": 2,"FFatt": 164.3,"FFatt_D": 29.07,"FPezzi": 7,"FPezzi_D": 75,"FQuota": 23.33,"FPrezzo": 23.47,"FRef": 21,"MFt": 10,"MPz": 10,"MFatt": 3.91,"MFatt_D": -22.12,"MPezzi": 0.125,"MPezzi_D": -18.84,"MQuota": 3.3,"MPrezzo": 31.21,"MRef": 0},
+{"DscDitta": "I.C.I.M. (BIONIKE) INTERNATION","FFt": 2,"FPz": 1,"FFatt": 107.7,"FFatt_D": -15.4,"FPezzi": 8,"FPezzi_D": 14.29,"FQuota": 26.67,"FPrezzo": 13.46,"FRef": 6,"MFt": 3,"MPz": 3,"MFatt": 11.57,"MFatt_D": -43.4,"MPezzi": 0.619,"MPezzi_D": -48.71,"MQuota": 16.3,"MPrezzo": 18.69,"MRef": 5},
+{"DscDitta": "L.MANETTI-H.ROBERTS & C. SpA","FFt": 3,"FPz": 3,"FFatt": 97.35,"FFatt_D": 101.55,"FPezzi": 3,"FPezzi_D": 50,"FQuota": 10,"FPrezzo": 32.45,"FRef": 11,"MFt": 9,"MPz": 2,"MFatt": 21.05,"MFatt_D": -50.63,"MPezzi": 0.631,"MPezzi_D": -45.1,"MQuota": 16.61,"MPrezzo": 33.35,"MRef": 8},
+{"DscDitta": "GHEOS Srl","FFt": 4,"FPz": 4,"FFatt": 77.85,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 10,"FPrezzo": 25.95,"FRef": 1,"MFt": 2,"MPz": 9,"MFatt": 0.18,"MFatt_D": null,"MPezzi": 0.007,"MPezzi_D": null,"MQuota": 0.19,"MPrezzo": 25.95,"MRef": 0},
+{"DscDitta": "UNIFARCO SpA","FFt": 5,"FPz": 5,"FFatt": 66.3,"FFatt_D": -71.55,"FPezzi": 3,"FPezzi_D": -81.25,"FQuota": 10,"FPrezzo": 22.1,"FRef": 4,"MFt": 5,"MPz": 5,"MFatt": 4.36,"MFatt_D": -7.69,"MPezzi": 0.203,"MPezzi_D": -14.27,"MQuota": 5.35,"MPrezzo": 21.42,"MRef": 3},
+{"DscDitta": "WELEDA ITALIA Srl","FFt": 6,"FPz": 6,"FFatt": 60,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 10,"FPrezzo": 20,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 0.47,"MFatt_D": 29.04,"MPezzi": 0.024,"MPezzi_D": 30.5,"MQuota": 0.62,"MPrezzo": 19.99,"MRef": 0},
+{"DscDitta": "POOL PHARMA Srl","FFt": 7,"FPz": 7,"FFatt": 56,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 6.67,"FPrezzo": 28,"FRef": 3,"MFt": 8,"MPz": 8,"MFatt": 0.13,"MFatt_D": -58.31,"MPezzi": 0.005,"MPezzi_D": -68.93,"MQuota": 0.12,"MPrezzo": 28,"MRef": 0},
+{"DscDitta": "MARCO ANTONETTO SpA","FFt": 8,"FPz": 8,"FFatt": 24.65,"FFatt_D": -64.74,"FPezzi": 1,"FPezzi_D": -66.67,"FQuota": 3.33,"FPrezzo": 24.65,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 1.44,"MFatt_D": -43.84,"MPezzi": 0.064,"MPezzi_D": -42,"MQuota": 1.68,"MPrezzo": 22.64,"MRef": 1},
+{"DscDitta": "IST.GANASSINI SpA","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 2,"MFt": 4,"MPz": 4,"MFatt": 17.14,"MFatt_D": -22.73,"MPezzi": 0.511,"MPezzi_D": -24.9,"MQuota": 13.44,"MPrezzo": 33.57,"MRef": 2},
+{"DscDitta": "145 ditte coinvolte","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 2,"MFt": 7,"MPz": 7,"MFatt": 42.79,"MFatt_D": -13.87,"MPezzi": 2,"MPezzi_D": 2.23,"MQuota": 42.32,"MPrezzo": 11.47,"MRef": 1} 
+]}

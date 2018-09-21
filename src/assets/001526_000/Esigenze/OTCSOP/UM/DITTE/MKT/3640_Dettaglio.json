@@ -1,0 +1,10 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 34.75,"FFatt_D": 403.62,"FPezzi": 5,"FPezzi_D": 400,"FQuota": 83.33,"FPrezzo": 6.95,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 8.82,"MFatt_D": 96.71,"MPezzi": 0.825,"MPezzi_D": 93.99,"MQuota": 23.04,"MPrezzo": 10.69,"MRef": 1},
+{"DscDitta": "TEVA ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 3,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 16.67,"FPrezzo": 3,"FRef": 1,"MFt": 1,"MPz": 1,"MFatt": 0.41,"MFatt_D": 19.12,"MPezzi": 0.095,"MPezzi_D": 18.07,"MQuota": 2.64,"MPrezzo": 4.29,"MRef": 1},
+{"DscDitta": "BAYER SpA","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 4,"MPz": 4,"MFatt": 1,"MFatt_D": 25.06,"MPezzi": 0.194,"MPezzi_D": 24.1,"MQuota": 5.41,"MPrezzo": 5.18,"MRef": 1},
+{"DscDitta": "GLAXOSMITHKLINE C.HEALTH.SpA","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 6,"MPz": 3,"MFatt": 4.97,"MFatt_D": 14.54,"MPezzi": 0.584,"MPezzi_D": 12.91,"MQuota": 16.3,"MPrezzo": 8.52,"MRef": 1},
+{"DscDitta": "UCB PHARMA SpA","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 3,"MPz": 2,"MFatt": 9.51,"MFatt_D": 28.51,"MPezzi": 1,"MPezzi_D": -11.22,"MQuota": 40.26,"MPrezzo": 6.59,"MRef": 1},
+{"DscDitta": "4 ditte coinvolte","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 2,"MPz": 6,"MFatt": 1.82,"MFatt_D": 32.07,"MPezzi": 0,"MPezzi_D": -100,"MQuota": 14.08,"MPrezzo": 3.75,"MRef": 0} 
+]}

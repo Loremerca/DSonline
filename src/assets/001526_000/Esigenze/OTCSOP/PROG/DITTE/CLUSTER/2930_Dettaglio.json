@@ -1,0 +1,7 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "ROCHE SpA","FFt": 1,"FPz": 1,"FFatt": 3206,"FFatt_D": -57.58,"FPezzi": 28,"FPezzi_D": -57.58,"FQuota": 100,"FPrezzo": 114.5,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 572.45,"CFatt_D": -28.58,"CPezzi": 5,"CPezzi_D": -32.58,"CQuota": 56.13,"CPrezzo": 114.47,"CRef": 1},
+{"DscDitta": "TO.C.A.S. Srl","FFt": 2,"FPz": 2,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 3,"CPz": 2,"CFatt": 91.94,"CFatt_D": 60.24,"CPezzi": 2,"CPezzi_D": 23.08,"CQuota": 25.26,"CPrezzo": 40.85,"CRef": 1},
+{"DscDitta": "5 ditte coinvolte","FFt": 3,"FPz": 3,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 1,"CFt": 2,"CPz": 3,"CFatt": 177.97,"CFatt_D": 56.76,"CPezzi": 2,"CPezzi_D": 71.43,"CQuota": 19.15,"CPrezzo": 85.87,"CRef": 0} 
+]}

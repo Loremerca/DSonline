@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 15831.42,"FFatt_D": 17.82,"FPezzi": 1570,"FPezzi_D": 15.19,"FQuota": 80.51,"FPrezzo": 10.08,"FRef": 7,"CFt": 1,"CPz": 1,"CFatt": 16123.95,"CFatt_D": 8.66,"CPezzi": 1263,"CPezzi_D": 5.5,"CQuota": 77.55,"CPrezzo": 12.77,"CRef": 7},
+{"DscDitta": "ZAMBON ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 1998.24,"FFatt_D": -14.26,"FPezzi": 228,"FPezzi_D": -22.97,"FQuota": 11.69,"FPrezzo": 8.76,"FRef": 3,"CFt": 2,"CPz": 2,"CFatt": 2211.8,"CFatt_D": 10.99,"CPezzi": 194,"CPezzi_D": 6.76,"CQuota": 11.9,"CPrezzo": 11.42,"CRef": 3},
+{"DscDitta": "BRUSCHETTINI Srl","FFt": 3,"FPz": 3,"FFatt": 1056.36,"FFatt_D": 12.16,"FPezzi": 93,"FPezzi_D": 12.05,"FQuota": 4.77,"FPrezzo": 11.36,"FRef": 2,"CFt": 4,"CPz": 4,"CFatt": 445.82,"CFatt_D": -10.14,"CPezzi": 36,"CPezzi_D": -11.02,"CQuota": 2.23,"CPrezzo": 12.27,"CRef": 2},
+{"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 4,"FPz": 4,"FFatt": 687.9,"FFatt_D": -8.18,"FPezzi": 57,"FPezzi_D": -13.64,"FQuota": 2.92,"FPrezzo": 12.07,"FRef": 1,"CFt": 3,"CPz": 3,"CFatt": 1628.02,"CFatt_D": 12.74,"CPezzi": 119,"CPezzi_D": 6.93,"CQuota": 7.29,"CPrezzo": 13.72,"CRef": 1},
+{"DscDitta": "SIT LABORATORIO FARMAC. Srl","FFt": 5,"FPz": 5,"FFatt": 23.4,"FFatt_D": -77.78,"FPezzi": 2,"FPezzi_D": -77.78,"FQuota": 0.1,"FPrezzo": 11.7,"FRef": 1,"CFt": 6,"CPz": 6,"CFatt": 92.47,"CFatt_D": 52.03,"CPezzi": 7,"CPezzi_D": 42.37,"CQuota": 0.45,"CPrezzo": 12.71,"CRef": 1},
+{"DscDitta": "AKKADEAS PHARMA Srl","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 5,"CPz": 5,"CFatt": 142.61,"CFatt_D": -7.54,"CPezzi": 9,"CPezzi_D": -12.2,"CQuota": 0.58,"CPrezzo": 15.09,"CRef": 1},
+{"DscDitta": "BB FARMA Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 9,"CPz": 7,"CFatt": 0,"CFatt_D": null,"CPezzi": 0,"CPezzi_D": null,"CQuota": 0,"CPrezzo": null,"CRef": 0},
+{"DscDitta": "FIEGE LOGISTICS ITALIA SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 7,"CPz": 9,"CFatt": -0.38,"CFatt_D": null,"CPezzi": -0.043,"CPezzi_D": null,"CQuota": 0,"CPrezzo": 8.85,"CRef": 0},
+{"DscDitta": "6 ditte coinvolte","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 8,"CPz": 8,"CFatt": 0.61,"CFatt_D": 86.08,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0,"CPrezzo": 2.45,"CRef": 0} 
+]}

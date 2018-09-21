@@ -1,0 +1,11 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "LABORATORI BALDACCI SpA","FFt": 1,"FPz": 1,"FFatt": 2448,"FFatt_D": 53.85,"FPezzi": 160,"FPezzi_D": 53.85,"FQuota": 74.77,"FPrezzo": 15.3,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 556.13,"CFatt_D": 17.89,"CPezzi": 36,"CPezzi_D": 13.68,"CQuota": 43.62,"CPrezzo": 15.24,"CRef": 1},
+{"DscDitta": "CHEMISCHE F.KREUSSLER &Co.GmbH","FFt": 2,"FPz": 3,"FFatt": 209.5,"FFatt_D": 70.33,"FPezzi": 9,"FPezzi_D": 50,"FQuota": 4.21,"FPrezzo": 23.28,"FRef": 3,"CFt": 5,"CPz": 5,"CFatt": 201.24,"CFatt_D": -15.13,"CPezzi": 11,"CPezzi_D": -18.27,"CQuota": 13.51,"CPrezzo": 17.8,"CRef": 3},
+{"DscDitta": "FARMACEUTICA LODIGIANA S.R.L.","FFt": 3,"FPz": 4,"FFatt": 205.2,"FFatt_D": -26.92,"FPezzi": 19,"FPezzi_D": -26.92,"FQuota": 8.88,"FPrezzo": 10.8,"FRef": 1,"CFt": 2,"CPz": 2,"CFatt": 115.57,"CFatt_D": -24.58,"CPezzi": 11,"CPezzi_D": -23.26,"CQuota": 12.8,"CPrezzo": 10.79,"CRef": 1},
+{"DscDitta": "I.B.I.GIOVANNI LORENZINI SpA","FFt": 4,"FPz": 2,"FFatt": 156,"FFatt_D": 650,"FPezzi": 15,"FPezzi_D": 650,"FQuota": 7.01,"FPrezzo": 10.4,"FRef": 2,"CFt": 3,"CPz": 3,"CFatt": 108.44,"CFatt_D": 6.81,"CPezzi": 10,"CPezzi_D": 2.13,"CQuota": 12.5,"CPrezzo": 10.37,"CRef": 2},
+{"DscDitta": "CENTRO PRODOTTI SERVIZI F.Srl","FFt": 5,"FPz": 5,"FFatt": 146,"FFatt_D": -50,"FPezzi": 9,"FPezzi_D": -50,"FQuota": 4.21,"FPrezzo": 16.22,"FRef": 2,"CFt": 4,"CPz": 4,"CFatt": 214.9,"CFatt_D": -25.39,"CPezzi": 13,"CPezzi_D": -25.01,"CQuota": 15.49,"CPrezzo": 16.59,"CRef": 2},
+{"DscDitta": "PHARMA LINE Srl","FFt": 6,"FPz": 6,"FFatt": 28,"FFatt_D": -33.33,"FPezzi": 2,"FPezzi_D": -33.33,"FQuota": 0.93,"FPrezzo": 14,"FRef": 1,"CFt": 6,"CPz": 6,"CFatt": 14.79,"CFatt_D": 28.72,"CPezzi": 1,"CPezzi_D": 20,"CQuota": 1.26,"CPrezzo": 14,"CRef": 1},
+{"DscDitta": "3 ditte coinvolte","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 7,"CPz": 7,"CFatt": 6.62,"CFatt_D": -68.34,"CPezzi": 1,"CPezzi_D": -46.67,"CQuota": 0.82,"CPrezzo": 3.27,"CRef": 0} 
+]}

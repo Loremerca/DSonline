@@ -1,0 +1,435 @@
+{
+ "Titolo":"" ,"SottoTitolo":"" ,"datiEsigenza":[
+ {
+ "Esigenza":"ANTIACIDI" ,"datiEs":[
+ {
+ "Componente":"ACIDITA' E REFLUSSO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0.23 ,"Top": 0.64 ,"min":0,"max": 2.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0.27 ,"Top": 1.83 ,"min":0,"max": 2.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Farmaci antinfiammatori otc/sop","BGColor": "","F_UM": 243,"F_MAT": 267,"M_UM": 435,"M_MAT": 197,"C_UM": 362,"C_MAT": 102},
+{"Header": "Neo bianacid","BGColor": "","F_UM": 44,"F_MAT": 39,"M_UM": 30,"M_MAT": 16,"C_UM": 28,"C_MAT": 20},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 1,"M_MAT": 1,"C_UM": 2,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0.23,"M_MAT": 0.27,"C_UM": 0.64,"C_MAT": 1.83},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 7.74,"F_MAT": 7.65,"M_UM": 9.58,"M_MAT": 9.4,"C_UM": 9.33,"C_MAT": 9.35},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 22.61,"M_MAT": 22.48,"C_UM": 22.48,"C_MAT": 22.17} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"ANTIEMORROIDALI" ,"datiEs":[
+ {
+ "Componente":"ANTIEMORROIDALI" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 0.79 ,"min":0,"max": 8 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 7.08 ,"min":0,"max": 8 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Antiemorroidali otc/sop","BGColor": "","F_UM": 154,"F_MAT": 187,"M_UM": 0,"M_MAT": 50,"C_UM": 507,"C_MAT": 34},
+{"Header": "Neofitoroid crema detergente verum plantafibra","BGColor": "","F_UM": 8,"F_MAT": 4,"M_UM": 0,"M_MAT": 4,"C_UM": 42,"C_MAT": 10},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 4,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0.79,"C_MAT": 7.08},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 11.79,"F_MAT": 12.98,"M_UM": 0,"M_MAT": 14.4,"C_UM": 14.43,"C_MAT": 13.7},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 9.8,"C_MAT": 23.12} 
+
+]
+}
+, {
+ "Componente":"ANTIEMORROIDALI SISTEMICO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 1.97 ,"min":0,"max": 7.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 1.51 ,"Top": 6.65 ,"min":0,"max": 7.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Antiemorrodali topico","BGColor": "","F_UM": 60,"F_MAT": 59,"M_UM": 0,"M_MAT": 35,"C_UM": 305,"C_MAT": 33},
+{"Header": "Neofitoroid opercoli e crema detergente","BGColor": "","F_UM": 8,"F_MAT": 5,"M_UM": 0,"M_MAT": 4,"C_UM": 76,"C_MAT": 9},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 1,"C_UM": 6,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 1.51,"C_UM": 1.97,"C_MAT": 6.65},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 5.71,"F_MAT": 5.89,"M_UM": 0,"M_MAT": 9.3,"C_UM": 9.86,"C_MAT": 9.09},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 23.05,"C_UM": 8.27,"C_MAT": 21.55} 
+
+]
+}
+, {
+ "Componente":"ANTIEMORROIDALI TOPICO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 1.88 ,"min":0,"max": 6 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 5.25 ,"min":0,"max": 6 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Antiemorroidali sistemico","BGColor": "","F_UM": 98,"F_MAT": 131,"M_UM": 0,"M_MAT": 40,"C_UM": 398,"C_MAT": 36},
+{"Header": "Neofitoroid biopomata e crema detergente","BGColor": "","F_UM": 16,"F_MAT": 16,"M_UM": 0,"M_MAT": 11,"C_UM": 209,"C_MAT": 15},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 8,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 1.88,"C_MAT": 5.25},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 15.43,"F_MAT": 16.19,"M_UM": 0,"M_MAT": 17.7,"C_UM": 18.88,"C_MAT": 17.54},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 18.05,"C_MAT": 28.13} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"ANTIFLATULENZA" ,"datiEs":[
+ {
+ "Componente":"SINDROME INTESTINO IRRITABILE" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 0 ,"min":0,"max": 4 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 3.56 ,"min":0,"max": 4 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Farmaci anticolinergici antispastici (otc+sop)","BGColor": "","F_UM": 20,"F_MAT": 25,"M_UM": 0,"M_MAT": 34,"C_UM": 0,"C_MAT": 28},
+{"Header": "Colilen ibs","BGColor": "","F_UM": 3,"F_MAT": 8,"M_UM": 0,"M_MAT": 4,"C_UM": 0,"C_MAT": 7},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0,"C_MAT": 1},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0,"C_MAT": 3.56},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 7.92,"F_MAT": 7.91,"M_UM": 0,"M_MAT": 8.95,"C_UM": 0,"C_MAT": 9.1},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0,"C_MAT": 40.97} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"COLLIRI" ,"datiEs":[
+ {
+ "Componente":"COLLIRI" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 0 ,"min":0,"max": 4.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 3.72 ,"min":0,"max": 4.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Antistaminici otc/sop","BGColor": "","F_UM": 9,"F_MAT": 23,"M_UM": 0,"M_MAT": 41,"C_UM": 0,"C_MAT": 29},
+{"Header": "Acuvis e/o fitostill","BGColor": "","F_UM": 6,"F_MAT": 9,"M_UM": 0,"M_MAT": 29,"C_UM": 0,"C_MAT": 38},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0,"C_MAT": 1},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0,"C_MAT": 3.72},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 8.84,"F_MAT": 7.75,"M_UM": 0,"M_MAT": 9.48,"C_UM": 0,"C_MAT": 9.94},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0,"C_MAT": 20.17} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"DEC. NASALI" ,"datiEs":[
+ {
+ "Componente":"ACQUE NASALI" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0.52 ,"Top": 2.52 ,"min":0,"max": 3 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0.22 ,"Mercato": 0.48 ,"Top": 2.55 ,"min":0,"max": 3 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Decongestionanti nasali o broncopolmonari o mal di gola","BGColor": "","F_UM": 1114,"F_MAT": 1136,"M_UM": 555,"M_MAT": 453,"C_UM": 382,"C_MAT": 243},
+{"Header": "Cura e igiene del naso","BGColor": "","F_UM": 7,"F_MAT": 9,"M_UM": 13,"M_MAT": 10,"C_UM": 31,"C_MAT": 22},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 3,"M_UM": 3,"M_MAT": 2,"C_UM": 10,"C_MAT": 6},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0.22,"M_UM": 0.52,"M_MAT": 0.48,"C_UM": 2.52,"C_MAT": 2.55},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 7.17,"F_MAT": 7.29,"M_UM": 9.89,"M_MAT": 9.96,"C_UM": 10.19,"C_MAT": 10.23},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 18.6,"M_UM": 22.77,"M_MAT": 22.82,"C_UM": 23.27,"C_MAT": 23.15} 
+
+]
+}
+, {
+ "Componente":"ALLERGIE" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 1.44 ,"min":0,"max": 4.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 1.24 ,"Top": 3.68 ,"min":0,"max": 4.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Antistaminici otc uso sistemico","BGColor": "","F_UM": 9,"F_MAT": 23,"M_UM": 0,"M_MAT": 41,"C_UM": 486,"C_MAT": 38},
+{"Header": "Rinosol 2 act","BGColor": "","F_UM": 6,"F_MAT": 10,"M_UM": 0,"M_MAT": 17,"C_UM": 422,"C_MAT": 22},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 1,"C_UM": 7,"C_MAT": 1},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 1.24,"C_UM": 1.44,"C_MAT": 3.68},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 8.84,"F_MAT": 7.75,"M_UM": 0,"M_MAT": 9.48,"C_UM": 9.97,"C_MAT": 9.65},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 18.59,"C_UM": 17.72,"C_MAT": 18.62} 
+
+]
+}
+, {
+ "Componente":"LIBERARE IL NASO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0.44 ,"Top": 1.45 ,"min":0,"max": 2 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0.45 ,"Top": 1.77 ,"min":0,"max": 2 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Farmaci antipiretici antinfluenzali otc/sop","BGColor": "","F_UM": 356,"F_MAT": 385,"M_UM": 436,"M_MAT": 249,"C_UM": 498,"C_MAT": 119},
+{"Header": "Rinosol 2act","BGColor": "","F_UM": 6,"F_MAT": 10,"M_UM": 17,"M_MAT": 11,"C_UM": 35,"C_MAT": 13},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 2,"M_MAT": 1,"C_UM": 7,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0.44,"M_MAT": 0.45,"C_UM": 1.45,"C_MAT": 1.77},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 5.17,"F_MAT": 5.18,"M_UM": 6.47,"M_MAT": 6.34,"C_UM": 6.58,"C_MAT": 6.62},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 15.94,"M_MAT": 15.82,"C_UM": 15.89,"C_MAT": 16.17} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"DIMAGRANTI" ,"datiEs":[
+ {
+ "Componente":"CONTROLLO PESO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0.82 ,"Mercato": 0 ,"Top": 0 ,"min":0,"max": 21.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 1.77 ,"Mercato": 2.73 ,"Top": 19.48 ,"min":0,"max": 21.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Dimagranti integratori, otc/sop escluso i trainati","BGColor": "","F_UM": 122,"F_MAT": 179,"M_UM": 0,"M_MAT": 42,"C_UM": 0,"C_MAT": 37},
+{"Header": "Adiprox e/o lynfase e/o libramed","BGColor": "","F_UM": 51,"F_MAT": 65,"M_UM": 0,"M_MAT": 21,"C_UM": 0,"C_MAT": 35},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 1,"F_MAT": 3,"M_UM": 0,"M_MAT": 1,"C_UM": 0,"C_MAT": 7},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0.82,"F_MAT": 1.77,"M_UM": 0,"M_MAT": 2.73,"C_UM": 0,"C_MAT": 19.48},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 19.91,"F_MAT": 20.46,"M_UM": 0,"M_MAT": 22.69,"C_UM": 0,"C_MAT": 20.88},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 42.74,"F_MAT": 48.82,"M_UM": 0,"M_MAT": 50.43,"C_UM": 0,"C_MAT": 51.84} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"IMMUNOSTIMOLANTI" ,"datiEs":[
+ {
+ "Componente":"DIFESE IMMUNITARIE" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0.22 ,"Top": 0.95 ,"min":0,"max": 1.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 0.98 ,"min":0,"max": 1.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Farmaci antipiretici antinfluenzali otc/sop","BGColor": "","F_UM": 343,"F_MAT": 367,"M_UM": 433,"M_MAT": 244,"C_UM": 472,"C_MAT": 149},
+{"Header": "Immunomix","BGColor": "","F_UM": 23,"F_MAT": 13,"M_UM": 13,"M_MAT": 6,"C_UM": 27,"C_MAT": 11},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 1,"M_MAT": 0,"C_UM": 5,"C_MAT": 1},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0.22,"M_MAT": 0,"C_UM": 0.95,"C_MAT": 0.98},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 5.13,"F_MAT": 5.13,"M_UM": 6.43,"M_MAT": 6.26,"C_UM": 6.66,"C_MAT": 6.47},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 29.01,"M_MAT": 0,"C_UM": 28.35,"C_MAT": 27.88} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"IPOCOLESTEROMIZZANTI" ,"datiEs":[
+ {
+ "Componente":"COLESTEROLO E CONTROLLO DEL PESO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0.26 ,"Mercato": 0.26 ,"Top": 0.22 ,"min":0,"max": 4.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0.36 ,"Mercato": 0 ,"Top": 4.04 ,"min":0,"max": 4.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Ipocolesteromizzanti integratori","BGColor": "","F_UM": 386,"F_MAT": 436,"M_UM": 386,"M_MAT": 55,"C_UM": 746,"C_MAT": 34},
+{"Header": "Libramed","BGColor": "","F_UM": 40,"F_MAT": 46,"M_UM": 40,"M_MAT": 5,"C_UM": 57,"C_MAT": 15},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 1,"F_MAT": 2,"M_UM": 1,"M_MAT": 0,"C_UM": 2,"C_MAT": 1},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0.26,"F_MAT": 0.36,"M_UM": 0.26,"M_MAT": 0,"C_UM": 0.22,"C_MAT": 4.04},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 21.67,"F_MAT": 21.7,"M_UM": 21.67,"M_MAT": 23.41,"C_UM": 23.7,"C_MAT": 25.41},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 51.47,"F_MAT": 51.77,"M_UM": 51.47,"M_MAT": 0,"C_UM": 23.68,"C_MAT": 62.66} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"LASSATIVI" ,"datiEs":[
+ {
+ "Componente":"INTESTINO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0.4 ,"Mercato": 0.3 ,"Top": 0.9 ,"min":0,"max": 2.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0.28 ,"Mercato": 0.42 ,"Top": 2.22 ,"min":0,"max": 2.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Lassativi","BGColor": "","F_UM": 741,"F_MAT": 724,"M_UM": 406,"M_MAT": 210,"C_UM": 819,"C_MAT": 85},
+{"Header": "Neofitoroid - coligas fast","BGColor": "","F_UM": 27,"F_MAT": 30,"M_UM": 21,"M_MAT": 14,"C_UM": 79,"C_MAT": 12},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 3,"F_MAT": 2,"M_UM": 1,"M_MAT": 1,"C_UM": 7,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0.4,"F_MAT": 0.28,"M_UM": 0.3,"M_MAT": 0.42,"C_UM": 0.9,"C_MAT": 2.22},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 7.5,"F_MAT": 7.68,"M_UM": 8.38,"M_MAT": 8.77,"C_UM": 8.82,"C_MAT": 8.86},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 18,"F_MAT": 20.07,"M_UM": 21.05,"M_MAT": 21.93,"C_UM": 21.51,"C_MAT": 22.19} 
+
+]
+}
+, {
+ "Componente":"RALLENTATO TRANSITO INTESTINALE" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0.15 ,"Top": 0.52 ,"min":0,"max": 2.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 2.11 ,"min":0,"max": 2.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Lassativi stimolanti","BGColor": "","F_UM": 649,"F_MAT": 642,"M_UM": 390,"M_MAT": 187,"C_UM": 519,"C_MAT": 109},
+{"Header": "Verum plantafibra","BGColor": "","F_UM": 1,"F_MAT": 1,"M_UM": 3,"M_MAT": 2,"C_UM": 9,"C_MAT": 7},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 1,"M_MAT": 0,"C_UM": 3,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0.15,"M_MAT": 0,"C_UM": 0.52,"C_MAT": 2.11},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 6.28,"F_MAT": 6.5,"M_UM": 6.95,"M_MAT": 7.6,"C_UM": 7.14,"C_MAT": 7.92},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 21.58,"M_MAT": 0,"C_UM": 18.45,"C_MAT": 22.94} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"MAL DI GOLA" ,"datiEs":[
+ {
+ "Componente":"GOLA" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0.63 ,"Mercato": 0.64 ,"Top": 2.1 ,"min":0,"max": 3 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0.37 ,"Mercato": 0.87 ,"Top": 2.63 ,"min":0,"max": 3 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Broncopolmonari decongestionanti otc/sop","BGColor": "","F_UM": 791,"F_MAT": 809,"M_UM": 453,"M_MAT": 309,"C_UM": 357,"C_MAT": 233},
+{"Header": "Golamir 2act","BGColor": "","F_UM": 33,"F_MAT": 27,"M_UM": 24,"M_MAT": 21,"C_UM": 38,"C_MAT": 30},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 5,"F_MAT": 3,"M_UM": 3,"M_MAT": 3,"C_UM": 8,"C_MAT": 6},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0.63,"F_MAT": 0.37,"M_UM": 0.64,"M_MAT": 0.87,"C_UM": 2.1,"C_MAT": 2.63},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 7.58,"F_MAT": 7.6,"M_UM": 10.47,"M_MAT": 10.57,"C_UM": 10.6,"C_MAT": 10.58},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 17.58,"F_MAT": 17.27,"M_UM": 21.52,"M_MAT": 21.65,"C_UM": 21.72,"C_MAT": 21.52} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"SEDATIVI" ,"datiEs":[
+ {
+ "Componente":"DISTURBI DEL SONNO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0.63 ,"Mercato": 0.63 ,"Top": 0.35 ,"min":0,"max": 3.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0.19 ,"Mercato": 0 ,"Top": 3.1 ,"min":0,"max": 3.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Tonici","BGColor": "","F_UM": 317,"F_MAT": 393,"M_UM": 317,"M_MAT": 101,"C_UM": 607,"C_MAT": 58},
+{"Header": "Sedivitax e/o valeriana","BGColor": "","F_UM": 26,"F_MAT": 30,"M_UM": 26,"M_MAT": 12,"C_UM": 103,"C_MAT": 11},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 2,"F_MAT": 1,"M_UM": 2,"M_MAT": 0,"C_UM": 2,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0.63,"F_MAT": 0.19,"M_UM": 0.63,"M_MAT": 0,"C_UM": 0.35,"C_MAT": 3.1},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 14.73,"F_MAT": 14.42,"M_UM": 14.73,"M_MAT": 16.11,"C_UM": 16.29,"C_MAT": 15.79},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 24.35,"F_MAT": 27.98,"M_UM": 24.35,"M_MAT": 0,"C_UM": 8.71,"C_MAT": 28.93} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"TONICI" ,"datiEs":[
+ {
+ "Componente":"UMORE - ENERGIA" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 0.3 ,"min":0,"max": 5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 4.27 ,"min":0,"max": 5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Sedativi integratori/otc/sop","BGColor": "","F_UM": 257,"F_MAT": 293,"M_UM": 0,"M_MAT": 61,"C_UM": 739,"C_MAT": 45},
+{"Header": "Natura mix sostegno e/o natura mix vitalita' e/o pappa reale","BGColor": "","F_UM": 3,"F_MAT": 7,"M_UM": 0,"M_MAT": 12,"C_UM": 117,"C_MAT": 19},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 2,"C_MAT": 2},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0.3,"C_MAT": 4.27},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 13.14,"F_MAT": 13.35,"M_UM": 0,"M_MAT": 13.72,"C_UM": 13.84,"C_MAT": 14.73},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 5.22,"C_MAT": 34.17} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"VIE URINARIE" ,"datiEs":[
+ {
+ "Componente":"CURA E IGIENE INTIMA" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0.19 ,"Mercato": 0.35 ,"Top": 0.82 ,"min":0,"max": 9.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0.09 ,"Mercato": 1.06 ,"Top": 8.27 ,"min":0,"max": 9.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Vie urinarie o antimicotici topici o lavande o lubrificanti","BGColor": "","F_UM": 526,"F_MAT": 527,"M_UM": 413,"M_MAT": 113,"C_UM": 881,"C_MAT": 77},
+{"Header": "Cura e igiene intima apoteca","BGColor": "","F_UM": 4,"F_MAT": 4,"M_UM": 7,"M_MAT": 5,"C_UM": 27,"C_MAT": 21},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 1,"F_MAT": 1,"M_UM": 1,"M_MAT": 1,"C_UM": 7,"C_MAT": 6},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0.19,"F_MAT": 0.09,"M_UM": 0.35,"M_MAT": 1.06,"C_UM": 0.82,"C_MAT": 8.27},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 15.76,"F_MAT": 16.07,"M_UM": 15.59,"M_MAT": 15.73,"C_UM": 15.55,"C_MAT": 15.37},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 28.86,"F_MAT": 29.28,"M_UM": 30.12,"M_MAT": 30.69,"C_UM": 16.7,"C_MAT": 30.41} 
+
+]
+}
+
+]
+}
+, {
+ "Esigenza":"ALTRE COMPLEMENTARIETA" ,"datiEs":[
+ {
+ "Componente":"CURA DEL PIEDE" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 0.07 ,"min":0,"max": 2.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 1.99 ,"min":0,"max": 2.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Strisce diabete o pungidito o elettromedicali diabete","BGColor": "","F_UM": 536,"F_MAT": 579,"M_UM": 412,"M_MAT": 120,"C_UM": 1522,"C_MAT": 54},
+{"Header": "Cura del piede apoteca","BGColor": "","F_UM": 0,"F_MAT": 3,"M_UM": 2,"M_MAT": 2,"C_UM": 25,"C_MAT": 5},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 1,"C_MAT": 1},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0.07,"C_MAT": 1.99},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 23.67,"F_MAT": 21.52,"M_UM": 20.27,"M_MAT": 22.91,"C_UM": 21.04,"C_MAT": 19.48},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 1.55,"C_MAT": 32.78} 
+
+]
+}
+, {
+ "Componente":"PIAGHE DA DECUBITO" 
+  ,"UM_Titolo" :" Nov 2018 " 
+  ,"MAT_Titolo":" Dic 2017-Nov 2018 "  
+   ,"Gauge_UM" :[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 0.15 ,"min":0,"max": 3.5 }]  
+  ,"Gauge_MAT":[{"Farmacia": 0 ,"Mercato": 0 ,"Top": 2.77 ,"min":0,"max": 3.5 }]  
+  ,"datiComp":[
+
+
+ {"Header": "Pannoloni o traverse o cateteri o allettati o disabili o diabetici","BGColor": "","F_UM": 622,"F_MAT": 666,"M_UM": 378,"M_MAT": 134,"C_UM": 646,"C_MAT": 42},
+{"Header": "Piaghe da decubito apoteca","BGColor": "","F_UM": 2,"F_MAT": 3,"M_UM": 2,"M_MAT": 2,"C_UM": 5,"C_MAT": 2},
+{"Header": "di cui venduti insieme","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 1,"C_MAT": 1},
+{"Header": "Percentuale di complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 0.15,"C_MAT": 2.77},
+{"Header": "Battuta Media Trainanti","BGColor": "bg-grey-300","F_UM": 24.48,"F_MAT": 22.2,"M_UM": 20.93,"M_MAT": 22.6,"C_UM": 20.12,"C_MAT": 19.38},
+{"Header": "Battuta Media Complementariet&agrave;","BGColor": "bg-grey-300","F_UM": 0,"F_MAT": 0,"M_UM": 0,"M_MAT": 0,"C_UM": 25.26,"C_MAT": 35.03} 
+
+]
+}
+
+]
+}
+
+]
+}

@@ -1,0 +1,10 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "CAPILLAREMA30CPS 75MG","DscDitta": "LABORATORI BALDACCI SpA","FFt": 1,"FPz": 1,"FFatt": 413.1,"FFatt_D": 50,"FPezzi": 27,"FPezzi_D": 50,"FQuota": 81.82,"FPrezzo": 15.3,"MFt": 1,"MPz": 1,"MFatt": 33.07,"MFatt_D": -0.04,"MPezzi": 2,"MPezzi_D": -8.32,"MQuota": 49.17,"MPrezzo": 15.27},
+{"DscProd": "REPARILEXIN30CPR RIV 40MG","DscDitta": "FARMACEUTICA LODIGIANA S.R.L.","FFt": 2,"FPz": 2,"FFatt": 43.2,"FFatt_D": -20,"FPezzi": 4,"FPezzi_D": -20,"FQuota": 12.12,"FPrezzo": 10.8,"MFt": 6,"MPz": 6,"MFatt": 6.22,"MFatt_D": -29.72,"MPezzi": 0.577,"MPezzi_D": -30.28,"MQuota": 13.1,"MPrezzo": 10.79},
+{"DscProd": "ATOSSISCLEROLIV 5F 2ML 3%","DscDitta": "CHEMISCHE F.KREUSSLER &Co.GmbH","FFt": 3,"FPz": 3,"FFatt": 27.5,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 3.03,"FPrezzo": 27.5,"MFt": 5,"MPz": 2,"MFatt": 0.98,"MFatt_D": 18.66,"MPezzi": 0.035,"MPezzi_D": 17.12,"MQuota": 0.81,"MPrezzo": 27.5},
+{"DscProd": "VENOLEN20CPS 300MG","DscDitta": "PHARMA LINE Srl","FFt": 4,"FPz": 4,"FFatt": 14,"FFatt_D": -66.67,"FPezzi": 1,"FPezzi_D": -66.67,"FQuota": 3.03,"FPrezzo": 14,"MFt": 2,"MPz": 5,"MFatt": 1.45,"MFatt_D": 3.31,"MPezzi": 0.104,"MPezzi_D": 2.82,"MQuota": 2.36,"MPrezzo": 13.97},
+{"DscProd": "FLEBOSIDE30CPR RIV 3MG+300MG","DscDitta": "CENTRO PRODOTTI SERVIZI F.Srl","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"MFt": 4,"MPz": 4,"MFatt": 7.38,"MFatt_D": -9.42,"MPezzi": 0.463,"MPezzi_D": -9.68,"MQuota": 10.52,"MPrezzo": 15.93},
+{"DscProd": "Altre 12 referenze","DscDitta": "6 ditte coinvolte","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"MFt": 3,"MPz": 3,"MFatt": 15.99,"MFatt_D": -19.72,"MPezzi": 1,"MPezzi_D": -22.18,"MQuota": 25.01,"MPrezzo": 11.21} 
+]}

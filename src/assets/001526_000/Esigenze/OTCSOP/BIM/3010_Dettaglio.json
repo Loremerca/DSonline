@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Mal di gola"
+ ,"Tempo":"Ott 2018-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 515
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 262.94
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 694.03
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 587
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 269
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 652
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 2978.57,"M": 2118.9,"C": 5342.26},
+{"Header": "Fatturato diff","F": -8.94,"M": 1.05,"C": 8.41},
+{"Header": "Pezzi","F": 515,"M": 262.94,"C": 694.03},
+{"Header": "Pezzi diff","F": -12.27,"M": -2.25,"C": 6.45} 
+]
+}

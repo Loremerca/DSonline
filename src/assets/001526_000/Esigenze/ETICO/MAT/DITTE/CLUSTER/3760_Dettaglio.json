@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "IBSA FARMACEUTICI ITALIA Srl","FFt": 1,"FPz": 1,"FFatt": 9406.02,"FFatt_D": -23.6,"FPezzi": 806,"FPezzi_D": -23.6,"FQuota": 43.4,"FPrezzo": 11.67,"FRef": 1,"CFt": 2,"CPz": 2,"CFatt": 3995.89,"CFatt_D": -18.2,"CPezzi": 342,"CPezzi_D": -19.02,"CQuota": 34.05,"CPrezzo": 11.69,"CRef": 2},
+{"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 2,"FPz": 2,"FFatt": 9182.16,"FFatt_D": -2.41,"FPezzi": 648,"FPezzi_D": -2.41,"FQuota": 34.89,"FPrezzo": 14.17,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 4913.31,"CFatt_D": 3.1,"CPezzi": 347,"CPezzi_D": 2.25,"CQuota": 34.57,"CPrezzo": 14.15,"CRef": 1},
+{"DscDitta": "PFIZER ITALIA Srl","FFt": 3,"FPz": 3,"FFatt": 1728.74,"FFatt_D": -11.59,"FPezzi": 122,"FPezzi_D": -11.59,"FQuota": 6.57,"FPrezzo": 14.17,"FRef": 1,"CFt": 4,"CPz": 4,"CFatt": 1568.95,"CFatt_D": 3.88,"CPezzi": 111,"CPezzi_D": 3.45,"CQuota": 11.05,"CPrezzo": 14.14,"CRef": 1},
+{"DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 4,"FPz": 5,"FFatt": 1544.53,"FFatt_D": -44.95,"FPezzi": 109,"FPezzi_D": -44.95,"FQuota": 5.87,"FPrezzo": 14.17,"FRef": 1,"CFt": 3,"CPz": 3,"CFatt": 1799.4,"CFatt_D": 1.12,"CPezzi": 127,"CPezzi_D": 0.36,"CQuota": 12.66,"CPrezzo": 14.16,"CRef": 1},
+{"DscDitta": "PIAM FARMACEUTICI SpA","FFt": 5,"FPz": 4,"FFatt": 1298,"FFatt_D": 61.64,"FPezzi": 118,"FPezzi_D": 61.64,"FQuota": 6.35,"FPrezzo": 11,"FRef": 1,"CFt": 6,"CPz": 6,"CFatt": 248.52,"CFatt_D": 116.57,"CPezzi": 23,"CPezzi_D": 119.05,"CQuota": 2.25,"CPrezzo": 11,"CRef": 1},
+{"DscDitta": "ALFA WASSERMANN SpA","FFt": 6,"FPz": 6,"FFatt": 595.17,"FFatt_D": -13.56,"FPezzi": 51,"FPezzi_D": -13.56,"FQuota": 2.75,"FPrezzo": 11.67,"FRef": 1,"CFt": 5,"CPz": 5,"CFatt": 278.25,"CFatt_D": -25.87,"CPezzi": 24,"CPezzi_D": -25.96,"CQuota": 2.38,"CPrezzo": 11.66,"CRef": 1},
+{"DscDitta": "IBN SAVIO Srl","FFt": 7,"FPz": 7,"FFatt": 33,"FFatt_D": 50,"FPezzi": 3,"FPezzi_D": 50,"FQuota": 0.16,"FPrezzo": 11,"FRef": 1,"CFt": 8,"CPz": 8,"CFatt": 106.25,"CFatt_D": 65.84,"CPezzi": 10,"CPezzi_D": 71.43,"CQuota": 0.96,"CPrezzo": 11,"CRef": 1},
+{"DscDitta": "DOC GENERICI Srl","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 7,"CPz": 7,"CFatt": 192.23,"CFatt_D": 58.73,"CPezzi": 17,"CPezzi_D": 54.51,"CQuota": 1.74,"CPrezzo": 11,"CRef": 1},
+{"DscDitta": "TEVA ITALIA Srl","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 9,"CPz": 9,"CFatt": 38.51,"CFatt_D": -48.42,"CPezzi": 4,"CPezzi_D": -41.1,"CQuota": 0.35,"CPrezzo": 11,"CRef": 1} 
+]}

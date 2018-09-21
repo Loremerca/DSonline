@@ -1,0 +1,205 @@
+{
+ "Sezione":"Anticellulite","GaugeF": [
+                                           {"dati"   :[{"name":"Farmacia","value":0.82}]
+                                           ,"opzioni":{"min":0,"max":50}
+                                           }
+                                          ] ,"GaugeM": [
+                                           {"dati"   :[{"name":"Mercato","value":1.77}]
+                                           ,"opzioni":{"min":0,"max":50}
+                                           }
+                                          ] ,"GaugeC": [
+                                           {"dati"   :[{"name":"Cluster","value":24.7}]
+                                           ,"opzioni":{"min":0,"max":50}
+                                           }
+                                          ] ,"Istogramma1":[                            
+{	"name": "Gen-Gen"                     
+,"series": [{"name":"2018","value":1894.7},{"name":"2017","value":2156.7}]  
+}, 
+{	"name": "Gen-Feb"                     
+,"series": [{"name":"2018","value":3188.2},{"name":"2017","value":5047.86}]  
+}, 
+{	"name": "Gen-Mar"                     
+,"series": [{"name":"2018","value":6704.43},{"name":"2017","value":10697.59}]  
+}, 
+{	"name": "Gen-Apr"                     
+,"series": [{"name":"2018","value":12033.15},{"name":"2017","value":16040.73}]  
+}, 
+{	"name": "Gen-Mag"                     
+,"series": [{"name":"2018","value":17042.76},{"name":"2017","value":22494.52}]  
+}, 
+{	"name": "Gen-Giu"                     
+,"series": [{"name":"2018","value":20651.78},{"name":"2017","value":28048.94}]  
+}, 
+{	"name": "Gen-Lug"                     
+,"series": [{"name":"2018","value":23378.83},{"name":"2017","value":31451.29}]  
+}, 
+{	"name": "Gen-Ago"                     
+,"series": [{"name":"2018","value":24934.08},{"name":"2017","value":33523.79}]  
+}, 
+{	"name": "Gen-Set"                     
+,"series": [{"name":"2018","value":26453.73},{"name":"2017","value":35202.79}]  
+}, 
+{	"name": "Gen-Ott"                     
+,"series": [{"name":"2018","value":28034.58},{"name":"2017","value":36963.48}]  
+}, 
+{	"name": "Gen-Nov"                     
+,"series": [{"name":"2018","value":29007.93},{"name":"2017","value":38067.93}]  
+}] 
+  ,"Istogramma2":[                                                                                                 
+                     {                                                                                             
+                       "name": "2018"                                                                          
+                       ,"series": [{ "name":"Gen","value":1894.7 }, 
+{ "name":"Feb","value":1293.5 }, 
+{ "name":"Mar","value":3516.23 }, 
+{ "name":"Apr","value":5328.72 }, 
+{ "name":"Mag","value":5009.61 }, 
+{ "name":"Giu","value":3609.02 }, 
+{ "name":"Lug","value":2727.05 }, 
+{ "name":"Ago","value":1555.25 }, 
+{ "name":"Set","value":1519.65 }, 
+{ "name":"Ott","value":1580.85 }, 
+{ "name":"Nov","value":973.35 }]     
+                     }                                                                                            
+                    ,{                                                                                             
+                       "name": "2017"                                                            
+                      ,"series": [{ "name":"Gen","value":2156.7 }, 
+{ "name":"Feb","value":2891.16 }, 
+{ "name":"Mar","value":5649.73 }, 
+{ "name":"Apr","value":5343.14 }, 
+{ "name":"Mag","value":6453.79 }, 
+{ "name":"Giu","value":5554.42 }, 
+{ "name":"Lug","value":3402.35 }, 
+{ "name":"Ago","value":2072.5 }, 
+{ "name":"Set","value":1679 }, 
+{ "name":"Ott","value":1760.69 }, 
+{ "name":"Nov","value":1104.45 }]      
+                     }                                                                                             
+                   ]                                                                                               
+   ,"Istogramma1Pezzi":[                            
+{	"name": "Gen-Gen"                     
+,"series": [{"name":"2018","value":63},{"name":"2017","value":74}]  
+}, 
+{	"name": "Gen-Feb"                     
+,"series": [{"name":"2018","value":113},{"name":"2017","value":132}]  
+}, 
+{	"name": "Gen-Mar"                     
+,"series": [{"name":"2018","value":233},{"name":"2017","value":246}]  
+}, 
+{	"name": "Gen-Apr"                     
+,"series": [{"name":"2018","value":474},{"name":"2017","value":209}]  
+}, 
+{	"name": "Gen-Mag"                     
+,"series": [{"name":"2018","value":677},{"name":"2017","value":277}]  
+}, 
+{	"name": "Gen-Giu"                     
+,"series": [{"name":"2018","value":843},{"name":"2017","value":235}]  
+}, 
+{	"name": "Gen-Lug"                     
+,"series": [{"name":"2018","value":976},{"name":"2017","value":166}]  
+}, 
+{	"name": "Gen-Ago"                     
+,"series": [{"name":"2018","value":1046},{"name":"2017","value":120}]  
+}, 
+{	"name": "Gen-Set"                     
+,"series": [{"name":"2018","value":1123},{"name":"2017","value":82}]  
+}, 
+{	"name": "Gen-Ott"                     
+,"series": [{"name":"2018","value":1188},{"name":"2017","value":79}]  
+}, 
+{	"name": "Gen-Nov"                     
+,"series": [{"name":"2018","value":1226},{"name":"2017","value":49}]  
+}] 
+  ,"Istogramma2Pezzi":[                                                                                                 
+                     {                                                                                             
+                       "name": "2018"                                                                          
+                       ,"series": [{ "name":"Gen","value":63 }, 
+{ "name":"Feb","value":50 }, 
+{ "name":"Mar","value":120 }, 
+{ "name":"Apr","value":241 }, 
+{ "name":"Mag","value":203 }, 
+{ "name":"Giu","value":166 }, 
+{ "name":"Lug","value":133 }, 
+{ "name":"Ago","value":70 }, 
+{ "name":"Set","value":77 }, 
+{ "name":"Ott","value":65 }, 
+{ "name":"Nov","value":38 }]     
+                     }                                                                                            
+                    ,{                                                                                             
+                       "name": "2017"                                                            
+                      ,"series": [{ "name":"Gen","value":74 }, 
+{ "name":"Feb","value":132 }, 
+{ "name":"Mar","value":246 }, 
+{ "name":"Apr","value":209 }, 
+{ "name":"Mag","value":277 }, 
+{ "name":"Giu","value":235 }, 
+{ "name":"Lug","value":166 }, 
+{ "name":"Ago","value":120 }, 
+{ "name":"Set","value":82 }, 
+{ "name":"Ott","value":79 }, 
+{ "name":"Nov","value":49 }]      
+                     }                                                                                             
+                   ]                                                                                               
+ ,"dati":[
+{  "TortaF":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":253}, {"name": "Parafarmaco","value":1009} ],  "TortaM":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":29.42}, {"name": "Parafarmaco","value":114.29} ],  "TortaC":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":110.91}, {"name": "Parafarmaco","value":431.54} ],"IdPeriodo":"MAT"
+,"Periodo"  :"Dic 2017-Nov 2018"
+
+,"datiTabRiass":[
+
+
+ {"Header": "Totale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 29965,"FDFatt": -24.14,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 1262,"FDPezzi": -26.54,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 4205,"MDFatt": -19.28,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 144,"MDPezzi": -23.19,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 15721,"CDFatt": -29.71,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 542,"CDPezzi": -29.79,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Etico","FFlagFatt": null,"FFatt": 0,"FDFatt": null,"FFlagPezzi": null,"FPezzi": 0,"FDPezzi": null,"FQuota": 0,"FRef": 0,"FRef80": 0,"FDitte": 0,"MFlagFatt": null,"MFatt": 0,"MDFatt": null,"MFlagPezzi": null,"MPezzi": 0,"MDPezzi": null,"MQuota": 0,"MRef": 0,"MRef80": 0,"MDitte": 0,"CFlagFatt": null,"CFatt": 0,"CDFatt": null,"CFlagPezzi": null,"CPezzi": 0,"CDPezzi": null,"CQuota": 0,"CRef": 0,"CRef80": 0,"CDitte": 0},
+{"Header": "Commerciale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 29965,"FDFatt": -24.14,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 1262,"FDPezzi": -26.54,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 4205,"MDFatt": -19.28,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 144,"MDPezzi": -23.19,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 15721,"CDFatt": -29.71,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 542,"CDPezzi": -29.79,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Otcsop","FFlagFatt": "icon wb-pause mfa-rotate-90 green-900  font-size-12","FFatt": 10175,"FDFatt": -0.14,"FFlagPezzi": "icon wb-pause mfa-rotate-90 green-900  font-size-12","FPezzi": 253,"FDPezzi": -0.39,"FQuota": 20.05,"FRef": 2,"FRef80": 1,"FDitte": 1,"MFlagFatt": "icon wb-arrow-up green-900  font-size-12","MFatt": 1349,"MDFatt": 12.31,"MFlagPezzi": "icon wb-arrow-up green-900  font-size-12","MPezzi": 29,"MDPezzi": 13.03,"MQuota": 20.47,"MRef": 2,"MRef80": 1,"MDitte": 1,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 4730,"CDFatt": -5.85,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 111,"CDPezzi": -6.77,"CQuota": 20.45,"CRef": 2,"CRef80": 1,"CDitte": 1},
+{"Header": "Parafarmaco","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 19790,"FDFatt": -32.48,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 1009,"FDPezzi": -31.08,"FQuota": 79.95,"FRef": 70,"FRef80": 23,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 2856,"MDFatt": -28.74,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 114,"MDPezzi": -29.04,"MQuota": 79.53,"MRef": 21,"MRef80": 10,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 10991,"CDFatt": -36.62,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 432,"CDPezzi": -33.98,"CQuota": 79.55,"CRef": 21,"CRef80": 10,"CDitte": 9} 
+
+]
+
+}
+,{  "TortaF":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":22}, {"name": "Parafarmaco","value":81} ],  "TortaM":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":1.83}, {"name": "Parafarmaco","value":8} ],  "TortaC":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":7.76}, {"name": "Parafarmaco","value":32.89} ],"IdPeriodo":"BIM"
+,"Periodo"  :"Ott 2018-Nov 2018"
+
+,"datiTabRiass":[
+
+
+ {"Header": "Totale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 2554,"FDFatt": -10.85,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 103,"FDPezzi": -19.53,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 304,"MDFatt": -19.22,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 10,"MDPezzi": -23.48,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 1255,"CDFatt": -27.33,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 41,"CDPezzi": -28.79,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Etico","FFlagFatt": null,"FFatt": 0,"FDFatt": null,"FFlagPezzi": null,"FPezzi": 0,"FDPezzi": null,"FQuota": 0,"FRef": 0,"FRef80": 0,"FDitte": 0,"MFlagFatt": null,"MFatt": 0,"MDFatt": null,"MFlagPezzi": null,"MPezzi": 0,"MDPezzi": null,"MQuota": 0,"MRef": 0,"MRef80": 0,"MDitte": 0,"CFlagFatt": null,"CFatt": 0,"CDFatt": null,"CFlagPezzi": null,"CPezzi": 0,"CDPezzi": null,"CQuota": 0,"CRef": 0,"CRef80": 0,"CDitte": 0},
+{"Header": "Commerciale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 2554,"FDFatt": -10.85,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 103,"FDPezzi": -19.53,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 304,"MDFatt": -19.22,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 10,"MDPezzi": -23.48,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 1255,"CDFatt": -27.33,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 41,"CDPezzi": -28.79,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Otcsop","FFlagFatt": "icon wb-arrow-up green-900  font-size-12","FFatt": 878,"FDFatt": 24.74,"FFlagPezzi": "icon wb-arrow-up green-900  font-size-12","FPezzi": 22,"FDPezzi": 22.22,"FQuota": 21.36,"FRef": 2,"FRef80": 1,"FDitte": 1,"MFlagFatt": "icon wb-arrow-up green-900  font-size-12","MFatt": 85,"MDFatt": 18.33,"MFlagPezzi": "icon wb-arrow-up green-900  font-size-12","MPezzi": 2,"MDPezzi": 19.56,"MQuota": 18.58,"MRef": 2,"MRef80": 1,"MDitte": 1,"CFlagFatt": "icon wb-arrow-up green-900  font-size-12","CFatt": 339,"CDFatt": 11.88,"CFlagPezzi": "icon wb-arrow-up green-900  font-size-12","CPezzi": 8,"CDPezzi": 8.26,"CQuota": 19.09,"CRef": 2,"CRef80": 1,"CDitte": 1},
+{"Header": "Parafarmaco","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 1676,"FDFatt": -22.44,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 81,"FDPezzi": -26.36,"FQuota": 78.64,"FRef": 70,"FRef80": 23,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 220,"MDFatt": -28.02,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 8,"MDPezzi": -29.3,"MQuota": 81.42,"MRef": 21,"MRef80": 10,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 916,"CDFatt": -35.68,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 33,"CDPezzi": -34.1,"CQuota": 80.91,"CRef": 21,"CRef80": 10,"CDitte": 9} 
+
+]
+
+}
+,{  "TortaF":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":248}, {"name": "Parafarmaco","value":978} ],  "TortaM":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":28.59}, {"name": "Parafarmaco","value":108.62} ],  "TortaC":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":107.24}, {"name": "Parafarmaco","value":404.41} ],"IdPeriodo":"PROG"
+,"Periodo"  :"Gen - Nov 2018"
+
+,"datiTabRiass":[
+
+
+ {"Header": "Totale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 29008,"FDFatt": -23.8,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 1226,"FDPezzi": -26.54,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 4007,"MDFatt": -20.07,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 137,"MDPezzi": -24.11,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 14744,"CDFatt": -31.13,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 512,"CDPezzi": -31.12,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Etico","FFlagFatt": null,"FFatt": 0,"FDFatt": null,"FFlagPezzi": null,"FPezzi": 0,"FDPezzi": null,"FQuota": 0,"FRef": 0,"FRef80": 0,"FDitte": 0,"MFlagFatt": null,"MFatt": 0,"MDFatt": null,"MFlagPezzi": null,"MPezzi": 0,"MDPezzi": null,"MQuota": 0,"MRef": 0,"MRef80": 0,"MDitte": 0,"CFlagFatt": null,"CFatt": 0,"CDFatt": null,"CFlagPezzi": null,"CPezzi": 0,"CDPezzi": null,"CQuota": 0,"CRef": 0,"CRef80": 0,"CDitte": 0},
+{"Header": "Commerciale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 29008,"FDFatt": -23.8,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 1226,"FDPezzi": -26.54,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 4007,"MDFatt": -20.07,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 137,"MDPezzi": -24.11,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 14744,"CDFatt": -31.13,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 512,"CDPezzi": -31.12,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Otcsop","FFlagFatt": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","FFatt": 9975,"FDFatt": 1.07,"FFlagPezzi": "icon wb-pause mfa-rotate-90 green-900  font-size-12","FPezzi": 248,"FDPezzi": 0.81,"FQuota": 20.23,"FRef": 2,"FRef80": 1,"FDitte": 1,"MFlagFatt": "icon wb-arrow-up green-900  font-size-12","MFatt": 1309,"MDFatt": 12.6,"MFlagPezzi": "icon wb-arrow-up green-900  font-size-12","MPezzi": 29,"MDPezzi": 13.47,"MQuota": 20.83,"MRef": 2,"MRef80": 1,"MDitte": 1,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 4568,"CDFatt": -5.48,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 107,"CDPezzi": -6.3,"CQuota": 20.96,"CRef": 2,"CRef80": 1,"CDitte": 1},
+{"Header": "Parafarmaco","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 19033,"FDFatt": -32.5,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 978,"FDPezzi": -31.27,"FQuota": 79.77,"FRef": 70,"FRef80": 23,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 2698,"MDFatt": -29.94,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 109,"MDPezzi": -30.19,"MQuota": 79.17,"MRef": 21,"MRef80": 10,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 10175,"CDFatt": -38.61,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 404,"CDPezzi": -35.64,"CQuota": 79.04,"CRef": 21,"CRef80": 10,"CDitte": 9} 
+
+]
+
+}
+,{  "TortaF":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":8}, {"name": "Parafarmaco","value":30} ],  "TortaM":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":0.83}, {"name": "Parafarmaco","value":3.8} ],  "TortaC":[ {"name": "Etico","value":0}, {"name": "Otc+Sop","value":4.07}, {"name": "Parafarmaco","value":14.64} ],"IdPeriodo":"UM"
+,"Periodo"  :"Nov 2018"
+
+,"datiTabRiass":[
+
+
+ {"Header": "Totale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 973,"FDFatt": -11.87,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 38,"FDPezzi": -22.45,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 142,"MDFatt": -23.54,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 5,"MDPezzi": -26.81,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 600,"CDFatt": -35.15,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 19,"CDPezzi": -36.83,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Etico","FFlagFatt": null,"FFatt": 0,"FDFatt": null,"FFlagPezzi": null,"FPezzi": 0,"FDPezzi": null,"FQuota": 0,"FRef": 0,"FRef80": 0,"FDitte": 0,"MFlagFatt": null,"MFatt": 0,"MDFatt": null,"MFlagPezzi": null,"MPezzi": 0,"MDPezzi": null,"MQuota": 0,"MRef": 0,"MRef80": 0,"MDitte": 0,"CFlagFatt": null,"CFatt": 0,"CDFatt": null,"CFlagPezzi": null,"CPezzi": 0,"CDPezzi": null,"CQuota": 0,"CRef": 0,"CRef80": 0,"CDitte": 0},
+{"Header": "Commerciale","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 973,"FDFatt": -11.87,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 38,"FDPezzi": -22.45,"FQuota": 100,"FRef": 72,"FRef80": 16,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 142,"MDFatt": -23.54,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 5,"MDPezzi": -26.81,"MQuota": 100,"MRef": 23,"MRef80": 9,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 600,"CDFatt": -35.15,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 19,"CDPezzi": -36.83,"CQuota": 100,"CRef": 23,"CRef80": 9,"CDitte": 9},
+{"Header": "Otcsop","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 319,"FDFatt": -7.37,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 8,"FDPezzi": -11.11,"FQuota": 21.05,"FRef": 2,"FRef80": 1,"FDitte": 1,"MFlagFatt": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MFatt": 39,"MDFatt": 3.22,"MFlagPezzi": "icon wb-arrow-up green-900  mfa-rotate-45  font-size-12","MPezzi": 1,"MDPezzi": 4.02,"MQuota": 18.01,"MRef": 2,"MRef80": 1,"MDitte": 1,"CFlagFatt": "icon wb-arrow-up green-900  font-size-12","CFatt": 180,"CDFatt": 12.53,"CFlagPezzi": "icon wb-arrow-up green-900  font-size-12","CPezzi": 4,"CDPezzi": 8.57,"CQuota": 21.76,"CRef": 2,"CRef80": 1,"CDitte": 1},
+{"Header": "Parafarmaco","FFlagFatt": "icon wb-arrow-down red-900  font-size-12","FFatt": 654,"FDFatt": -13.91,"FFlagPezzi": "icon wb-arrow-down red-900  font-size-12","FPezzi": 30,"FDPezzi": -25,"FQuota": 78.95,"FRef": 70,"FRef80": 23,"FDitte": 22,"MFlagFatt": "icon wb-arrow-down red-900  font-size-12","MFatt": 103,"MDFatt": -30.34,"MFlagPezzi": "icon wb-arrow-down red-900  font-size-12","MPezzi": 4,"MDPezzi": -31.29,"MQuota": 81.99,"MRef": 21,"MRef80": 10,"MDitte": 9,"CFlagFatt": "icon wb-arrow-down red-900  font-size-12","CFatt": 419,"CDFatt": -45.15,"CFlagPezzi": "icon wb-arrow-down red-900  font-size-12","CPezzi": 15,"CDPezzi": -43.41,"CQuota": 78.24,"CRef": 21,"CRef80": 10,"CDitte": 9} 
+
+]
+
+}
+
+]
+}

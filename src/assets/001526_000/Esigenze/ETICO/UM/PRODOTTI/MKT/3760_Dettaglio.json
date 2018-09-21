@@ -1,0 +1,13 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "ESKIM20CPS MOLLI 1000MG","DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 1,"FPz": 1,"FFatt": 878.54,"FFatt_D": 6.9,"FPezzi": 62,"FPezzi_D": 6.9,"FQuota": 45.93,"FPrezzo": 14.17,"MFt": 1,"MPz": 1,"MFatt": 259.76,"MFatt_D": -11.61,"MPezzi": 18,"MPezzi_D": -13.4,"MQuota": 36.45,"MPrezzo": 14.17},
+{"DscProd": "OLEVIA20CPS MOLLI 1000MG","DscDitta": "IBSA FARMACEUTICI ITALIA Srl","FFt": 2,"FPz": 2,"FFatt": 501.81,"FFatt_D": -60.55,"FPezzi": 43,"FPezzi_D": -60.55,"FQuota": 31.85,"FPrezzo": 11.67,"MFt": 2,"MPz": 2,"MFatt": 163.72,"MFatt_D": -54.52,"MPezzi": 14,"MPezzi_D": -54.68,"MQuota": 27.89,"MPrezzo": 11.66},
+{"DscProd": "ESAPENT20CPS MOLLI 1000MG","DscDitta": "PFIZER ITALIA Srl","FFt": 3,"FPz": 4,"FFatt": 113.36,"FFatt_D": -20,"FPezzi": 8,"FPezzi_D": -20,"FQuota": 5.93,"FPrezzo": 14.17,"MFt": 3,"MPz": 3,"MFatt": 84.14,"MFatt_D": -10.24,"MPezzi": 6,"MPezzi_D": -9.47,"MQuota": 11.81,"MPrezzo": 14.16},
+{"DscProd": "TRISCUDILFL 20CPS MOLLI 1G","DscDitta": "PIAM FARMACEUTICI SpA","FFt": 4,"FPz": 3,"FFatt": 110,"FFatt_D": -9.09,"FPezzi": 10,"FPezzi_D": -9.09,"FQuota": 7.41,"FPrezzo": 11,"MFt": 5,"MPz": 5,"MFatt": 19.4,"MFatt_D": 74.09,"MPezzi": 2,"MPezzi_D": 97.28,"MQuota": 3.5,"MPrezzo": 11},
+{"DscProd": "SEACOR20CPS MOLLI 1000MG","DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 5,"FPz": 5,"FFatt": 85.02,"FFatt_D": -45.45,"FPezzi": 6,"FPezzi_D": -45.45,"FQuota": 4.44,"FPrezzo": 14.17,"MFt": 4,"MPz": 4,"MFatt": 83.35,"MFatt_D": -17.36,"MPezzi": 6,"MPezzi_D": -15.86,"MQuota": 11.69,"MPrezzo": 14.17},
+{"DscProd": "TRIOREG20CPS MOLLI 1000MG","DscDitta": "ALFA WASSERMANN SpA","FFt": 6,"FPz": 6,"FFatt": 70.02,"FFatt_D": 100,"FPezzi": 6,"FPezzi_D": 100,"FQuota": 4.44,"FPrezzo": 11.67,"MFt": 9,"MPz": 9,"MFatt": 12.88,"MFatt_D": -48.61,"MPezzi": 1,"MPezzi_D": -53.48,"MQuota": 2.19,"MPrezzo": 11.66},
+{"DscProd": "AGEMO20CPS MOLLI 1000MG","DscDitta": "IBN SAVIO Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"MFt": 6,"MPz": 6,"MFatt": 11.1,"MFatt_D": 56.26,"MPezzi": 1,"MPezzi_D": 54.8,"MQuota": 2.01,"MPrezzo": 11},
+{"DscProd": "Altre 2 referenze","DscDitta": "2 ditte coinvolte","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"MFt": 7,"MPz": 7,"MFatt": 7.91,"MFatt_D": 62.56,"MPezzi": 1,"MPezzi_D": 177.07,"MQuota": 1.17,"MPrezzo": 13.95},
+{"DscProd": "OMEGA 3 DOC20CPS MOLLI 1000MG","DscDitta": "DOC GENERICI Srl","FFt": 9,"FPz": 9,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"MFt": 8,"MPz": 8,"MFatt": 18.15,"MFatt_D": 42.76,"MPezzi": 2,"MPezzi_D": 72.96,"MQuota": 3.28,"MPrezzo": 11} 
+]}

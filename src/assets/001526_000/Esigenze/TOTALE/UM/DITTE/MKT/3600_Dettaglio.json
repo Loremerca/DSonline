@@ -1,0 +1,15 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 295.5,"FFatt_D": 24.41,"FPezzi": 48,"FPezzi_D": 6.67,"FQuota": 58.54,"FPrezzo": 6.16,"FRef": 2,"MFt": 1,"MPz": 1,"MFatt": 168.64,"MFatt_D": 16.96,"MPezzi": 18,"MPezzi_D": 3.11,"MQuota": 49.26,"MPrezzo": 9.24,"MRef": 3},
+{"DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 2,"FPz": 2,"FFatt": 196.75,"FFatt_D": null,"FPezzi": 17,"FPezzi_D": null,"FQuota": 20.73,"FPrezzo": 11.57,"FRef": 2,"MFt": 2,"MPz": 2,"MFatt": 73.59,"MFatt_D": 24.86,"MPezzi": 6,"MPezzi_D": 32.22,"MQuota": 15.31,"MPrezzo": 12.97,"MRef": 2},
+{"DscDitta": "VISUFARMA SpA","FFt": 3,"FPz": 5,"FFatt": 36,"FFatt_D": 33.33,"FPezzi": 4,"FPezzi_D": 33.33,"FQuota": 4.88,"FPrezzo": 9,"FRef": 1,"MFt": 4,"MPz": 4,"MFatt": 5.18,"MFatt_D": -3.73,"MPezzi": 0.577,"MPezzi_D": -3.83,"MQuota": 1.56,"MPrezzo": 8.98,"MRef": 1},
+{"DscDitta": "SPA (SOC.PRO.ANTIBIOTICI) SpA","FFt": 4,"FPz": 4,"FFatt": 35.05,"FFatt_D": 46.04,"FPezzi": 5,"FPezzi_D": 25,"FQuota": 6.1,"FPrezzo": 7.01,"FRef": 2,"MFt": 7,"MPz": 7,"MFatt": 42.99,"MFatt_D": 9.51,"MPezzi": 5,"MPezzi_D": -1.98,"MQuota": 14.53,"MPrezzo": 7.99,"MRef": 2},
+{"DscDitta": "ANGENERICO SpA","FFt": 5,"FPz": 3,"FFatt": 28.2,"FFatt_D": 20,"FPezzi": 6,"FPezzi_D": 20,"FQuota": 7.32,"FPrezzo": 4.7,"FRef": 1,"MFt": 11,"MPz": 11,"MFatt": 2.33,"MFatt_D": 27.38,"MPezzi": 0.499,"MPezzi_D": 27.69,"MQuota": 1.35,"MPrezzo": 4.66,"MRef": 1},
+{"DscDitta": "DISPHAR INTERNATIONAL B.V.","FFt": 6,"FPz": 6,"FFatt": 12,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 2.44,"FPrezzo": 6,"FRef": 1,"MFt": 9,"MPz": 9,"MFatt": 3.26,"MFatt_D": -12.38,"MPezzi": 0.324,"MPezzi_D": -15.1,"MQuota": 0.87,"MPrezzo": 10.05,"MRef": 1},
+{"DscDitta": "ANGELINI SpA","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 3,"MFt": 10,"MPz": 10,"MFatt": 24.28,"MFatt_D": -6.41,"MPezzi": 2,"MPezzi_D": 0,"MQuota": 5,"MPrezzo": 13.1,"MRef": 3},
+{"DscDitta": "GMM FARMA Srl","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 3,"MPz": 3,"MFatt": 1.8,"MFatt_D": 41.23,"MPezzi": 0.234,"MPezzi_D": 19.75,"MQuota": 0.63,"MPrezzo": 7.67,"MRef": 1},
+{"DscDitta": "SANDOZ SpA","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 6,"MPz": 5,"MFatt": 6.42,"MFatt_D": -1.36,"MPezzi": 1,"MPezzi_D": -28.22,"MQuota": 3.69,"MPrezzo": 4.7,"MRef": 2},
+{"DscDitta": "SANOFI SpA","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": null,"FRef": 1,"MFt": 5,"MPz": 6,"MFatt": 5.41,"MFatt_D": -14.09,"MPezzi": 0.678,"MPezzi_D": -15.97,"MQuota": 1.83,"MPrezzo": 7.97,"MRef": 1},
+{"DscDitta": "20 ditte coinvolte","FFt": 11,"FPz": 11,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 8,"MPz": 8,"MFatt": 16.25,"MFatt_D": 46.95,"MPezzi": 2,"MPezzi_D": 24.11,"MQuota": 6.05,"MPrezzo": 6.53,"MRef": 0} 
+]}

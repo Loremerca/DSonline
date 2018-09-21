@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Colliri"
+ ,"Tempo":"Ott 2018-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 1819
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 781.1
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1574.46
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 1741
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 742.78
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1469.12
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 22586.69,"M": 10244.71,"C": 20455.57},
+{"Header": "Fatturato diff","F": 2.94,"M": 5.65,"C": 7.46},
+{"Header": "Pezzi","F": 1819,"M": 781.1,"C": 1574.46},
+{"Header": "Pezzi diff","F": 4.48,"M": 5.16,"C": 7.17} 
+]
+}

@@ -1,0 +1,9 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "PLANTA MEDICA Srl","FFt": 1,"FPz": 1,"FFatt": 34.8,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 60,"FPrezzo": 11.6,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 111.74,"CFatt_D": 54.52,"CPezzi": 8,"CPezzi_D": 42.22,"CQuota": 41.25,"CPrezzo": 13.24,"CRef": 1},
+{"DscDitta": "LABORATORI LEGREN Srl","FFt": 2,"FPz": 2,"FFatt": 26,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 20,"FPrezzo": 26,"FRef": 1,"CFt": 4,"CPz": 4,"CFatt": 76.71,"CFatt_D": null,"CPezzi": 3,"CPezzi_D": null,"CQuota": 16.02,"CPrezzo": 23.41,"CRef": 1},
+{"DscDitta": "PHOENIX Srl - LONGLIFE","FFt": 3,"FPz": 3,"FFatt": 14.99,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 20,"FPrezzo": 14.99,"FRef": 1,"CFt": 2,"CPz": 2,"CFatt": 3.08,"CFatt_D": 392.86,"CPezzi": 0.205,"CPezzi_D": 392,"CQuota": 1,"CPrezzo": 14.99,"CRef": 0},
+{"DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 3,"CPz": 3,"CFatt": 88.55,"CFatt_D": null,"CPezzi": 8,"CPezzi_D": null,"CQuota": 41.38,"CPrezzo": 10.46,"CRef": 1},
+{"DscDitta": "11 ditte coinvolte","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 5,"CPz": 5,"CFatt": 0.71,"CFatt_D": -92.43,"CPezzi": 0,"CPezzi_D": -100,"CQuota": 0.37,"CPrezzo": 0.91,"CRef": 0} 
+]}

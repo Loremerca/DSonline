@@ -10,19 +10,26 @@ import {ReferenzeComponent} from './views/esigenza/referenze.component';
 import {ProvachartComponent} from './views/provachart/provachart.component';
 import {MerceologicaComponent} from './views/merceologica/merceologica.component';
 import {MerceologicarefComponent} from './views/merceologica/merceologicaref.component';
+import {RiepilogoComponent} from "./views/esigenza/riepilogo.component";
+import {AnalisiReferenzeComponent} from "./views/analisi-referenze/analisi-referenze.component";
+import {PianoLavoroComponent} from "./views/piano-lavoro/piano-lavoro.component";
+import {HomeComponent} from "./views/home/home.component";
 
 
 const appRoutes: Routes = [
+  {path: 'home', component: HomeComponent},
   {path: 'dashboard', component: DashboardComponent},
   {path: 'analisi_scontrini', component: AnalisiScontriniComponent},
   {path: 'analisi_ingressi', component: AnalisiIngressiComponent},
+  {path: 'analisi_referenze', component: AnalisiReferenzeComponent},
+  {path: 'piano_lavoro', component: PianoLavoroComponent},
   {path: 'target_consolidato', component: TargetConsolidatoComponent },
   {path: 'complementarieta', component: ComplementarietaComponent },
   {path: 'esigenza/:id', component: EsigenzaComponent },
+  {path: 'riepilogoesigenze', component: RiepilogoComponent },
   {path: 'referenze/:id/:ref/:tipo', component: ReferenzeComponent },
   {path: 'merceologica/:id/:nome', component: MerceologicaComponent },
   {path: 'merceologicaref/:id/:nome', component: MerceologicarefComponent },
-  {path: 'prova', component: ProvachartComponent },
   /*{ path: 'hero/:id',      component: HeroDetailComponent },
   {
     path: 'heroes',
@@ -31,7 +38,7 @@ const appRoutes: Routes = [
   },*/
   {
     path: '',
-    redirectTo: '/dashboard',
+    redirectTo: '/home',
     pathMatch: 'full'
   }
 ];
@@ -42,6 +49,7 @@ const appRoutes: Routes = [
     RouterModule.forRoot(
       appRoutes,
       {
+        scrollPositionRestoration: 'enabled'
         // enableTracing: true, // <-- debugging purposes only
 
       }

@@ -278,29 +278,29 @@
 
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
   color: #fff;
-  background-color: #EC5F68;
+  background-color: #7C2529;
 }
 
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active:hover {
   color: #fff;
-  background-color: #7C2529;
+  background-color: #451f22;
 }
 .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link:hover {
   color: #fff !important;
-  background-color: #7C2529;
+  background-color: #451f22;
 }
 
 .nav-tabs .nav-item.open .nav-link, .nav-tabs .nav-item.open .nav-link:focus, .nav-tabs .nav-item.open .nav-link:hover, .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-item.show .nav-link:focus, .nav-tabs .nav-item.show .nav-link:hover, .nav-tabs .nav-link.active, .nav-tabs .nav-link.active:focus, .nav-tabs .nav-link.active:hover {
   border-color: transparent;
-  border-bottom-color: #EC5F68;
+  border-bottom-color: #451f22;
 }
 .nav-tabs .nav-link .nav-link:hover{
   border-color: transparent;
-  border-bottom-color: #7C2529;
+  border-bottom-color: #451f22;
 }
 .panel-heading-tab {
   padding: 10px 30px 0;
-  background-color: #EC5F68;
+  background-color: #7C2529;
 }
 
 .mfa-rotate-45 {
@@ -345,19 +345,39 @@
 }
 .btn-primary, .btn-primary:focus, .btn-primary:active, .btn-primary:visited {
   color: #fff;
-  background-color: #EC5F68;
-  border-color: #EC5F68;
+  background-color: #7C2529;
+  border-color: #7C2529;
   box-shadow: none;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #7C2529;
-  border-color: #7C2529;
+  background-color: #451f22;
+  border-color: #451f22;
   box-shadow: none;
 }
 .btn-primary:not([disabled]):not(.disabled).active.focus, .btn-primary:not([disabled]):not(.disabled).active.hover, .btn-primary:not([disabled]):not(.disabled).active:focus, .btn-primary:not([disabled]):not(.disabled).active:hover, .btn-primary:not([disabled]):not(.disabled):active.focus, .btn-primary:not([disabled]):not(.disabled):active.hover, .btn-primary:not([disabled]):not(.disabled):active:focus, .btn-primary:not([disabled]):not(.disabled):active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle.hover, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover, .show>.btn-primary.dropdown-toggle.focus, .show>.btn-primary.dropdown-toggle.hover, .show>.btn-primary.dropdown-toggle:focus, .show>.btn-primary.dropdown-toggle:hover
 {
   color: #fff;
-  background-color: #EC5F68;
-  border-color: #EC5F68;
+  background-color: #451f22;
+  border-color: #451f22;
+}
+
+.card-header{
+  padding: 10px 20px 0 0;
+}
+.farmacia{
+    color: #fff !important;
+    background-color: #7C2529 !important;
+}
+.mercato{
+    color: #fff !important;
+    background-color: #388E3C !important;
+}
+.cluster{
+    color: #fff !important;
+    background-color: #FFA000 !important;
+}
+@media print {
+  .site-menubar { display: none}
+  .site-navbar { display: none}
 }

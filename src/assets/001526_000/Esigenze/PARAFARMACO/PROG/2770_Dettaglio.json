@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antivaricosi"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 3901
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 444.25
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1175.71
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 3738
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 463.05
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1263.29
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 61734.12,"M": 7830.08,"C": 20009.67},
+{"Header": "Fatturato diff","F": 6.59,"M": -2.31,"C": -5.56},
+{"Header": "Pezzi","F": 3901,"M": 444.25,"C": 1175.71},
+{"Header": "Pezzi diff","F": 4.36,"M": -4.06,"C": -6.93} 
+]
+}

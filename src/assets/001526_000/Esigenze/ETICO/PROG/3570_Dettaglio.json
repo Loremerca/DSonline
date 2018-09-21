@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Vie urinarie"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 0
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 0.03
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 0
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 0
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 0.01
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 0
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 0,"M": 0.63,"C": 0},
+{"Header": "Fatturato diff","F": null,"M": 174.4,"C": null},
+{"Header": "Pezzi","F": 0,"M": 0.03,"C": 0},
+{"Header": "Pezzi diff","F": null,"M": 180.67,"C": null} 
+]
+}

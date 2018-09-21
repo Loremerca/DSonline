@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Immunostimolanti"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 4195
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 557.54
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1626.88
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 4093
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 548.2
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 1596.8
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 76039.1,"M": 10208.08,"C": 29516.16},
+{"Header": "Fatturato diff","F": 0.38,"M": 1.95,"C": 1.37},
+{"Header": "Pezzi","F": 4195,"M": 557.54,"C": 1626.88},
+{"Header": "Pezzi diff","F": 2.49,"M": 1.7,"C": 1.88} 
+]
+}

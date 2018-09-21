@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 422.7,"FFatt_D": 23.42,"FPezzi": 68,"FPezzi_D": -2.86,"FQuota": 53.97,"FPrezzo": 6.22,"FRef": 4,"MFt": 1,"MPz": 1,"MFatt": 167.37,"MFatt_D": 30.07,"MPezzi": 20,"MPezzi_D": 4.76,"MQuota": 43.75,"MPrezzo": 8.22,"MRef": 6},
+{"DscDitta": "RECKITT BENCKISER H.(IT.) SpA","FFt": 2,"FPz": 2,"FFatt": 265.4,"FFatt_D": 1.57,"FPezzi": 44,"FPezzi_D": 2.33,"FQuota": 34.92,"FPrezzo": 6.03,"FRef": 5,"MFt": 2,"MPz": 2,"MFatt": 134.09,"MFatt_D": 23.6,"MPezzi": 15,"MPezzi_D": 16.41,"MQuota": 31.67,"MPrezzo": 9.1,"MRef": 7},
+{"DscDitta": "BOEHRINGER INGELHEIM IT.SpA","FFt": 3,"FPz": 3,"FFatt": 43.55,"FFatt_D": -38.23,"FPezzi": 7,"FPezzi_D": -41.67,"FQuota": 5.56,"FPrezzo": 6.22,"FRef": 2,"MFt": 4,"MPz": 4,"MFatt": 6.07,"MFatt_D": -27.78,"MPezzi": 0.794,"MPezzi_D": -27.59,"MQuota": 1.71,"MPrezzo": 7.64,"MRef": 2},
+{"DscDitta": "PFIZER ITALIA Srl","FFt": 4,"FPz": 4,"FFatt": 32.4,"FFatt_D": -46.49,"FPezzi": 3,"FPezzi_D": -50,"FQuota": 2.38,"FPrezzo": 10.8,"FRef": 2,"MFt": 9,"MPz": 7,"MFatt": 38.49,"MFatt_D": 11.16,"MPezzi": 4,"MPezzi_D": 10.13,"MQuota": 8.25,"MPrezzo": 10.03,"MRef": 4},
+{"DscDitta": "A.MENARINI IND.FARM.RIUN.Srl","FFt": 5,"FPz": 5,"FFatt": 12.6,"FFatt_D": -66.67,"FPezzi": 2,"FPezzi_D": -66.67,"FQuota": 1.59,"FPrezzo": 6.3,"FRef": 1,"MFt": 7,"MPz": 9,"MFatt": 8.04,"MFatt_D": 11.02,"MPezzi": 1,"MPezzi_D": -4.4,"MQuota": 2.53,"MPrezzo": 6.85,"MRef": 2},
+{"DscDitta": "DOC GENERICI Srl","FFt": 6,"FPz": 6,"FFatt": 5.85,"FFatt_D": 0.86,"FPezzi": 1,"FPezzi_D": 0,"FQuota": 0.79,"FPrezzo": 5.85,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 6.05,"MFatt_D": 2.64,"MPezzi": 0.96,"MPezzi_D": 1.36,"MQuota": 2.06,"MPrezzo": 6.31,"MRef": 1},
+{"DscDitta": "SELLA Srl","FFt": 7,"FPz": 7,"FFatt": 4.5,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 0.79,"FPrezzo": 4.5,"FRef": 1,"MFt": 3,"MPz": 6,"MFatt": 9.34,"MFatt_D": 14.94,"MPezzi": 2,"MPezzi_D": 29.46,"MQuota": 3.75,"MPrezzo": 5.35,"MRef": 1},
+{"DscDitta": "NOVA ARGENTIA SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 6,"MPz": 8,"MFatt": 5.47,"MFatt_D": 39.06,"MPezzi": 0.955,"MPezzi_D": 42.76,"MQuota": 2.05,"MPrezzo": 5.73,"MRef": 1},
+{"DscDitta": "22 ditte coinvolte","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 8,"MPz": 3,"MFatt": 12.07,"MFatt_D": -17.32,"MPezzi": 2,"MPezzi_D": -17.3,"MQuota": 4.21,"MPrezzo": 6.14,"MRef": 0} 
+]}

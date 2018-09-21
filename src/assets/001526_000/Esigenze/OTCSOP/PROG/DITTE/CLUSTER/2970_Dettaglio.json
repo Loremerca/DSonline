@@ -1,0 +1,11 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "JOHNSON & JOHNSON SpA","FFt": 1,"FPz": 1,"FFatt": 3255.05,"FFatt_D": 57.17,"FPezzi": 347,"FPezzi_D": 33.46,"FQuota": 80.32,"FPrezzo": 9.38,"FRef": 2,"CFt": 1,"CPz": 1,"CFatt": 2280.99,"CFatt_D": 51.5,"CPezzi": 180,"CPezzi_D": 28.19,"CQuota": 77.55,"CPrezzo": 12.66,"CRef": 2},
+{"DscDitta": "CRINOS SpA","FFt": 2,"FPz": 3,"FFatt": 345.6,"FFatt_D": -1.03,"FPezzi": 32,"FPezzi_D": -3.03,"FQuota": 7.41,"FPrezzo": 10.8,"FRef": 1,"CFt": 2,"CPz": 2,"CFatt": 413.91,"CFatt_D": 16.72,"CPezzi": 36,"CPezzi_D": 17.07,"CQuota": 15.56,"CPrezzo": 11.45,"CRef": 2},
+{"DscDitta": "I.B.I.GIOVANNI LORENZINI SpA","FFt": 3,"FPz": 2,"FFatt": 313.7,"FFatt_D": 38.56,"FPezzi": 44,"FPezzi_D": 37.5,"FQuota": 10.19,"FPrezzo": 7.13,"FRef": 1,"CFt": 6,"CPz": 6,"CFatt": 21.03,"CFatt_D": 43.51,"CPezzi": 3,"CPezzi_D": 50,"CQuota": 1.23,"CPrezzo": 7.35,"CRef": 1},
+{"DscDitta": "GIULIANI SpA","FFt": 4,"FPz": 4,"FFatt": 44.7,"FFatt_D": 6.43,"FPezzi": 6,"FPezzi_D": 0,"FQuota": 1.39,"FPrezzo": 7.45,"FRef": 1,"CFt": 4,"CPz": 4,"CFatt": 39.84,"CFatt_D": -28.53,"CPezzi": 5,"CPezzi_D": -22.08,"CQuota": 1.99,"CPrezzo": 8.61,"CRef": 1},
+{"DscDitta": "MARCO ANTONETTO SpA","FFt": 5,"FPz": 5,"FFatt": 33.75,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 0.69,"FPrezzo": 11.25,"FRef": 1,"CFt": 3,"CPz": 3,"CFatt": 14.31,"CFatt_D": null,"CPezzi": 1,"CPezzi_D": null,"CQuota": 0.51,"CPrezzo": 12.14,"CRef": 1},
+{"DscDitta": "BRACCO SpA DIV.FARMACEUTICA","FFt": 6,"FPz": 6,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 5,"CPz": 5,"CFatt": 54.82,"CFatt_D": -2.04,"CPezzi": 7,"CPezzi_D": -1.18,"CQuota": 3,"CPrezzo": 7.87,"CRef": 1},
+{"DscDitta": "3 ditte coinvolte","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 7,"CPz": 7,"CFatt": 2.84,"CFatt_D": null,"CPezzi": 0,"CPezzi_D": null,"CQuota": 0.17,"CPrezzo": 2.42,"CRef": 0} 
+]}

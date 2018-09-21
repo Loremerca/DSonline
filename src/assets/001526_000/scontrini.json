@@ -1,0 +1,70 @@
+{
+"Titolo":"Analisi transazioni e scontrini","datiP":[
+{"Periodo":"Dic 2017-Nov 2018"
+                 ,"datiP":[
+{"Header":"GIORNI MEDI MENSILI DI APERTURA","Filtro":"","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 27.92,"C_Delta": 0.25},
+{"Header":"N TRANSAZIONI GIORNALIERE","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":583.49,"C_Delta": 0.06},
+{"Header":"VALORE MEDIO TRANSAZIONI","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 25.77,"C_Delta": 2.86},
+{"Header":"PEZZI MEDI PER TRANSAZIONE","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  2.71,"C_Delta": 1.00},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  9.53,"C_Delta": 1.83},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":411.03,"C_Delta": 0.41},
+{"Header":"INCIDENZA SCONTRINI COMM SU TRANSAZIONI","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.70,"C_Delta": 0.35},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 20.78,"C_Delta": 2.68},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  2.30,"C_Delta": 0.80},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  9.04,"C_Delta": 1.87},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":238.76,"C_Delta": 0.25},
+{"Header":"INCIDENZA SCONTRINI AUTOM SU COMM","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.58,"C_Delta":-0.16},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 17.11,"C_Delta": 3.16},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  1.42,"C_Delta": 0.04},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 12.03,"C_Delta": 3.12},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 25.29,"C_Delta": 0.17},
+{"Header":"INCIDENZA SCONTRINI APA SU AUTOM","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.11,"C_Delta":-0.08},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 15.01,"C_Delta": 2.52},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  1.12,"C_Delta":-0.12},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 13.45,"C_Delta": 2.65}]}
+,{"Periodo":"Gen - Nov 2018"
+                 ,"datiP":[
+{"Header":"GIORNI MEDI MENSILI DI APERTURA","Filtro":"","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 27.93,"C_Delta": 0.42},
+{"Header":"N TRANSAZIONI GIORNALIERE","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":578.11,"C_Delta": 0.25},
+{"Header":"VALORE MEDIO TRANSAZIONI","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 25.86,"C_Delta": 2.87},
+{"Header":"PEZZI MEDI PER TRANSAZIONE","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  2.71,"C_Delta": 0.95},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  9.55,"C_Delta": 1.91},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":406.43,"C_Delta": 0.62},
+{"Header":"INCIDENZA SCONTRINI COMM SU TRANSAZIONI","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.70,"C_Delta": 0.37},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 20.82,"C_Delta": 2.57},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  2.30,"C_Delta": 0.65},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  9.05,"C_Delta": 1.91},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":235.00,"C_Delta": 0.55},
+{"Header":"INCIDENZA SCONTRINI AUTOM SU COMM","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.58,"C_Delta":-0.07},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 17.21,"C_Delta": 3.03},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  1.42,"C_Delta": 0.00},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 12.13,"C_Delta": 3.04},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 24.65,"C_Delta": 0.31},
+{"Header":"INCIDENZA SCONTRINI APA SU AUTOM","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.10,"C_Delta":-0.25},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 15.11,"C_Delta": 2.28},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  1.12,"C_Delta":-0.12},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 13.55,"C_Delta": 2.40}]}
+,{"Periodo":"Nov 2018"
+                 ,"datiP":[
+{"Header":"GIORNI MEDI MENSILI DI APERTURA","Filtro":"","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 27.71,"C_Delta":-1.26},
+{"Header":"N TRANSAZIONI GIORNALIERE","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":572.03,"C_Delta": 1.37},
+{"Header":"VALORE MEDIO TRANSAZIONI","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 25.94,"C_Delta": 1.27},
+{"Header":"PEZZI MEDI PER TRANSAZIONE","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  2.70,"C_Delta":-0.60},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"GLOBALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  9.62,"C_Delta": 1.88},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":401.68,"C_Delta": 2.07},
+{"Header":"INCIDENZA SCONTRINI COMM SU TRANSAZIONI","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.70,"C_Delta": 0.69},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 20.77,"C_Delta":-0.27},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  2.28,"C_Delta":-1.76},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"COMMERCIALE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  9.13,"C_Delta": 1.52},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":234.27,"C_Delta": 1.43},
+{"Header":"INCIDENZA SCONTRINI AUTOM SU COMM","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.58,"C_Delta":-0.63},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 17.07,"C_Delta": 1.31},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  1.42,"C_Delta":-1.04},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"AUTOMEDICAZIONE","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 11.99,"C_Delta": 2.37},
+{"Header":"N SCONTRINI GIORNALIERI","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 25.49,"C_Delta":-0.60},
+{"Header":"INCIDENZA SCONTRINI APA SU AUTOM","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  0.11,"C_Delta":-1.99},
+{"Header":"VALORE MEDIO PER SCONTRINO","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 14.53,"C_Delta": 1.28},
+{"Header":"N PEZZI MEDI PER SCONTRINO","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore":  1.11,"C_Delta":-0.18},
+{"Header":"BATTUTA MEDIA PER UNITA","Filtro":"GRUPPO APA","F_Valore":NA,"F_Delta":NA,"M_Valore":NA,"M_Delta":NA,"C_Valore": 13.12,"C_Delta": 1.47}]}
+]
+}

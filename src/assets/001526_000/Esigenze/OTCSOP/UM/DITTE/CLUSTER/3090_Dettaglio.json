@@ -1,0 +1,13 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SANOFI SpA","FFt": 1,"FPz": 1,"FFatt": 422.7,"FFatt_D": 23.42,"FPezzi": 68,"FPezzi_D": -2.86,"FQuota": 53.97,"FPrezzo": 6.22,"FRef": 4,"CFt": 1,"CPz": 1,"CFatt": 382.05,"CFatt_D": 41.27,"CPezzi": 49,"CPezzi_D": 15.07,"CQuota": 43.75,"CPrezzo": 7.84,"CRef": 6},
+{"DscDitta": "RECKITT BENCKISER H.(IT.) SpA","FFt": 2,"FPz": 2,"FFatt": 265.4,"FFatt_D": 1.57,"FPezzi": 44,"FPezzi_D": 2.33,"FQuota": 34.92,"FPrezzo": 6.03,"FRef": 5,"CFt": 2,"CPz": 2,"CFatt": 324.26,"CFatt_D": 25.6,"CPezzi": 38,"CPezzi_D": 17.07,"CQuota": 34.45,"CPrezzo": 8.45,"CRef": 7},
+{"DscDitta": "BOEHRINGER INGELHEIM IT.SpA","FFt": 3,"FPz": 3,"FFatt": 43.55,"FFatt_D": -38.23,"FPezzi": 7,"FPezzi_D": -41.67,"FQuota": 5.56,"FPrezzo": 6.22,"FRef": 2,"CFt": 4,"CPz": 4,"CFatt": 24.94,"CFatt_D": 17.12,"CPezzi": 3,"CPezzi_D": 4.35,"CQuota": 3.01,"CPrezzo": 7.43,"CRef": 2},
+{"DscDitta": "PFIZER ITALIA Srl","FFt": 4,"FPz": 4,"FFatt": 32.4,"FFatt_D": -46.49,"FPezzi": 3,"FPezzi_D": -50,"FQuota": 2.38,"FPrezzo": 10.8,"FRef": 2,"CFt": 3,"CPz": 3,"CFatt": 90.3,"CFatt_D": 0.11,"CPezzi": 10,"CPezzi_D": 1.69,"CQuota": 8.6,"CPrezzo": 9.43,"CRef": 4},
+{"DscDitta": "A.MENARINI IND.FARM.RIUN.Srl","FFt": 5,"FPz": 5,"FFatt": 12.6,"FFatt_D": -66.67,"FPezzi": 2,"FPezzi_D": -66.67,"FQuota": 1.59,"FPrezzo": 6.3,"FRef": 1,"CFt": 5,"CPz": 5,"CFatt": 17.73,"CFatt_D": 40.95,"CPezzi": 3,"CPezzi_D": 63.64,"CQuota": 2.31,"CPrezzo": 6.9,"CRef": 2},
+{"DscDitta": "DOC GENERICI Srl","FFt": 6,"FPz": 6,"FFatt": 5.85,"FFatt_D": 0.86,"FPezzi": 1,"FPezzi_D": 0,"FQuota": 0.79,"FPrezzo": 5.85,"FRef": 1,"CFt": 6,"CPz": 6,"CFatt": 16.32,"CFatt_D": 38.95,"CPezzi": 3,"CPezzi_D": 63.64,"CQuota": 2.31,"CPrezzo": 6.35,"CRef": 1},
+{"DscDitta": "SELLA Srl","FFt": 7,"FPz": 7,"FFatt": 4.5,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 0.79,"FPrezzo": 4.5,"FRef": 1,"CFt": 7,"CPz": 7,"CFatt": 14.5,"CFatt_D": 43.38,"CPezzi": 3,"CPezzi_D": 33.33,"CQuota": 2.69,"CPrezzo": 4.83,"CRef": 1},
+{"DscDitta": "NOVA ARGENTIA SpA","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 9,"CPz": 9,"CFatt": 5.85,"CFatt_D": 162.92,"CPezzi": 1,"CPezzi_D": 166.67,"CQuota": 0.9,"CPrezzo": 5.85,"CRef": 1},
+{"DscDitta": "22 ditte coinvolte","FFt": 9,"FPz": 9,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 8,"CPz": 8,"CFatt": 10.99,"CFatt_D": -24.54,"CPezzi": 2,"CPezzi_D": 0,"CQuota": 1.97,"CPrezzo": 1.56,"CRef": 0} 
+]}

@@ -1,0 +1,12 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "ZAMBON ITALIA Srl","FFt": 1,"FPz": 1,"FFatt": 616.4,"FFatt_D": 2.97,"FPezzi": 46,"FPezzi_D": 4.55,"FQuota": 67.65,"FPrezzo": 13.4,"FRef": 3,"MFt": 1,"MPz": 1,"MFatt": 288.99,"MFatt_D": -0.19,"MPezzi": 20,"MPezzi_D": -2.73,"MQuota": 44.52,"MPrezzo": 14.1,"MRef": 3},
+{"DscDitta": "DOMPE` FARMACEUTICI SpA","FFt": 2,"FPz": 2,"FFatt": 158.62,"FFatt_D": -26.98,"FPezzi": 11,"FPezzi_D": -35.29,"FQuota": 16.18,"FPrezzo": 14.42,"FRef": 2,"MFt": 2,"MPz": 2,"MFatt": 119.59,"MFatt_D": 2.8,"MPezzi": 9,"MPezzi_D": 2.7,"MQuota": 20.02,"MPrezzo": 12.97,"MRef": 2},
+{"DscDitta": "AESCULAPIUS FARMACEUTICI Srl","FFt": 3,"FPz": 3,"FFatt": 49.5,"FFatt_D": 150,"FPezzi": 5,"FPezzi_D": 150,"FQuota": 7.35,"FPrezzo": 9.9,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 12.8,"MFatt_D": 25.14,"MPezzi": 1,"MPezzi_D": -3.33,"MQuota": 2.81,"MPrezzo": 9.88,"MRef": 1},
+{"DscDitta": "EG SpA","FFt": 4,"FPz": 5,"FFatt": 20.4,"FFatt_D": 0,"FPezzi": 2,"FPezzi_D": 0,"FQuota": 2.94,"FPrezzo": 10.2,"FRef": 1,"MFt": 8,"MPz": 8,"MFatt": 11.64,"MFatt_D": 5.63,"MPezzi": 1,"MPezzi_D": -6.25,"MQuota": 2.53,"MPrezzo": 9.98,"MRef": 1},
+{"DscDitta": "TEOFARMA Srl","FFt": 5,"FPz": 4,"FFatt": 13.8,"FFatt_D": -75.53,"FPezzi": 3,"FPezzi_D": -75,"FQuota": 4.41,"FPrezzo": 4.6,"FRef": 3,"MFt": 3,"MPz": 3,"MFatt": 54.44,"MFatt_D": 2.41,"MPezzi": 9,"MPezzi_D": 3.71,"MQuota": 19.59,"MPrezzo": 6.04,"MRef": 3},
+{"DscDitta": "MEDA PHARMA SpA","FFt": 6,"FPz": 6,"FFatt": 11.2,"FFatt_D": null,"FPezzi": 1,"FPezzi_D": null,"FQuota": 1.47,"FPrezzo": 11.2,"FRef": 1,"MFt": 7,"MPz": 4,"MFatt": 6.62,"MFatt_D": -2.42,"MPezzi": 0.574,"MPezzi_D": -2.84,"MQuota": 1.25,"MPrezzo": 11.53,"MRef": 2},
+{"DscDitta": "RATIOPHARM ITALIA Srl","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"MFt": 4,"MPz": 7,"MFatt": 12.32,"MFatt_D": 16.53,"MPezzi": 1,"MPezzi_D": 0.46,"MQuota": 2.52,"MPrezzo": 10.61,"MRef": 1},
+{"DscDitta": "29 ditte coinvolte","FFt": 8,"FPz": 8,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 6,"MPz": 6,"MFatt": 31.71,"MFatt_D": -7.07,"MPezzi": 3,"MPezzi_D": -10.12,"MQuota": 6.96,"MPrezzo": 7.46,"MRef": 0} 
+]}

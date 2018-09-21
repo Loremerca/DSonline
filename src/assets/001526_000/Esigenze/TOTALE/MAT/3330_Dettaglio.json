@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Antipertensivi"
+ ,"Tempo":"Dic 2017-Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 50561
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 25500.54
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 37092.07
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 47633
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 25385.08
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 34689.64
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 337212.79,"M": 160488.27,"C": 239394.22},
+{"Header": "Fatturato diff","F": 5.31,"M": -1.25,"C": 4.67},
+{"Header": "Pezzi","F": 50561,"M": 25500.54,"C": 37092.07},
+{"Header": "Pezzi diff","F": 6.15,"M": 0.45,"C": 6.93} 
+]
+}

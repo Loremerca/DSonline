@@ -1,0 +1,9 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SIGMATAU IND.FARM.RIUNITE SpA","FFt": 1,"FPz": 1,"FFatt": 749.26,"FFatt_D": 77.97,"FPezzi": 65,"FPezzi_D": 80.56,"FQuota": 58.56,"FPrezzo": 11.53,"FRef": 1,"CFt": 1,"CPz": 1,"CFatt": 404.53,"CFatt_D": -0.34,"CPezzi": 30,"CPezzi_D": -1.78,"CQuota": 52.72,"CPrezzo": 13.39,"CRef": 1},
+{"DscDitta": "LABORATORI BALDACCI SpA","FFt": 2,"FPz": 2,"FFatt": 514.3,"FFatt_D": 39.95,"FPezzi": 43,"FPezzi_D": 38.71,"FQuota": 38.74,"FPrezzo": 11.96,"FRef": 1,"CFt": 4,"CPz": 2,"CFatt": 167.79,"CFatt_D": -14.21,"CPezzi": 13,"CPezzi_D": -15.45,"CQuota": 22.92,"CPrezzo": 12.77,"CRef": 1},
+{"DscDitta": "MAGIS FARMACEUTICI Srl","FFt": 3,"FPz": 3,"FFatt": 22.5,"FFatt_D": null,"FPezzi": 3,"FPezzi_D": null,"FQuota": 2.7,"FPrezzo": 7.5,"FRef": 1,"CFt": 2,"CPz": 4,"CFatt": 6.67,"CFatt_D": 15.82,"CPezzi": 0.78,"CPezzi_D": 17,"CQuota": 1.36,"CPrezzo": 8.55,"CRef": 0},
+{"DscDitta": "DR.WILLMAR SCHWABE GmbH&CO.KG","FFt": 4,"FPz": 4,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": null,"FRef": 0,"CFt": 3,"CPz": 3,"CFatt": 212.65,"CFatt_D": 38.38,"CPezzi": 13,"CPezzi_D": 23.32,"CQuota": 23,"CPrezzo": 16.13,"CRef": 1},
+{"DscDitta": "3 ditte coinvolte","FFt": 5,"FPz": 5,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"CFt": 5,"CPz": 5,"CFatt": 0,"CFatt_D": null,"CPezzi": 0,"CPezzi_D": null,"CQuota": 0,"CPrezzo": 0,"CRef": 0} 
+]}

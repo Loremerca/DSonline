@@ -1,0 +1,38 @@
+{
+ "Esigenza":"Dimagranti"
+ ,"Tempo":"Gen - Nov 2018"
+,"HorizontBar" : [{
+      		"name": "2018"
+         ,"series":[ {"name" :"Farmacia"
+                   	,"value": 28
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 2.98
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 8.91
+                     }
+                  ]
+       }
+      ,{
+      		"name": "2017"
+         ,"series":[
+                     {"name" :"Farmacia"
+                   	 ,"value": 69
+                     }
+                    ,{"name" :"Mercato"
+                   	 ,"value": 3.52
+                     }
+                    ,{"name" :"Cluster"
+                   	 ,"value": 10.21
+                     }
+                  ]
+       }       ] ,"datiTabRiass":[
+
+
+ {"Header": "Fatturato","F": 3206,"M": 316.22,"C": 842.37},
+{"Header": "Fatturato diff","F": -59.28,"M": -15.04,"C": -13.37},
+{"Header": "Pezzi","F": 28,"M": 2.98,"C": 8.91},
+{"Header": "Pezzi diff","F": -59.42,"M": -15.39,"C": -12.73} 
+]
+}

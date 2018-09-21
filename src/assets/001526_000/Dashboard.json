@@ -1,0 +1,4666 @@
+{
+   "datiPeriodo":[
+ {
+ "Periodo":"Gennaio 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 7.73 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.37 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.73 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.47 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.57 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.28 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 801571.4,"Mercato": 203733.3,"Cluster": 432797.5},
+{"Header": "Delta Fatturato","Farmacia": 7.73,"Mercato": 5.37,"Cluster": 6.73},
+{"Header": "Pezzi","Farmacia": 99163,"Mercato": 20182.8,"Cluster": 44205.46},
+{"Header": "Delta Pezzi","Farmacia": 4.47,"Mercato": 4.57,"Cluster": 5.28} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 7.96 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.69 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.66 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 10.98 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.18 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.31 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 248587.9,"Mercato": 109782.1,"Cluster": 182868.3},
+{"Header": "Trend %","Farmacia": 7.96,"Mercato": 3.69,"Cluster": 8.66},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.01257,"Mercato": 53.88519,"Cluster": 42.25262},
+{"Header": "Pezzi","Farmacia": 24613,"Mercato": 11333.92,"Cluster": 18192.33},
+{"Header": "Trend % ","Farmacia": 10.98,"Mercato": 3.18,"Cluster": 8.31} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 7.73 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 7.67 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.18 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.45 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 6.64 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.39 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 512677.7,"Mercato": 83852.99,"Cluster": 235896.4},
+{"Header": "Trend %","Farmacia": 7.73,"Mercato": 7.67,"Cluster": 5.18},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.95908,"Mercato": 41.15822,"Cluster": 54.50504},
+{"Header": "Pezzi","Farmacia": 72717,"Mercato": 8353.943,"Cluster": 25182.67},
+{"Header": "Trend % ","Farmacia": 2.45,"Mercato": 6.64,"Cluster": 3.39} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 15.37 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 10.13 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.96 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 12.44 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.52 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.61 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -20 
+                       ,"isto_max": 20 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 238582.3,"Mercato": 50359.01,"Cluster": 123548.6},
+{"Header": "Trend %","Farmacia": 15.37,"Mercato": 10.13,"Cluster": 7.96},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 46.5365,"Mercato": 60.0563,"Cluster": 52.3741},
+{"Header": "Pezzi","Farmacia": 19312,"Mercato": 4323.016,"Cluster": 10606.17},
+{"Header": "Trend % ","Farmacia": 12.44,"Mercato": 5.52,"Cluster": 4.61} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 35.1 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 32.54 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 24.9 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 24.5 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 22.37 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 17.05 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -40 
+                       ,"isto_max": 40 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2236.48,"Mercato": 2108.353,"Cluster": 3170.054},
+{"Header": "Trend %","Farmacia": 35.1,"Mercato": 32.54,"Cluster": 24.9},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.9374041,"Mercato": 4.186645,"Cluster": 2.565835},
+{"Header": "Pezzi","Farmacia": 188,"Mercato": 159.9471,"Cluster": 256.8333},
+{"Header": "Trend % ","Farmacia": 24.5,"Mercato": 22.37,"Cluster": 17.05} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 22.21 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.65 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.63 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.79 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.2 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -3.63 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -25 
+                       ,"isto_max": 25 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1597.98,"Mercato": 871.6294,"Cluster": 1467.408},
+{"Header": "Trend %","Farmacia": 22.21,"Mercato": 5.65,"Cluster": 1.63},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.6697816,"Mercato": 1.730831,"Cluster": 1.187717},
+{"Header": "Pezzi","Farmacia": 128,"Mercato": 72.66897,"Cluster": 127.0417},
+{"Header": "Trend % ","Farmacia": 5.79,"Mercato": 1.2,"Cluster": -3.63} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 83.58 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 61.52 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 55.62 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 100 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 48.18 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 48.19 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -95 
+                       ,"isto_max": 95 
+                       ,"istop_min": -115 
+                       ,"istop_max": 115  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 638.5,"Mercato": 1236.723,"Cluster": 1702.646},
+{"Header": "Trend %","Farmacia": 83.58,"Mercato": 61.52,"Cluster": 55.62},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2676226,"Mercato": 2.455813,"Cluster": 1.378118},
+{"Header": "Pezzi","Farmacia": 60,"Mercato": 87.27816,"Cluster": 129.7917},
+{"Header": "Trend % ","Farmacia": 100,"Mercato": 48.18,"Cluster": 48.19} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Febbraio 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.6 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.22 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 0.99 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.4 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.37 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 0.75 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 717995.2,"Mercato": 178954.2,"Cluster": 381893.6},
+{"Header": "Delta Fatturato","Farmacia": 2.6,"Mercato": 1.22,"Cluster": 0.99},
+{"Header": "Pezzi","Farmacia": 89692,"Mercato": 17573.66,"Cluster": 38589.87},
+{"Header": "Delta Pezzi","Farmacia": 1.4,"Mercato": 1.37,"Cluster": 0.75} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.26 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.86 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.86 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.31 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.73 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.33 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 221370.1,"Mercato": 95780.01,"Cluster": 158430.8},
+{"Header": "Trend %","Farmacia": 4.26,"Mercato": -0.86,"Cluster": 1.86},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 30.8317,"Mercato": 53.52207,"Cluster": 41.48559},
+{"Header": "Pezzi","Farmacia": 21686,"Mercato": 9838.894,"Cluster": 15654.83},
+{"Header": "Trend % ","Farmacia": 2.31,"Mercato": -0.73,"Cluster": 2.33} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.42 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.09 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 0.27 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.86 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.43 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.29 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 462644.5,"Mercato": 74229.92,"Cluster": 211237.2},
+{"Header": "Trend %","Farmacia": 1.42,"Mercato": 4.09,"Cluster": 0.27},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 64.4356,"Mercato": 41.47984,"Cluster": 55.31311},
+{"Header": "Pezzi","Farmacia": 66419,"Mercato": 7296.343,"Cluster": 22183.54},
+{"Header": "Trend % ","Farmacia": 0.86,"Mercato": 4.43,"Cluster": -0.29} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.01 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.63 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.31 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.31 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.46 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.44 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 208826.8,"Mercato": 42757.73,"Cluster": 107610.3},
+{"Header": "Trend %","Farmacia": 3.01,"Mercato": 4.63,"Cluster": 3.31},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 45.13765,"Mercato": 57.60174,"Cluster": 50.94288},
+{"Header": "Pezzi","Farmacia": 16590,"Mercato": 3605.223,"Cluster": 8975.792},
+{"Header": "Trend % ","Farmacia": 2.31,"Mercato": 2.46,"Cluster": 1.44} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 32.54 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 23.18 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 19.4 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 26.03 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 13.21 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 13.46 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -40 
+                       ,"isto_max": 40 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2274.26,"Mercato": 1837.991,"Cluster": 2989.049},
+{"Header": "Trend %","Farmacia": 32.54,"Mercato": 23.18,"Cluster": 19.4},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 1.089065,"Mercato": 4.298618,"Cluster": 2.77766},
+{"Header": "Pezzi","Farmacia": 184,"Mercato": 135.9471,"Cluster": 237.7083},
+{"Header": "Trend % ","Farmacia": 26.03,"Mercato": 13.21,"Cluster": 13.46} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 13.76 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.24 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.51 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.69 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.87 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -2.11 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -20 
+                       ,"isto_max": 20 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1633.66,"Mercato": 765.8791,"Cluster": 1407.88},
+{"Header": "Trend %","Farmacia": 13.76,"Mercato": 1.24,"Cluster": -0.51},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.7823037,"Mercato": 1.791206,"Cluster": 1.308314},
+{"Header": "Pezzi","Farmacia": 130,"Mercato": 62.61149,"Cluster": 122.0417},
+{"Header": "Trend % ","Farmacia": 5.69,"Mercato": -2.87,"Cluster": -2.11} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 128.95 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 45.74 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 45.29 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 134.78 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 31.84 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 36.35 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -145 
+                       ,"isto_max": 145 
+                       ,"istop_min": -150 
+                       ,"istop_max": 150  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 640.6,"Mercato": 1072.112,"Cluster": 1581.168},
+{"Header": "Trend %","Farmacia": 128.95,"Mercato": 45.74,"Cluster": 45.29},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.3067613,"Mercato": 2.507412,"Cluster": 1.469346},
+{"Header": "Pezzi","Farmacia": 54,"Mercato": 73.33563,"Cluster": 115.6667},
+{"Header": "Trend % ","Farmacia": 134.78,"Mercato": 31.84,"Cluster": 36.35} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Marzo 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.1 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.72 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.49 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.08 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.03 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.69 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 812107.8,"Mercato": 201150.4,"Cluster": 438428.7},
+{"Header": "Delta Fatturato","Farmacia": -0.1,"Mercato": -0.72,"Cluster": 3.49},
+{"Header": "Pezzi","Farmacia": 99921,"Mercato": 19428.84,"Cluster": 43353.09},
+{"Header": "Delta Pezzi","Farmacia": -0.08,"Mercato": -2.03,"Cluster": 1.69} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.1 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.59 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.69 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.93 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.92 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 248412.3,"Mercato": 108864.4,"Cluster": 186956.8},
+{"Header": "Trend %","Farmacia": -0.1,"Mercato": -1.1,"Cluster": 7.59},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 30.58858,"Mercato": 54.12088,"Cluster": 42.64246},
+{"Header": "Pezzi","Farmacia": 24505,"Mercato": 11084.34,"Cluster": 17990.13},
+{"Header": "Trend % ","Farmacia": 0.69,"Mercato": -1.93,"Cluster": 3.92} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.68 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.99 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.27 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.12 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.2 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 0.22 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 527610.7,"Mercato": 81045.68,"Cluster": 236194.8},
+{"Header": "Trend %","Farmacia": 0.68,"Mercato": -1.99,"Cluster": -0.27},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 64.96806,"Mercato": 40.29108,"Cluster": 53.87303},
+{"Header": "Pezzi","Farmacia": 73742,"Mercato": 7852.714,"Cluster": 24512.35},
+{"Header": "Trend % ","Farmacia": -0.12,"Mercato": -2.2,"Cluster": 0.22} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.12 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.58 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -1.57 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.21 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.76 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -2.49 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 236090.4,"Mercato": 45257.46,"Cluster": 115001.6},
+{"Header": "Trend %","Farmacia": -0.12,"Mercato": -1.58,"Cluster": -1.57},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 44.74708,"Mercato": 55.84191,"Cluster": 48.68929},
+{"Header": "Pezzi","Farmacia": 18048,"Mercato": 3729.149,"Cluster": 9368},
+{"Header": "Trend % ","Farmacia": -2.21,"Mercato": -2.76,"Cluster": -2.49} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 27.92 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 8.21 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 22.63 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 9.09 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 10.41 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 17.27 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -35 
+                       ,"isto_max": 35 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2759.6,"Mercato": 1793.411,"Cluster": 3341.06},
+{"Header": "Trend %","Farmacia": 27.92,"Mercato": 8.21,"Cluster": 22.63},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 1.168874,"Mercato": 3.962686,"Cluster": 2.905229},
+{"Header": "Pezzi","Farmacia": 204,"Mercato": 145.5083,"Cluster": 264.3913},
+{"Header": "Trend % ","Farmacia": 9.09,"Mercato": 10.41,"Cluster": 17.27} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 41.28 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.87 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.51 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 24.06 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.76 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -2.83 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -50 
+                       ,"isto_max": 50 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2234.4,"Mercato": 829.5083,"Cluster": 1541.778},
+{"Header": "Trend %","Farmacia": 41.28,"Mercato": -0.87,"Cluster": -0.51},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.9464171,"Mercato": 1.832866,"Cluster": 1.340658},
+{"Header": "Pezzi","Farmacia": 165,"Mercato": 68.39243,"Cluster": 131.2609},
+{"Header": "Trend % ","Farmacia": 24.06,"Mercato": -2.76,"Cluster": -2.83} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -8.79 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 17.46 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 53.15 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -27.78 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 25.48 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 47.31 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -60 
+                       ,"isto_max": 60 
+                       ,"istop_min": -55 
+                       ,"istop_max": 55  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 525.2,"Mercato": 963.9027,"Cluster": 1799.281},
+{"Header": "Trend %","Farmacia": -8.79,"Mercato": 17.46,"Cluster": 53.15},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2224572,"Mercato": 2.129821,"Cluster": 1.564571},
+{"Header": "Pezzi","Farmacia": 39,"Mercato": 77.11584,"Cluster": 133.1304},
+{"Header": "Trend % ","Farmacia": -27.78,"Mercato": 25.48,"Cluster": 47.31} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Aprile 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.76 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.22 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.83 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.65 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.33 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.01 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 702858.8,"Mercato": 182910.2,"Cluster": 416125.6},
+{"Header": "Delta Fatturato","Farmacia": -0.76,"Mercato": 2.22,"Cluster": 7.83},
+{"Header": "Pezzi","Farmacia": 85193,"Mercato": 17476.81,"Cluster": 40422.96},
+{"Header": "Delta Pezzi","Farmacia": -2.65,"Mercato": -0.33,"Cluster": 4.01} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.63 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.12 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 13.39 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.77 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.15 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.17 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 214618.8,"Mercato": 97386.75,"Cluster": 175567.7},
+{"Header": "Trend %","Farmacia": 0.63,"Mercato": 1.12,"Cluster": 13.39},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 30.53512,"Mercato": 53.24294,"Cluster": 42.19103},
+{"Header": "Pezzi","Farmacia": 20833,"Mercato": 9894.343,"Cluster": 16663.91},
+{"Header": "Trend % ","Farmacia": -0.77,"Mercato": 0.15,"Cluster": 8.17} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -1.67 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.4 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.15 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -3.37 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.92 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.27 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 453285.2,"Mercato": 75692.9,"Cluster": 226200.3},
+{"Header": "Trend %","Farmacia": -1.67,"Mercato": 2.4,"Cluster": 3.15},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 64.49164,"Mercato": 41.38255,"Cluster": 54.35865},
+{"Header": "Pezzi","Farmacia": 62730,"Mercato": 7137.778,"Cluster": 22961.87},
+{"Header": "Trend % ","Farmacia": -3.37,"Mercato": -0.92,"Cluster": 1.27} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.51 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.14 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.06 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.52 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.48 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.07 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 213266.1,"Mercato": 41801.55,"Cluster": 109374.9},
+{"Header": "Trend %","Farmacia": 5.51,"Mercato": 3.14,"Cluster": 3.06},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 47.049,"Mercato": 55.22519,"Cluster": 48.35312},
+{"Header": "Pezzi","Farmacia": 16127,"Mercato": 3357.811,"Cluster": 8791.957},
+{"Header": "Trend % ","Farmacia": 1.52,"Mercato": -0.48,"Cluster": 1.07} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 43.83 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 11.2 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 9.09 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 24.82 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 6.36 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.77 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -50 
+                       ,"isto_max": 50 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2394.1,"Mercato": 1599.253,"Cluster": 2673.335},
+{"Header": "Trend %","Farmacia": 43.83,"Mercato": 11.2,"Cluster": 9.09},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 1.122588,"Mercato": 3.825823,"Cluster": 2.444195},
+{"Header": "Pezzi","Farmacia": 176,"Mercato": 121.6005,"Cluster": 213.4783},
+{"Header": "Trend % ","Farmacia": 24.82,"Mercato": 6.36,"Cluster": 4.77} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 45.34 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.03 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -3.98 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 26.85 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -4.81 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -6.24 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -50 
+                       ,"isto_max": 50 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1914.3,"Mercato": 718.8382,"Cluster": 1299.164},
+{"Header": "Trend %","Farmacia": 45.34,"Mercato": -2.03,"Cluster": -3.98},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.8976108,"Mercato": 1.719645,"Cluster": 1.187808},
+{"Header": "Pezzi","Farmacia": 137,"Mercato": 59.12766,"Cluster": 111.2174},
+{"Header": "Trend % ","Farmacia": 26.85,"Mercato": -4.81,"Cluster": -6.24} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 38.11 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 24.98 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 25.2 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 18.18 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 19.66 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 20.13 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -45 
+                       ,"isto_max": 45 
+                       ,"istop_min": -25 
+                       ,"istop_max": 25  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 479.8,"Mercato": 880.4152,"Cluster": 1374.171},
+{"Header": "Trend %","Farmacia": 38.11,"Mercato": 24.98,"Cluster": 25.2},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2249771,"Mercato": 2.106178,"Cluster": 1.256386},
+{"Header": "Pezzi","Farmacia": 39,"Mercato": 62.47281,"Cluster": 102.2609},
+{"Header": "Trend % ","Farmacia": 18.18,"Mercato": 19.66,"Cluster": 20.13} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Maggio 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.54 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.17 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.53 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.67 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.19 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.91 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 778449.9,"Mercato": 199386.8,"Cluster": 447249.3},
+{"Header": "Delta Fatturato","Farmacia": 1.54,"Mercato": -1.17,"Cluster": 4.53},
+{"Header": "Pezzi","Farmacia": 93850,"Mercato": 19095.83,"Cluster": 44397.35},
+{"Header": "Delta Pezzi","Farmacia": -0.67,"Mercato": -2.19,"Cluster": 4.91} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 7.38 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.7 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 10.86 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.67 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.17 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.83 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 246654.2,"Mercato": 109587.4,"Cluster": 196315.6},
+{"Header": "Trend %","Farmacia": 7.38,"Mercato": -0.7,"Cluster": 10.86},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.6853,"Mercato": 54.96219,"Cluster": 43.89401},
+{"Header": "Pezzi","Farmacia": 23801,"Mercato": 11125.02,"Cluster": 18833.09},
+{"Header": "Trend % ","Farmacia": 4.67,"Mercato": -1.17,"Cluster": 8.83} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.62 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -3.53 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.97 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.38 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -3.61 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.3 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 495284.7,"Mercato": 78898.83,"Cluster": 235156.8},
+{"Header": "Trend %","Farmacia": -0.62,"Mercato": -3.53,"Cluster": -0.97},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.62448,"Mercato": 39.57073,"Cluster": 52.57846},
+{"Header": "Pezzi","Farmacia": 68324,"Mercato": 7493.383,"Cluster": 24708.04},
+{"Header": "Trend % ","Farmacia": -2.38,"Mercato": -3.61,"Cluster": 2.3} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.28 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.61 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.12 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.91 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -3.5 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.96 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 229196.3,"Mercato": 43299.7,"Cluster": 112179.1},
+{"Header": "Trend %","Farmacia": 3.28,"Mercato": -0.61,"Cluster": -0.12},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 46.27566,"Mercato": 54.88003,"Cluster": 47.70398},
+{"Header": "Pezzi","Farmacia": 16977,"Mercato": 3411.825,"Cluster": 8891.261},
+{"Header": "Trend % ","Farmacia": 0.91,"Mercato": -3.5,"Cluster": -0.96} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 50.45 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 6.14 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.3 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 29.79 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.74 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.71 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -60 
+                       ,"isto_max": 60 
+                       ,"istop_min": -35 
+                       ,"istop_max": 35  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2575.6,"Mercato": 1575.128,"Cluster": 2680.582},
+{"Header": "Trend %","Farmacia": 50.45,"Mercato": 6.14,"Cluster": 7.3},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 1.123753,"Mercato": 3.637735,"Cluster": 2.389554},
+{"Header": "Pezzi","Farmacia": 183,"Mercato": 117.8558,"Cluster": 210.3478},
+{"Header": "Trend % ","Farmacia": 29.79,"Mercato": 0.74,"Cluster": 2.71} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 62.29 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -9.78 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -5.97 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 42.31 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -12.09 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -7.55 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -70 
+                       ,"isto_max": 70 
+                       ,"istop_min": -50 
+                       ,"istop_max": 50  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2138.7,"Mercato": 694.5668,"Cluster": 1331.158},
+{"Header": "Trend %","Farmacia": 62.29,"Mercato": -9.78,"Cluster": -5.97},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.9331304,"Mercato": 1.604091,"Cluster": 1.186636},
+{"Header": "Pezzi","Farmacia": 148,"Mercato": 56.54137,"Cluster": 112.4783},
+{"Header": "Trend % ","Farmacia": 42.31,"Mercato": -12.09,"Cluster": -7.55} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 10.86 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 23.3 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 24.67 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -5.41 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 16.4 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 17.74 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -30 
+                       ,"isto_max": 30 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 436.9,"Mercato": 880.5617,"Cluster": 1349.423},
+{"Header": "Trend %","Farmacia": 10.86,"Mercato": 23.3,"Cluster": 24.67},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.1906227,"Mercato": 2.033644,"Cluster": 1.202918},
+{"Header": "Pezzi","Farmacia": 35,"Mercato": 61.31442,"Cluster": 97.86957},
+{"Header": "Trend % ","Farmacia": -5.41,"Mercato": 16.4,"Cluster": 17.74} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Giugno 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.65 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.55 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.08 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.79 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.48 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.22 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 753590.9,"Mercato": 191405.9,"Cluster": 433739.6},
+{"Header": "Delta Fatturato","Farmacia": 3.65,"Mercato": -0.55,"Cluster": 6.08},
+{"Header": "Pezzi","Farmacia": 91386,"Mercato": 18162.53,"Cluster": 42943.39},
+{"Header": "Delta Pezzi","Farmacia": 1.79,"Mercato": -2.48,"Cluster": 6.22} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.59 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.21 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 10.22 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.28 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.42 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.09 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 229490.6,"Mercato": 102257.3,"Cluster": 184092.9},
+{"Header": "Trend %","Farmacia": 2.59,"Mercato": -1.21,"Cluster": 10.22},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 30.45295,"Mercato": 53.42434,"Cluster": 42.44319},
+{"Header": "Pezzi","Farmacia": 22229,"Mercato": 10296.21,"Cluster": 17498.96},
+{"Header": "Trend % ","Farmacia": 2.28,"Mercato": -2.42,"Cluster": 7.09} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.81 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.3 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.45 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.52 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.46 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.88 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 486590.1,"Mercato": 78416.09,"Cluster": 234229.2},
+{"Header": "Trend %","Farmacia": 3.81,"Mercato": -1.3,"Cluster": 2.45},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 64.56953,"Mercato": 40.96848,"Cluster": 54.00227},
+{"Header": "Pezzi","Farmacia": 67427,"Mercato": 7397.22,"Cluster": 24611.78},
+{"Header": "Trend % ","Farmacia": 1.52,"Mercato": -2.46,"Cluster": 5.88} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.49 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.16 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.58 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.85 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.03 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.38 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 217210.7,"Mercato": 40965.89,"Cluster": 106564.6},
+{"Header": "Trend %","Farmacia": 5.49,"Mercato": -0.16,"Cluster": 2.58},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 44.63935,"Mercato": 52.2417,"Cluster": 45.49587},
+{"Header": "Pezzi","Farmacia": 16255,"Mercato": 3243.747,"Cluster": 8482.87},
+{"Header": "Trend % ","Farmacia": 2.85,"Mercato": -2.03,"Cluster": 2.38} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 33.75 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 9.81 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.12 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 25.81 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.89 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -40 
+                       ,"isto_max": 40 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2151.81,"Mercato": 1461.984,"Cluster": 2473.047},
+{"Header": "Trend %","Farmacia": 33.75,"Mercato": 9.81,"Cluster": 7.12},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.9906558,"Mercato": 3.568784,"Cluster": 2.320702},
+{"Header": "Pezzi","Farmacia": 156,"Mercato": 108.8605,"Cluster": 190.6087},
+{"Header": "Trend % ","Farmacia": 25.81,"Mercato": 5.1,"Cluster": 2.89} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 42.7 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -3.5 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -5.54 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 39.29 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -5.92 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -8.42 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -50 
+                       ,"isto_max": 50 
+                       ,"istop_min": -45 
+                       ,"istop_max": 45  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1664.46,"Mercato": 653.6571,"Cluster": 1185.029},
+{"Header": "Trend %","Farmacia": 42.7,"Mercato": -3.5,"Cluster": -5.54},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.7662884,"Mercato": 1.595613,"Cluster": 1.112028},
+{"Header": "Pezzi","Farmacia": 117,"Mercato": 52.84397,"Cluster": 97.95652},
+{"Header": "Trend % ","Farmacia": 39.29,"Mercato": -5.92,"Cluster": -8.42} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 10.16 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 23.58 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 22.18 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.5 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 18.15 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 18.34 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -30 
+                       ,"isto_max": 30 
+                       ,"istop_min": -25 
+                       ,"istop_max": 25  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 487.35,"Mercato": 808.327,"Cluster": 1288.019},
+{"Header": "Trend %","Farmacia": 10.16,"Mercato": 23.58,"Cluster": 22.18},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2243674,"Mercato": 1.973171,"Cluster": 1.208674},
+{"Header": "Pezzi","Farmacia": 39,"Mercato": 56.01655,"Cluster": 92.65217},
+{"Header": "Trend % ","Farmacia": -2.5,"Mercato": 18.15,"Cluster": 18.34} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Luglio 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.86 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.19 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.36 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.13 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.04 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.92 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 754843.7,"Mercato": 191186.7,"Cluster": 435571},
+{"Header": "Delta Fatturato","Farmacia": 0.86,"Mercato": -0.19,"Cluster": 6.36},
+{"Header": "Pezzi","Farmacia": 91852,"Mercato": 18437.18,"Cluster": 43991.78},
+{"Header": "Delta Pezzi","Farmacia": -2.13,"Mercato": -1.04,"Cluster": 6.92} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.61 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.48 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.69 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.58 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.61 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 9.86 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 239637,"Mercato": 101178.6,"Cluster": 184235.6},
+{"Header": "Trend %","Farmacia": 3.61,"Mercato": -1.48,"Cluster": 8.69},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.74657,"Mercato": 52.92135,"Cluster": 42.2975},
+{"Header": "Pezzi","Farmacia": 23078,"Mercato": 10359.2,"Cluster": 18115.83},
+{"Header": "Trend % ","Farmacia": 1.58,"Mercato": -0.61,"Cluster": 9.86} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.14 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.17 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.54 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -3.46 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.41 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.99 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 475373.5,"Mercato": 78817.54,"Cluster": 234164.3},
+{"Header": "Trend %","Farmacia": -0.14,"Mercato": 0.17,"Cluster": 3.54},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 62.97641,"Mercato": 41.22542,"Cluster": 53.76031},
+{"Header": "Pezzi","Farmacia": 66924,"Mercato": 7580.203,"Cluster": 24954.74},
+{"Header": "Trend % ","Farmacia": -3.46,"Mercato": -1.41,"Cluster": 4.99} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.3 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.27 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.18 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.54 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.39 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.94 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 211303.1,"Mercato": 41694.01,"Cluster": 107399.1},
+{"Header": "Trend %","Farmacia": 2.3,"Mercato": 1.27,"Cluster": 3.18},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 44.44992,"Mercato": 52.89941,"Cluster": 45.86483},
+{"Header": "Pezzi","Farmacia": 16210,"Mercato": 3319.27,"Cluster": 8605.304},
+{"Header": "Trend % ","Farmacia": 0.54,"Mercato": -1.39,"Cluster": 1.94} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 10.13 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.66 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.38 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 14.17 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.24 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 0.06 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1794.5,"Mercato": 1487.947,"Cluster": 2526.384},
+{"Header": "Trend %","Farmacia": 10.13,"Mercato": 5.66,"Cluster": 5.38},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.8492539,"Mercato": 3.568731,"Cluster": 2.352333},
+{"Header": "Pezzi","Farmacia": 145,"Mercato": 110.7612,"Cluster": 194},
+{"Header": "Trend % ","Farmacia": 14.17,"Mercato": 1.24,"Cluster": 0.06} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -1.74 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -8.06 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -8.24 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 4 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -10.29 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -11.72 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1279.35,"Mercato": 650.8429,"Cluster": 1200.928},
+{"Header": "Trend %","Farmacia": -1.74,"Mercato": -8.06,"Cluster": -8.24},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.6054573,"Mercato": 1.560998,"Cluster": 1.118192},
+{"Header": "Pezzi","Farmacia": 104,"Mercato": 52.74468,"Cluster": 100.3043},
+{"Header": "Trend % ","Farmacia": 4,"Mercato": -10.29,"Cluster": -11.72} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 57.35 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 19.53 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 21.76 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 51.85 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 14.65 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 16.75 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -65 
+                       ,"isto_max": 65 
+                       ,"istop_min": -60 
+                       ,"istop_max": 60  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 515.15,"Mercato": 837.1044,"Cluster": 1325.456},
+{"Header": "Trend %","Farmacia": 57.35,"Mercato": 19.53,"Cluster": 21.76},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2437967,"Mercato": 2.007733,"Cluster": 1.234141},
+{"Header": "Pezzi","Farmacia": 41,"Mercato": 58.01655,"Cluster": 93.69565},
+{"Header": "Trend % ","Farmacia": 51.85,"Mercato": 14.65,"Cluster": 16.75} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Agosto 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 12.22 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 13.25 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 8.79 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.04 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 12.09 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 695350.8,"Mercato": 172363.4,"Cluster": 390778.9},
+{"Header": "Delta Fatturato","Farmacia": 12.22,"Mercato": 0,"Cluster": 13.25},
+{"Header": "Pezzi","Farmacia": 87008,"Mercato": 16982.54,"Cluster": 40095.9},
+{"Header": "Delta Pezzi","Farmacia": 8.79,"Mercato": -1.04,"Cluster": 12.09} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 13.96 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 13.65 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 12.4 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.7 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 13.3 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -20 
+                       ,"isto_max": 20 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 226204.8,"Mercato": 91662.84,"Cluster": 166827.2},
+{"Header": "Trend %","Farmacia": 13.96,"Mercato": -1.1,"Cluster": 13.65},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 32.53103,"Mercato": 53.18,"Cluster": 42.69095},
+{"Header": "Pezzi","Farmacia": 22449,"Mercato": 9501.719,"Cluster": 16543.15},
+{"Header": "Trend % ","Farmacia": 12.4,"Mercato": -0.7,"Cluster": 13.3} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 12.24 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.46 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 11.13 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 7.72 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.27 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 11.22 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 435017.5,"Mercato": 71766.25,"Cluster": 208945.1},
+{"Header": "Trend %","Farmacia": 12.24,"Mercato": 0.46,"Cluster": 11.13},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 62.56086,"Mercato": 41.6366,"Cluster": 53.46889},
+{"Header": "Pezzi","Farmacia": 62934,"Mercato": 7077.787,"Cluster": 22732.45},
+{"Header": "Trend % ","Farmacia": 7.72,"Mercato": -1.27,"Cluster": 11.22} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 16.51 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.03 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 11.74 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 16.08 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.58 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 10.73 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -20 
+                       ,"isto_max": 20 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 196579.9,"Mercato": 39485.67,"Cluster": 100510.7},
+{"Header": "Trend %","Farmacia": 16.51,"Mercato": 2.03,"Cluster": 11.74},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 45.18898,"Mercato": 55.01984,"Cluster": 48.10389},
+{"Header": "Pezzi","Farmacia": 15333,"Mercato": 3227.411,"Cluster": 8274.1},
+{"Header": "Trend % ","Farmacia": 16.08,"Mercato": -0.58,"Cluster": 10.73} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 10.66 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 7.99 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 9.01 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 14.58 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.8 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.88 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1364.5,"Mercato": 1481.244,"Cluster": 2261.567},
+{"Header": "Trend %","Farmacia": 10.66,"Mercato": 7.99,"Cluster": 9.01},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.6941197,"Mercato": 3.751346,"Cluster": 2.250075},
+{"Header": "Pezzi","Farmacia": 110,"Mercato": 111.3617,"Cluster": 174.35},
+{"Header": "Trend % ","Farmacia": 14.58,"Mercato": 3.8,"Cluster": 3.88} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 7.75 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -3.73 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -6.89 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 15.79 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -6.39 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -10.49 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1108.75,"Mercato": 655.9807,"Cluster": 1032.848},
+{"Header": "Trend %","Farmacia": 7.75,"Mercato": -3.73,"Cluster": -6.89},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.5640199,"Mercato": 1.661313,"Cluster": 1.027599},
+{"Header": "Pezzi","Farmacia": 88,"Mercato": 53.61939,"Cluster": 86.15},
+{"Header": "Trend % ","Farmacia": 15.79,"Mercato": -6.39,"Cluster": -10.49} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 25.31 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 19.56 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 27.28 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 10 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 15.46 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 23.21 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -35 
+                       ,"isto_max": 35 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 255.75,"Mercato": 825.2635,"Cluster": 1228.719},
+{"Header": "Trend %","Farmacia": 25.31,"Mercato": 19.56,"Cluster": 27.28},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.1300997,"Mercato": 2.090033,"Cluster": 1.222476},
+{"Header": "Pezzi","Farmacia": 22,"Mercato": 57.74232,"Cluster": 88.2},
+{"Header": "Trend % ","Farmacia": 10,"Mercato": 15.46,"Cluster": 23.21} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Settembre 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.02 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.94 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.08 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.56 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.08 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 707051.3,"Mercato": 182657.1,"Cluster": 385218.9},
+{"Header": "Delta Fatturato","Farmacia": 1.02,"Mercato": 0.94,"Cluster": 2.08},
+{"Header": "Pezzi","Farmacia": 85977,"Mercato": 17722.25,"Cluster": 38810.68},
+{"Header": "Delta Pezzi","Farmacia": -2.56,"Mercato": -0.08,"Cluster": 2} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.28 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -2.34 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.39 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.49 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.47 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 220858.2,"Mercato": 96415.6,"Cluster": 163348.7},
+{"Header": "Trend %","Farmacia": 2.28,"Mercato": -2.34,"Cluster": 4.39},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.23652,"Mercato": 52.78503,"Cluster": 42.40413},
+{"Header": "Pezzi","Farmacia": 21312,"Mercato": 9935.322,"Cluster": 16384.32},
+{"Header": "Trend % ","Farmacia": 1.49,"Mercato": -1.47,"Cluster": 7} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -2.35 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -3.75 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.96 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -1.88 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 451741.4,"Mercato": 75988.92,"Cluster": 204097.3},
+{"Header": "Trend %","Farmacia": 1,"Mercato": 4,"Cluster": -2.35},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.89089,"Mercato": 41.60195,"Cluster": 52.98217},
+{"Header": "Pezzi","Farmacia": 63069,"Mercato": 7326.605,"Cluster": 21528.28},
+{"Header": "Trend % ","Farmacia": -3.75,"Mercato": 1.96,"Cluster": -1.88} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.86 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.71 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -1.74 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.42 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.16 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -3.48 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 209303.7,"Mercato": 42282.26,"Cluster": 99906.68},
+{"Header": "Trend %","Farmacia": 3.86,"Mercato": 3.71,"Cluster": -1.74},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 46.33263,"Mercato": 55.64267,"Cluster": 48.95051},
+{"Header": "Pezzi","Farmacia": 15620,"Mercato": 3399.643,"Cluster": 8008.96},
+{"Header": "Trend % ","Farmacia": 0.42,"Mercato": 0.16,"Cluster": -3.48} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.49 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 12.23 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.23 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -4.44 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 6.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 0.14 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1687.12,"Mercato": 1719.935,"Cluster": 2653.95},
+{"Header": "Trend %","Farmacia": 1.49,"Mercato": 12.23,"Cluster": 8.23},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.8060632,"Mercato": 4.067746,"Cluster": 2.656429},
+{"Header": "Pezzi","Farmacia": 129,"Mercato": 129.3168,"Cluster": 202.2},
+{"Header": "Trend % ","Farmacia": -4.44,"Mercato": 6.1,"Cluster": 0.14} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.27 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -11.07 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -3.56 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -14.61 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1363.07,"Mercato": 757.4222,"Cluster": 1208.031},
+{"Header": "Trend %","Farmacia": 1.27,"Mercato": -0.1,"Cluster": -11.07},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.6512403,"Mercato": 1.791348,"Cluster": 1.209159},
+{"Header": "Pezzi","Farmacia": 104,"Mercato": 61.61229,"Cluster": 99.84},
+{"Header": "Trend % ","Farmacia": 0,"Mercato": -3.56,"Cluster": -14.61} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.42 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 24.29 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 32.22 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -19.35 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 16.74 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 20.42 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -40 
+                       ,"isto_max": 40 
+                       ,"istop_min": -25 
+                       ,"istop_max": 25  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 324.05,"Mercato": 962.5128,"Cluster": 1445.919},
+{"Header": "Trend %","Farmacia": 2.42,"Mercato": 24.29,"Cluster": 32.22},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.1548229,"Mercato": 2.276399,"Cluster": 1.447269},
+{"Header": "Pezzi","Farmacia": 25,"Mercato": 67.70449,"Cluster": 102.36},
+{"Header": "Trend % ","Farmacia": -19.35,"Mercato": 16.74,"Cluster": 20.42} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Ottobre 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.84 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 6.41 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.69 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.57 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.09 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.38 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 779269.5,"Mercato": 204553.6,"Cluster": 432201.8},
+{"Header": "Delta Fatturato","Farmacia": 4.84,"Mercato": 6.41,"Cluster": 4.69},
+{"Header": "Pezzi","Farmacia": 94291,"Mercato": 19757.41,"Cluster": 42836.56},
+{"Header": "Delta Pezzi","Farmacia": 0.57,"Mercato": 5.09,"Cluster": 3.38} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 7.5 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.62 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -1.47 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.86 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.45 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 0.88 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 243973.8,"Mercato": 106992,"Cluster": 168250.5},
+{"Header": "Trend %","Farmacia": 7.5,"Mercato": 3.62,"Cluster": -1.47},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.30801,"Mercato": 52.30512,"Cluster": 38.92868},
+{"Header": "Pezzi","Farmacia": 23492,"Mercato": 11011.77,"Cluster": 16846.81},
+{"Header": "Trend % ","Farmacia": 5.86,"Mercato": 4.45,"Cluster": 0.88} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.45 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 8.93 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.9 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -1.2 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 6.29 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.32 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 498087.2,"Mercato": 86648.86,"Cluster": 250264.8},
+{"Header": "Trend %","Farmacia": 3.45,"Mercato": 8.93,"Cluster": 8.9},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.91719,"Mercato": 42.35997,"Cluster": 57.9046},
+{"Header": "Pezzi","Farmacia": 69064,"Mercato": 8257.028,"Cluster": 25201.44},
+{"Header": "Trend % ","Farmacia": -1.2,"Mercato": 6.29,"Cluster": 5.32} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 6.24 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 9.35 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 11.89 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.21 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.82 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.83 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 236083.8,"Mercato": 49098.78,"Cluster": 127504.6},
+{"Header": "Trend %","Farmacia": 6.24,"Mercato": 9.35,"Cluster": 11.89},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 47.39808,"Mercato": 56.66408,"Cluster": 50.94788},
+{"Header": "Pezzi","Farmacia": 17846,"Mercato": 4008.626,"Cluster": 10249.25},
+{"Header": "Trend % ","Farmacia": 3.21,"Mercato": 5.82,"Cluster": 7.83} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 40.14 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 20.46 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 19.63 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 30.56 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 13.14 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.53 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -45 
+                       ,"isto_max": 45 
+                       ,"istop_min": -35 
+                       ,"istop_max": 35  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2442.9,"Mercato": 2191.806,"Cluster": 3599.271},
+{"Header": "Trend %","Farmacia": 40.14,"Mercato": 20.46,"Cluster": 19.63},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 1.03476,"Mercato": 4.464075,"Cluster": 2.822856},
+{"Header": "Pezzi","Farmacia": 188,"Mercato": 164.4823,"Cluster": 269},
+{"Header": "Trend % ","Farmacia": 30.56,"Mercato": 13.14,"Cluster": 6.53} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 39.38 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.69 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.78 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 33.98 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.11 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -1.46 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -45 
+                       ,"isto_max": 45 
+                       ,"istop_min": -40 
+                       ,"istop_max": 40  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1787.75,"Mercato": 894.3447,"Cluster": 1565.008},
+{"Header": "Trend %","Farmacia": 39.38,"Mercato": 4.69,"Cluster": 5.78},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.7572524,"Mercato": 1.821521,"Cluster": 1.227413},
+{"Header": "Pezzi","Farmacia": 138,"Mercato": 73.66903,"Cluster": 130.6875},
+{"Header": "Trend % ","Farmacia": 33.98,"Mercato": 1.11,"Cluster": -1.46} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 42.24 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 34.42 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 33.04 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 21.95 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 25.24 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 15.38 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -50 
+                       ,"isto_max": 50 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 655.15,"Mercato": 1297.462,"Cluster": 2034.263},
+{"Header": "Trend %","Farmacia": 42.24,"Mercato": 34.42,"Cluster": 33.04},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2775074,"Mercato": 2.642554,"Cluster": 1.595443},
+{"Header": "Pezzi","Farmacia": 50,"Mercato": 90.81324,"Cluster": 138.3125},
+{"Header": "Trend % ","Farmacia": 21.95,"Mercato": 25.24,"Cluster": 15.38} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Novembre 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.09 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.4 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.18 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.49 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.26 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.09 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 724057.3,"Mercato": 195323.5,"Cluster": 421728.4},
+{"Header": "Delta Fatturato","Farmacia": 0.09,"Mercato": 4.4,"Cluster": 4.18},
+{"Header": "Pezzi","Farmacia": 87898,"Mercato": 18889.39,"Cluster": 43069.07},
+{"Header": "Delta Pezzi","Farmacia": -2.49,"Mercato": 3.26,"Cluster": 7.09} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.66 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.72 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.46 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.25 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.35 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.71 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 228779.1,"Mercato": 103985.4,"Cluster": 169093.8},
+{"Header": "Trend %","Farmacia": 0.66,"Mercato": 1.72,"Cluster": -0.46},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.59683,"Mercato": 53.23755,"Cluster": 40.09543},
+{"Header": "Pezzi","Farmacia": 22194,"Mercato": 10707.72,"Cluster": 16827.07},
+{"Header": "Trend % ","Farmacia": 0.25,"Mercato": 2.35,"Cluster": 1.71} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.13 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 6.66 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.26 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -3.32 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.82 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 11.09 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 460846.5,"Mercato": 80815.47,"Cluster": 239809.3},
+{"Header": "Trend %","Farmacia": 0.13,"Mercato": 6.66,"Cluster": 7.26},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.64779,"Mercato": 41.37519,"Cluster": 56.86345},
+{"Header": "Pezzi","Farmacia": 64122,"Mercato": 7708.229,"Cluster": 25450.93},
+{"Header": "Trend % ","Farmacia": -3.32,"Mercato": 4.82,"Cluster": 11.09} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.81 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 7.42 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 9.06 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -1.5 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.58 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 9.59 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 211556.7,"Mercato": 45140.98,"Cluster": 117400.8},
+{"Header": "Trend %","Farmacia": 1.81,"Mercato": 7.42,"Cluster": 9.06},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 45.90611,"Mercato": 55.85685,"Cluster": 48.9559},
+{"Header": "Pezzi","Farmacia": 16259,"Mercato": 3715.274,"Cluster": 9760.857},
+{"Header": "Trend % ","Farmacia": -1.5,"Mercato": 5.58,"Cluster": 9.59} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -8.43 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 13.56 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 29.48 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -14.38 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 13.21 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 23.61 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -35 
+                       ,"isto_max": 35 
+                       ,"istop_min": -30 
+                       ,"istop_max": 30  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1787.7,"Mercato": 2029.329,"Cluster": 3591.338},
+{"Header": "Trend %","Farmacia": -8.43,"Mercato": 13.56,"Cluster": 29.48},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.8450217,"Mercato": 4.495537,"Cluster": 3.05904},
+{"Header": "Pezzi","Farmacia": 137,"Mercato": 155.4799,"Cluster": 282.7143},
+{"Header": "Trend % ","Farmacia": -14.38,"Mercato": 13.21,"Cluster": 23.61} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": -12.57 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 10.85 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -11.02 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.24 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 7.34 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1313,"Mercato": 789.3695,"Cluster": 1513.331},
+{"Header": "Trend %","Farmacia": -12.57,"Mercato": 0.1,"Cluster": 10.85},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.6206374,"Mercato": 1.748676,"Cluster": 1.28903},
+{"Header": "Pezzi","Farmacia": 105,"Mercato": 65.75177,"Cluster": 128.7143},
+{"Header": "Trend % ","Farmacia": -11.02,"Mercato": -1.24,"Cluster": 7.34} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.37 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 24.19 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 47.53 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -23.81 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 26.79 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 41.55 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -55 
+                       ,"isto_max": 55 
+                       ,"istop_min": -50 
+                       ,"istop_max": 50  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 474.7,"Mercato": 1239.96,"Cluster": 2078.006},
+{"Header": "Trend %","Farmacia": 5.37,"Mercato": 24.19,"Cluster": 47.53},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2243843,"Mercato": 2.74686,"Cluster": 1.77001},
+{"Header": "Pezzi","Farmacia": 32,"Mercato": 89.72813,"Cluster": 154},
+{"Header": "Trend % ","Farmacia": -23.81,"Mercato": 26.79,"Cluster": 41.55} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Gen - Nov 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.92 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.62 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.39 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.51 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.46 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.89 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 8227147,"Mercato": 2103625,"Cluster": 4615733},
+{"Header": "Delta Fatturato","Farmacia": 2.92,"Mercato": 1.62,"Cluster": 5.39},
+{"Header": "Pezzi","Farmacia": 1006231,"Mercato": 203709.2,"Cluster": 462716.1},
+{"Header": "Delta Pezzi","Farmacia": 0.51,"Mercato": 0.46,"Cluster": 4.89} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.5 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.14 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.96 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.73 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.11 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.43 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2568587,"Mercato": 1123892,"Cluster": 1935988},
+{"Header": "Trend %","Farmacia": 4.5,"Mercato": 0.14,"Cluster": 6.96},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.22087,"Mercato": 53.42646,"Cluster": 41.94324},
+{"Header": "Pezzi","Farmacia": 250192,"Mercato": 115088.5,"Cluster": 189550.4},
+{"Header": "Trend % ","Farmacia": 3.73,"Mercato": 0.11,"Cluster": 6.43} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.38 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.44 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.39 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.54 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.9 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 5259159,"Mercato": 866173.4,"Cluster": 2516196},
+{"Header": "Trend %","Farmacia": 2.38,"Mercato": 2.44,"Cluster": 3.39},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.92446,"Mercato": 41.17528,"Cluster": 54.51345},
+{"Header": "Pezzi","Farmacia": 737472,"Mercato": 83481.23,"Cluster": 264028.1},
+{"Header": "Trend % ","Farmacia": -0.54,"Mercato": 1.1,"Cluster": 3.9} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.49 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.63 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.42 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.09 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.91 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.92 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2408000,"Mercato": 482143,"Cluster": 1227001},
+{"Header": "Trend %","Farmacia": 5.49,"Mercato": 3.63,"Cluster": 4.42},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 45.78679,"Mercato": 55.66357,"Cluster": 48.76414},
+{"Header": "Pezzi","Farmacia": 184577,"Mercato": 39341,"Cluster": 100014.5},
+{"Header": "Trend % ","Farmacia": 3.09,"Mercato": 0.91,"Cluster": 2.92} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 25.27 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 14.03 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 15.25 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 15.98 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 9.14 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.84 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -30 
+                       ,"isto_max": 30 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 23468.57,"Mercato": 19286.38,"Cluster": 31959.64},
+{"Header": "Trend %","Farmacia": 25.27,"Mercato": 14.03,"Cluster": 15.25},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.9746085,"Mercato": 4.000137,"Cluster": 2.604695},
+{"Header": "Pezzi","Farmacia": 1800,"Mercato": 1461.121,"Cluster": 2495.632},
+{"Header": "Trend % ","Farmacia": 15.98,"Mercato": 9.14,"Cluster": 8.84} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 23.63 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.28 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -2 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 16.18 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -4.1 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -5.35 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -30 
+                       ,"isto_max": 30 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 18035.42,"Mercato": 8282.039,"Cluster": 14752.56},
+{"Header": "Trend %","Farmacia": 23.63,"Mercato": -1.28,"Cluster": -2},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.7489793,"Mercato": 1.717756,"Cluster": 1.202327},
+{"Header": "Pezzi","Farmacia": 1364,"Mercato": 679.5831,"Cluster": 1247.693},
+{"Header": "Trend % ","Farmacia": 16.18,"Mercato": -4.1,"Cluster": -5.35} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 31.04 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 29.11 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 35.74 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 15.34 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 24.02 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 28.02 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -40 
+                       ,"isto_max": 40 
+                       ,"istop_min": -35 
+                       ,"istop_max": 35  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 5433.15,"Mercato": 11004.34,"Cluster": 17207.07},
+{"Header": "Trend %","Farmacia": 31.04,"Mercato": 29.11,"Cluster": 35.74},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2256292,"Mercato": 2.282382,"Cluster": 1.402368},
+{"Header": "Pezzi","Farmacia": 436,"Mercato": 781.5381,"Cluster": 1247.94},
+{"Header": "Trend % ","Farmacia": 15.34,"Mercato": 24.02,"Cluster": 28.02} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Dic 2017-Nov 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.96 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 1.24 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.92 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.64 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.13 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.37 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 8961769,"Mercato": 2301778,"Cluster": 5060046},
+{"Header": "Delta Fatturato","Farmacia": 2.96,"Mercato": 1.24,"Cluster": 4.92},
+{"Header": "Pezzi","Farmacia": 1098135,"Mercato": 223198.6,"Cluster": 507450.8},
+{"Header": "Delta Pezzi","Farmacia": 0.64,"Mercato": 0.13,"Cluster": 4.37} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.79 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.27 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 6.44 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.97 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.34 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.86 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2803176,"Mercato": 1227292,"Cluster": 2112444},
+{"Header": "Trend %","Farmacia": 4.79,"Mercato": -0.27,"Cluster": 6.44},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.27927,"Mercato": 53.3193,"Cluster": 41.74753},
+{"Header": "Pezzi","Farmacia": 273275,"Mercato": 125725.4,"Cluster": 207066.6},
+{"Header": "Trend % ","Farmacia": 3.97,"Mercato": -0.34,"Cluster": 5.86} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.32 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.22 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.06 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.45 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.91 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.43 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 5722691,"Mercato": 952027.7,"Cluster": 2771871},
+{"Header": "Trend %","Farmacia": 2.32,"Mercato": 2.22,"Cluster": 3.06},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.85671,"Mercato": 41.36053,"Cluster": 54.77956},
+{"Header": "Pezzi","Farmacia": 804597,"Mercato": 91872.16,"Cluster": 290425.8},
+{"Header": "Trend % ","Farmacia": -0.45,"Mercato": 0.91,"Cluster": 3.43} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 5.42 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.21 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 3.96 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.3 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 0.35 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.24 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 2613146,"Mercato": 529845.5,"Cluster": 1350670},
+{"Header": "Trend %","Farmacia": 5.42,"Mercato": 3.21,"Cluster": 3.96},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 45.66289,"Mercato": 55.65441,"Cluster": 48.72775},
+{"Header": "Pezzi","Farmacia": 201608,"Mercato": 43536.54,"Cluster": 110794.3},
+{"Header": "Trend % ","Farmacia": 3.3,"Mercato": 0.35,"Cluster": 2.24} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 23.18 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 14.81 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 15.35 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 13.11 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 9.48 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.98 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -30 
+                       ,"isto_max": 30 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 25211.93,"Mercato": 21381.63,"Cluster": 35411.87},
+{"Header": "Trend %","Farmacia": 23.18,"Mercato": 14.81,"Cluster": 15.35},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.9648113,"Mercato": 4.035447,"Cluster": 2.621799},
+{"Header": "Pezzi","Farmacia": 1941,"Mercato": 1622.68,"Cluster": 2782.424},
+{"Header": "Trend % ","Farmacia": 13.11,"Mercato": 9.48,"Cluster": 8.98} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 20.37 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -1.23 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -2.6 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 11.5 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -4.28 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -5.9 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -25 
+                       ,"isto_max": 25 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 19322.48,"Mercato": 9155.387,"Cluster": 16303.13},
+{"Header": "Trend %","Farmacia": 20.37,"Mercato": -1.23,"Cluster": -2.6},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.7394336,"Mercato": 1.727935,"Cluster": 1.207039},
+{"Header": "Pezzi","Farmacia": 1464,"Mercato": 753.5992,"Cluster": 1386.693},
+{"Header": "Trend % ","Farmacia": 11.5,"Mercato": -4.28,"Cluster": -5.9} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 33.39 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 30.72 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 36.87 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 18.36 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 25.08 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 29.29 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -45 
+                       ,"isto_max": 45 
+                       ,"istop_min": -35 
+                       ,"istop_max": 35  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 5889.45,"Mercato": 12226.24,"Cluster": 19108.75},
+{"Header": "Trend %","Farmacia": 33.39,"Mercato": 30.72,"Cluster": 36.87},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2253778,"Mercato": 2.307511,"Cluster": 1.41476},
+{"Header": "Pezzi","Farmacia": 477,"Mercato": 869.0807,"Cluster": 1395.731},
+{"Header": "Trend % ","Farmacia": 18.36,"Mercato": 25.08,"Cluster": 29.29} 
+]
+ }
+]
+ }
+, {
+ "Periodo":"Ott 2018-Nov 2018"
+,"datiTipol":[
+ {
+ "Tipol":"Globale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 2.5 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.42 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 4.44 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -0.93 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 4.19 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 5.21 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1503327,"Mercato": 399877.1,"Cluster": 853930.3},
+{"Header": "Delta Fatturato","Farmacia": 2.5,"Mercato": 5.42,"Cluster": 4.44},
+{"Header": "Pezzi","Farmacia": 182189,"Mercato": 38646.8,"Cluster": 85905.63},
+{"Header": "Delta Pezzi","Farmacia": -0.93,"Mercato": 4.19,"Cluster": 5.21} 
+]
+ }
+, {
+ "Tipol":"Etico"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.08 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.68 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": -0.96 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 3.06 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 3.4 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 1.29 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -5 
+                       ,"isto_max": 5 
+                       ,"istop_min": -5 
+                       ,"istop_max": 5  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 472753,"Mercato": 210977.5,"Cluster": 337344.3},
+{"Header": "Trend %","Farmacia": 4.08,"Mercato": 2.68,"Cluster": -0.96},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 31.44712,"Mercato": 52.76057,"Cluster": 39.5049},
+{"Header": "Pezzi","Farmacia": 45686,"Mercato": 21719.49,"Cluster": 33673.88},
+{"Header": "Trend % ","Farmacia": 3.06,"Mercato": 3.4,"Cluster": 1.29} 
+]
+ }
+, {
+ "Tipol":"Commerciale"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 1.82 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 7.83 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.09 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -2.23 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.57 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.14 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -10 
+                       ,"isto_max": 10 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 958933.7,"Mercato": 167464.3,"Cluster": 490074.1},
+{"Header": "Trend %","Farmacia": 1.82,"Mercato": 7.83,"Cluster": 8.09},
+{"Header": "Incidenza su Fatturato Globale","Farmacia": 63.78744,"Mercato": 41.87895,"Cluster": 57.39041},
+{"Header": "Pezzi","Farmacia": 133186,"Mercato": 15965.26,"Cluster": 50652.37},
+{"Header": "Trend % ","Farmacia": -2.23,"Mercato": 5.57,"Cluster": 8.14} 
+]
+ }
+, {
+ "Tipol":"Automedicazione"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 4.1 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 8.42 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 10.52 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 0.91 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 5.7 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.68 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -10 
+                       ,"istop_max": 10  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 447640.5,"Mercato": 94239.75,"Cluster": 244905.4},
+{"Header": "Trend %","Farmacia": 4.1,"Mercato": 8.42,"Cluster": 10.52},
+{"Header": "Incidenza su Fatturato Commerciale","Farmacia": 46.68107,"Mercato": 56.27452,"Cluster": 49.97314},
+{"Header": "Pezzi","Farmacia": 34105,"Mercato": 7723.901,"Cluster": 20010.11},
+{"Header": "Trend % ","Farmacia": 0.91,"Mercato": 5.7,"Cluster": 8.68} 
+]
+ }
+, {
+ "Tipol":"Gruppo APA"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 14.48 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 17.04 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 24.35 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 6.91 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 13.17 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 14.65 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -30 
+                       ,"isto_max": 30 
+                       ,"istop_min": -20 
+                       ,"istop_max": 20  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 4230.6,"Mercato": 4221.135,"Cluster": 7190.609},
+{"Header": "Trend %","Farmacia": 14.48,"Mercato": 17.04,"Cluster": 24.35},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.9450888,"Mercato": 4.479145,"Cluster": 2.936076},
+{"Header": "Pezzi","Farmacia": 325,"Mercato": 319.9622,"Cluster": 551.7143},
+{"Header": "Trend % ","Farmacia": 6.91,"Mercato": 13.17,"Cluster": 14.65} 
+]
+ }
+, {
+ "Tipol":"Aboca + Planta"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 11.37 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 2.49 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 8.21 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": 9.95 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": -0.01 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 2.72 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -15 
+                       ,"isto_max": 15 
+                       ,"istop_min": -15 
+                       ,"istop_max": 15  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 3100.75,"Mercato": 1683.714,"Cluster": 3078.34},
+{"Header": "Trend %","Farmacia": 11.37,"Mercato": 2.49,"Cluster": 8.21},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.6926876,"Mercato": 1.786628,"Cluster": 1.25695},
+{"Header": "Pezzi","Farmacia": 243,"Mercato": 139.4208,"Cluster": 259.4018},
+{"Header": "Trend % ","Farmacia": 9.95,"Mercato": -0.01,"Cluster": 2.72} 
+]
+ }
+, {
+ "Tipol":"Apoteca Natura"
+,"isto": [
+ {
+  "name":"Farmacia"
+  ,"value": 24.01 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 29.22 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 39.99 
+  }
+ ]
+     ,"istoPezzi": [
+ {
+  "name":"Farmacia"
+  ,"value": -1.2 
+ }
+                 ,{
+  "name":"Mercato"
+   ,"value": 26.01 
+  }
+                 ,{
+  "name":"Cluster"
+   ,"value": 27.83 
+  }
+ ]
+     ,"range": [
+ {
+  "isto_min": -45 
+                       ,"isto_max": 45 
+                       ,"istop_min": -35 
+                       ,"istop_max": 35  
+}
+] ,"dati":[
+
+
+ {"Header": "Fatturato","Farmacia": 1129.85,"Mercato": 2537.421,"Cluster": 4112.27},
+{"Header": "Trend %","Farmacia": 24.01,"Mercato": 29.22,"Cluster": 39.99},
+{"Header": "Incidenza su Fatturato Automedicazione","Farmacia": 0.2524012,"Mercato": 2.692517,"Cluster": 1.679126},
+{"Header": "Pezzi","Farmacia": 82,"Mercato": 180.5414,"Cluster": 292.3125},
+{"Header": "Trend % ","Farmacia": -1.2,"Mercato": 26.01,"Cluster": 27.83} 
+]
+ }
+]
+ }
+]
+ }

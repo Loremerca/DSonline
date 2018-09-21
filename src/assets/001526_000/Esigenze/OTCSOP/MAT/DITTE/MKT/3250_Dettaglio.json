@@ -1,0 +1,14 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "RECORDATI SpA","FFt": 1,"FPz": 1,"FFatt": 2056.9,"FFatt_D": 55.79,"FPezzi": 362,"FPezzi_D": 31.64,"FQuota": 33.61,"FPrezzo": 5.68,"FRef": 2,"MFt": 1,"MPz": 1,"MFatt": 1096.55,"MFatt_D": 2.11,"MPezzi": 115,"MPezzi_D": -0.57,"MQuota": 40.1,"MPrezzo": 9.5,"MRef": 2},
+{"DscDitta": "BAYER SpA","FFt": 2,"FPz": 2,"FFatt": 1496.1,"FFatt_D": -8.84,"FPezzi": 210,"FPezzi_D": -14.98,"FQuota": 19.5,"FPrezzo": 7.12,"FRef": 3,"MFt": 2,"MPz": 2,"MFatt": 691.27,"MFatt_D": -0.76,"MPezzi": 70,"MPezzi_D": -4.64,"MQuota": 24.49,"MPrezzo": 9.81,"MRef": 3},
+{"DscDitta": "PFIZER ITALIA Srl","FFt": 3,"FPz": 4,"FFatt": 977.56,"FFatt_D": 14.33,"FPezzi": 104,"FPezzi_D": 8.33,"FQuota": 9.66,"FPrezzo": 9.4,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 73.48,"MFatt_D": 5.26,"MPezzi": 7,"MPezzi_D": -2.48,"MQuota": 2.52,"MPrezzo": 10.14,"MRef": 1},
+{"DscDitta": "ALFA WASSERMANN SpA","FFt": 4,"FPz": 3,"FFatt": 957.5,"FFatt_D": 36.83,"FPezzi": 188,"FPezzi_D": 27.03,"FQuota": 17.46,"FPrezzo": 5.09,"FRef": 1,"MFt": 4,"MPz": 4,"MFatt": 236.91,"MFatt_D": 7.62,"MPezzi": 30,"MPezzi_D": 5.95,"MQuota": 10.3,"MPrezzo": 7.99,"MRef": 1},
+{"DscDitta": "PFIZER Srl","FFt": 5,"FPz": 5,"FFatt": 703.28,"FFatt_D": 16.92,"FPezzi": 99,"FPezzi_D": 8.79,"FQuota": 9.19,"FPrezzo": 7.1,"FRef": 1,"MFt": 6,"MPz": 6,"MFatt": 412.04,"MFatt_D": 0.07,"MPezzi": 38,"MPezzi_D": -3.25,"MQuota": 13.04,"MPrezzo": 10.98,"MRef": 2},
+{"DscDitta": "VALEDO Srl","FFt": 6,"FPz": 6,"FFatt": 499.12,"FFatt_D": 40.48,"FPezzi": 63,"FPezzi_D": 31.25,"FQuota": 5.85,"FPrezzo": 7.92,"FRef": 1,"MFt": 3,"MPz": 3,"MFatt": 172.84,"MFatt_D": -4.62,"MPezzi": 19,"MPezzi_D": -9.65,"MQuota": 6.65,"MPrezzo": 9.04,"MRef": 1},
+{"DscDitta": "MEDA PHARMA SpA","FFt": 7,"FPz": 7,"FFatt": 360.1,"FFatt_D": 13.52,"FPezzi": 41,"FPezzi_D": 17.14,"FQuota": 3.81,"FPrezzo": 8.78,"FRef": 2,"MFt": 7,"MPz": 7,"MFatt": 46.07,"MFatt_D": -27.2,"MPezzi": 5,"MPezzi_D": -20.13,"MQuota": 1.64,"MPrezzo": 9.77,"MRef": 2},
+{"DscDitta": "TEOFARMA Srl","FFt": 8,"FPz": 8,"FFatt": 76.5,"FFatt_D": 50,"FPezzi": 9,"FPezzi_D": 50,"FQuota": 0.84,"FPrezzo": 8.5,"FRef": 1,"MFt": 9,"MPz": 9,"MFatt": 11.76,"MFatt_D": -11.76,"MPezzi": 1,"MPezzi_D": -32.56,"MQuota": 0.45,"MPrezzo": 9.01,"MRef": 1},
+{"DscDitta": "SIT LABORATORIO FARMAC. Srl","FFt": 9,"FPz": 9,"FFatt": 8.5,"FFatt_D": 0,"FPezzi": 1,"FPezzi_D": 0,"FQuota": 0.09,"FPrezzo": 8.5,"FRef": 1,"MFt": 8,"MPz": 8,"MFatt": 19.78,"MFatt_D": 9.95,"MPezzi": 2,"MPezzi_D": -8.33,"MQuota": 0.8,"MPrezzo": 8.63,"MRef": 1},
+{"DscDitta": "1 ditte coinvolte","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 10,"MPz": 10,"MFatt": 0.2,"MFatt_D": -82.29,"MPezzi": 0,"MPezzi_D": -100,"MQuota": 0.01,"MPrezzo": 7.88,"MRef": 0} 
+]}

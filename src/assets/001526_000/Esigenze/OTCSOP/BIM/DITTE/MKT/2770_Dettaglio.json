@@ -1,0 +1,14 @@
+{"datiDettDitta":[
+
+
+ {"DscDitta": "SERVIER ITALIA SpA","FFt": 1,"FPz": 1,"FFatt": 1820.85,"FFatt_D": 49.99,"FPezzi": 111,"FPezzi_D": 65.67,"FQuota": 45.49,"FPrezzo": 16.4,"FRef": 2,"MFt": 1,"MPz": 1,"MFatt": 483.81,"MFatt_D": 10.56,"MPezzi": 26,"MPezzi_D": 6.31,"MQuota": 39.83,"MPrezzo": 18.27,"MRef": 2},
+{"DscDitta": "STRODER Srl","FFt": 2,"FPz": 2,"FFatt": 775.5,"FFatt_D": -40.57,"FPezzi": 44,"FPezzi_D": -46.99,"FQuota": 18.03,"FPrezzo": 17.62,"FRef": 2,"MFt": 2,"MPz": 4,"MFatt": 190.45,"MFatt_D": -7.56,"MPezzi": 10,"MPezzi_D": -14.56,"MQuota": 15.76,"MPrezzo": 18.18,"MRef": 2},
+{"DscDitta": "GLAXOSMITHKLINE C.HEALTH.SpA","FFt": 3,"FPz": 3,"FFatt": 523.15,"FFatt_D": 5.82,"FPezzi": 41,"FPezzi_D": 5.13,"FQuota": 16.8,"FPrezzo": 12.76,"FRef": 2,"MFt": 4,"MPz": 2,"MFatt": 89.91,"MFatt_D": -4.63,"MPezzi": 6,"MPezzi_D": 0.54,"MQuota": 8.43,"MPrezzo": 16.03,"MRef": 2},
+{"DscDitta": "CRINOS SpA","FFt": 4,"FPz": 4,"FFatt": 267.3,"FFatt_D": 5.19,"FPezzi": 22,"FPezzi_D": 4.76,"FQuota": 9.02,"FPrezzo": 12.15,"FRef": 2,"MFt": 3,"MPz": 3,"MFatt": 144.31,"MFatt_D": 7.25,"MPezzi": 11,"MPezzi_D": 8.01,"MQuota": 16.38,"MPrezzo": 13.25,"MRef": 4},
+{"DscDitta": "VALEDO Srl","FFt": 5,"FPz": 6,"FFatt": 99.95,"FFatt_D": null,"FPezzi": 9,"FPezzi_D": null,"FQuota": 3.69,"FPrezzo": 11.11,"FRef": 2,"MFt": 6,"MPz": 6,"MFatt": 30.28,"MFatt_D": -8.22,"MPezzi": 2,"MPezzi_D": -25.64,"MQuota": 3.54,"MPrezzo": 12.86,"MRef": 2},
+{"DscDitta": "SANOFI SpA","FFt": 6,"FPz": 5,"FFatt": 92.5,"FFatt_D": -4.84,"FPezzi": 12,"FPezzi_D": -7.69,"FQuota": 4.92,"FPrezzo": 7.71,"FRef": 1,"MFt": 5,"MPz": 5,"MFatt": 61.52,"MFatt_D": 2.19,"MPezzi": 6,"MPezzi_D": 0.12,"MQuota": 8.66,"MPrezzo": 10.68,"MRef": 1},
+{"DscDitta": "SIT LABORATORIO FARMAC. Srl","FFt": 7,"FPz": 7,"FFatt": 37.5,"FFatt_D": -80,"FPezzi": 3,"FPezzi_D": -80,"FQuota": 1.23,"FPrezzo": 12.5,"FRef": 1,"MFt": 10,"MPz": 10,"MFatt": 17.1,"MFatt_D": 16.82,"MPezzi": 1,"MPezzi_D": -3.12,"MQuota": 1.77,"MPrezzo": 14.56,"MRef": 1},
+{"DscDitta": "FARMACEUTICI DAMOR SpA","FFt": 8,"FPz": 8,"FFatt": 18,"FFatt_D": -66.67,"FPezzi": 1,"FPezzi_D": -66.67,"FQuota": 0.41,"FPrezzo": 18,"FRef": 1,"MFt": 8,"MPz": 7,"MFatt": 18.07,"MFatt_D": -7.82,"MPezzi": 0.917,"MPezzi_D": -8.51,"MQuota": 1.38,"MPrezzo": 19.7,"MRef": 1},
+{"DscDitta": "PHARMADAY Srl","FFt": 9,"FPz": 9,"FFatt": 10.75,"FFatt_D": 0.47,"FPezzi": 1,"FPezzi_D": 0,"FQuota": 0.41,"FPrezzo": 10.75,"FRef": 2,"MFt": 7,"MPz": 8,"MFatt": 4.5,"MFatt_D": 6.81,"MPezzi": 0.392,"MPezzi_D": 6.57,"MQuota": 0.59,"MPrezzo": 11.48,"MRef": 1},
+{"DscDitta": "14 ditte coinvolte","FFt": 10,"FPz": 10,"FFatt": 0,"FFatt_D": -100,"FPezzi": 0,"FPezzi_D": -100,"FQuota": 0,"FPrezzo": 0,"FRef": 0,"MFt": 9,"MPz": 9,"MFatt": 28.4,"MFatt_D": -14.45,"MPezzi": 2,"MPezzi_D": -27.44,"MQuota": 3.71,"MPrezzo": 8.75,"MRef": 0} 
+]}

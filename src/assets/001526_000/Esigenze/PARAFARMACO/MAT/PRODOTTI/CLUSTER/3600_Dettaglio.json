@@ -1,0 +1,14 @@
+{"datiDettRef":[
+
+
+ {"DscProd": "LENODIAR ADULTI 20CPS 500MG","DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 1,"FPz": 1,"FFatt": 621.1,"FFatt_D": 469.82,"FPezzi": 56,"FPezzi_D": 460,"FQuota": 58.33,"FPrezzo": 11.09,"CFt": 1,"CPz": 1,"CFatt": 1106.52,"CFatt_D": 111.86,"CPezzi": 89,"CPezzi_D": 114.03,"CQuota": 47.59,"CPrezzo": 12.49},
+{"DscProd": "LENODIAR PEDIATRIC 12BUST 2G","DscDitta": "ABOCA SpA SOCIETA' AGRICOLA","FFt": 2,"FPz": 2,"FFatt": 200.05,"FFatt_D": 184.97,"FPezzi": 17,"FPezzi_D": 183.33,"FQuota": 17.71,"FPrezzo": 11.77,"CFt": 2,"CPz": 2,"CFatt": 471.54,"CFatt_D": 120.06,"CPezzi": 35,"CPezzi_D": 119.32,"CQuota": 18.8,"CPrezzo": 13.47},
+{"DscProd": "GELENTERUM DUO 12BUST","DscDitta": "ANGELINI SpA","FFt": 3,"FPz": 3,"FFatt": 155.2,"FFatt_D": 1149.6,"FPezzi": 13,"FPezzi_D": 1200,"FQuota": 13.54,"FPrezzo": 11.94,"CFt": 4,"CPz": 4,"CFatt": 307.37,"CFatt_D": 34.75,"CPezzi": 22,"CPezzi_D": 32.32,"CQuota": 12.06,"CPrezzo": 13.69},
+{"DscProd": "GELENTERUM 20BUST BAMBINI","DscDitta": "ANGELINI SpA","FFt": 4,"FPz": 4,"FFatt": 58.05,"FFatt_D": -1.59,"FPezzi": 5,"FPezzi_D": 0,"FQuota": 5.21,"FPrezzo": 11.61,"CFt": 3,"CPz": 3,"CFatt": 311.16,"CFatt_D": -16.04,"CPezzi": 24,"CPezzi_D": -18.42,"CQuota": 13.14,"CPrezzo": 12.72},
+{"DscProd": "GELENTERUM 15CPS ADULTI","DscDitta": "ANGELINI SpA","FFt": 5,"FPz": 5,"FFatt": 36.9,"FFatt_D": -39.01,"FPezzi": 3,"FPezzi_D": -40,"FQuota": 3.12,"FPrezzo": 12.3,"CFt": 5,"CPz": 5,"CFatt": 100.36,"CFatt_D": -16.56,"CPezzi": 8,"CPezzi_D": -16.16,"CQuota": 4.24,"CPrezzo": 12.72},
+{"DscProd": "DIOSMELIQUID 20BUST","DscDitta": "MONTEFARMACO OTC SpA","FFt": 6,"FPz": 6,"FFatt": 25.2,"FFatt_D": null,"FPezzi": 2,"FPezzi_D": null,"FQuota": 2.08,"FPrezzo": 12.6,"CFt": 10,"CPz": 10,"CFatt": 1.07,"CFatt_D": null,"CPezzi": 0.085,"CPezzi_D": null,"CQuota": 0.05,"CPrezzo": 12.6},
+{"DscProd": "Altre 7 referenze","DscDitta": "7 ditte coinvolte","FFt": 7,"FPz": 7,"FFatt": 0,"FFatt_D": null,"FPezzi": 0,"FPezzi_D": null,"FQuota": 0,"FPrezzo": 0,"CFt": 8,"CPz": 8,"CFatt": 6.1,"CFatt_D": -25.04,"CPezzi": 1,"CPezzi_D": 20,"CQuota": 0.35,"CPrezzo": 4.21},
+{"DscProd": "STOPPER GRANULARE 20BUSTINE","DscDitta": "INNOVARES Srl","FFt": 8,"FPz": 8,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 9,"CPz": 7,"CFatt": 22.21,"CFatt_D": 45.33,"CPezzi": 2,"CPezzi_D": 54.84,"CQuota": 1.02,"CPrezzo": 11.67},
+{"DscProd": "MODULA 36CPR","DscDitta": "MARCO ANTONETTO SpA","FFt": 9,"FPz": 9,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 7,"CPz": 9,"CFatt": 14.78,"CFatt_D": 33.36,"CPezzi": 1,"CPezzi_D": -14.29,"CQuota": 0.74,"CPrezzo": 10.7},
+{"DscProd": "COLIFAGINA D 12BUST 15ML","DscDitta": "SIIT Srl","FFt": 10,"FPz": 10,"FFatt": null,"FFatt_D": null,"FPezzi": null,"FPezzi_D": null,"FQuota": null,"FPrezzo": null,"CFt": 6,"CPz": 6,"CFatt": 50.26,"CFatt_D": null,"CPezzi": 4,"CPezzi_D": null,"CQuota": 2,"CPrezzo": 13.51} 
+]}
